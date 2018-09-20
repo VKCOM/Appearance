@@ -123,7 +123,7 @@
                 "color_identifier": "red_light"
             },
             "field_background": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_850"
             },
             "field_border": {
                 "color_identifier": "white_alpha12"
