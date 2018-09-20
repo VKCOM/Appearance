@@ -95,6 +95,18 @@
             "content_tint_foreground": {
                 "color_identifier": "gray_500"
             },
+            "control_background": {
+                "color_identifier": "gray_700"
+            },
+            "control_foreground": {
+                "color_identifier": "gray_100"
+            },
+            "control_tint": {
+                "color_identifier": "gray_900"
+            },
+            "control_tint_muted": {
+                "color_identifier": "gray_400"
+            },
             "counter_primary_background": {
                 "color_identifier": "sky_300"
             },
@@ -115,6 +127,12 @@
             },
             "field_border": {
                 "color_identifier": "white_alpha12"
+            },
+            "field_error_background": {
+                "color_identifier": "red_dark"
+            },
+            "field_error_border": {
+                "color_identifier": "red_light"
             },
             "field_text_placeholder": {
                 "color_identifier": "gray_500"
@@ -141,6 +159,9 @@
                 "color_identifier": "gray_500"
             },
             "header_text": {
+                "color_identifier": "gray_100"
+            },
+            "header_text_alternate": {
                 "color_identifier": "gray_100"
             },
             "header_tint": {
@@ -200,6 +221,9 @@
             "modal_card_background": {
                 "color_identifier": "gray_800"
             },
+            "modal_card_header_close": {
+                "color_identifier": "white"
+            },
             "music_playback_icon": {
                 "color_identifier": "white"
             },
@@ -248,6 +272,9 @@
             "separator_action_sheet": {
                 "color_identifier": "white_alpha12"
             },
+            "separator_alpha": {
+                "color_identifier": "white_alpha15"
+            },
             "separator_alternate": {
                 "color_identifier": "gray_900"
             },
@@ -259,6 +286,9 @@
             },
             "snippet_border": {
                 "color_identifier": "gray_100"
+            },
+            "stories_skeleton_loader_background": {
+                "color_identifier": "gray_700"
             },
             "switch_ios_off_border": {
                 "color_identifier": "gray_800"
@@ -397,6 +427,18 @@
             "content_tint_foreground": {
                 "color_identifier": "gray_450"
             },
+            "control_background": {
+                "color_identifier": "gray_50"
+            },
+            "control_foreground": {
+                "color_identifier": "blue_400"
+            },
+            "control_tint": {
+                "color_identifier": "white"
+            },
+            "control_tint_muted": {
+                "color_identifier": "gray_500"
+            },
             "counter_primary_background": {
                 "color_identifier": "blue_300"
             },
@@ -417,6 +459,12 @@
             },
             "field_border": {
                 "color_identifier": "black_alpha12"
+            },
+            "field_error_background": {
+                "color_identifier": "pink_light"
+            },
+            "field_error_border": {
+                "color_identifier": "red"
             },
             "field_text_placeholder": {
                 "color_identifier": "gray_400"
@@ -444,6 +492,9 @@
             },
             "header_text": {
                 "color_identifier": "white"
+            },
+            "header_text_alternate": {
+                "color_identifier": "black"
             },
             "header_tint": {
                 "color_identifier": "white"
@@ -502,6 +553,9 @@
             "modal_card_background": {
                 "color_identifier": "white"
             },
+            "modal_card_header_close": {
+                "color_identifier": "black"
+            },
             "music_playback_icon": {
                 "color_identifier": "black"
             },
@@ -550,6 +604,9 @@
             "separator_action_sheet": {
                 "color_identifier": "black_alpha12"
             },
+            "separator_alpha": {
+                "color_identifier": "black_alpha15"
+            },
             "separator_alternate": {
                 "color_identifier": "gray_100"
             },
@@ -561,6 +618,9 @@
             },
             "snippet_border": {
                 "color_identifier": "gray_600"
+            },
+            "stories_skeleton_loader_background": {
+                "color_identifier": "gray_200"
             },
             "switch_ios_off_border": {
                 "color_identifier": "gray_100"
