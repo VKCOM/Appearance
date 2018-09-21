@@ -182,7 +182,13 @@
             "icon_tertiary": {
                 "color_identifier": "gray_700"
             },
+            "im_bubble_border_alternate": {
+                "color_identifier": "clear"
+            },
             "im_bubble_incoming": {
+                "color_identifier": "gray_800"
+            },
+            "im_bubble_incoing_alternate": {
                 "color_identifier": "gray_800"
             },
             "im_bubble_incoming_highlighted": {
@@ -190,6 +196,9 @@
             },
             "im_bubble_outgoing": {
                 "color_identifier": "gray_700"
+            },
+            "im_bubble_outgoing_alternate": {
+                "color_identifier": "gray_500"
             },
             "im_bubble_outgoing_highlighted": {
                 "color_identifier": "gray_600"
@@ -520,14 +529,23 @@
             "icon_tertiary": {
                 "color_identifier": "gray_200"
             },
+            "im_bubble_border_alternate": {
+                "color_identifier": "gray_100"
+            },
             "im_bubble_incoming": {
                 "color_identifier": "gray_50"
+            },
+            "im_bubble_incoing_alternate": {
+                "color_identifier": "white"
             },
             "im_bubble_incoming_highlighted": {
                 "color_identifier": "gray_A150"
             },
             "im_bubble_outgoing": {
                 "color_identifier": "white_blue20"
+            },
+            "im_bubble_outgoing_alternate": {
+                "color_identifier": "white"
             },
             "im_bubble_outgoing_highlighted": {
                 "color_identifier": "white_blue32"
