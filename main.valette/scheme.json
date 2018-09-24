@@ -182,6 +182,12 @@
             "icon_tertiary": {
                 "color_identifier": "gray_700"
             },
+            "im_toolbar_attach_background_from": {
+                "color_identifier": "steel_gray_500"
+            },
+            "im_toolbar_attach_background_to": {
+                "color_identifier": "steel_gray_500"
+            },
             "im_bubble_border_alternate": {
                 "color_identifier": "clear"
             },
@@ -214,6 +220,9 @@
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "gray_700"
+            },
+            "im_toolbar_separator": {
+                "color_identifier": "gray_300"
             },
             "input_background": {
                 "color_identifier": "gray_700"
@@ -532,6 +541,12 @@
             "icon_tertiary": {
                 "color_identifier": "gray_200"
             },
+            "im_toolbar_attach_background_from": {
+                "color_identifier": "steel_gray_150"
+            },
+            "im_toolbar_attach_background_to": {
+                "color_identifier": "steel_gray_250"
+            },
             "im_bubble_border_alternate": {
                 "color_identifier": "gray_100"
             },
@@ -564,6 +579,9 @@
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "steel_gray_300"
+            },
+            "im_toolbar_separator": {
+                "color_identifier": "black_blue24"
             },
             "input_background": {
                 "color_identifier": "gray_40"
