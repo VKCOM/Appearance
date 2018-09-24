@@ -212,6 +212,9 @@
             "im_reply_separator": {
                 "color_identifier": "white"
             },
+            "im_toolbar_voice_msg_background": {
+                "color_identifier": "gray_700"
+            },
             "input_background": {
                 "color_identifier": "gray_700"
             },
@@ -558,6 +561,9 @@
             },
             "im_reply_separator": {
                 "color_identifier": "azure_300"
+            },
+            "im_toolbar_voice_msg_background": {
+                "color_identifier": "steel_gray_300"
             },
             "input_background": {
                 "color_identifier": "gray_40"
