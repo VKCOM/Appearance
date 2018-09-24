@@ -194,7 +194,7 @@
             "im_bubble_incoming": {
                 "color_identifier": "gray_800"
             },
-            "im_bubble_incoing_alternate": {
+            "im_bubble_incoming_alternate": {
                 "color_identifier": "gray_800"
             },
             "im_bubble_incoming_highlighted": {
@@ -553,7 +553,7 @@
             "im_bubble_incoming": {
                 "color_identifier": "gray_50"
             },
-            "im_bubble_incoing_alternate": {
+            "im_bubble_incoming_alternate": {
                 "color_identifier": "white"
             },
             "im_bubble_incoming_highlighted": {
