@@ -182,6 +182,9 @@
             "icon_tertiary": {
                 "color_identifier": "gray_700"
             },
+            "im_attach_tint": {
+                "color_identifier": "sky_300"
+            },
             "im_toolbar_attach_background_from": {
                 "color_identifier": "steel_gray_500"
             },
@@ -552,6 +555,9 @@
             },
             "icon_tertiary": {
                 "color_identifier": "gray_200"
+            },
+            "im_attach_tint": {
+                "color_identifier": "blue_400"
             },
             "im_toolbar_attach_background_from": {
                 "color_identifier": "steel_gray_150"
