@@ -263,7 +263,7 @@
             "music_playback_icon": {
                 "color_identifier": "white"
             },
-            "news_recommended_friend_background": {
+            "feed_recommended_friend_promo_background": {
                 "color_identifier": "steel_gray_500"
             },
             "overlay_status_background": {
@@ -634,7 +634,7 @@
             "music_playback_icon": {
                 "color_identifier": "black"
             },
-            "news_recommended_friend_background": {
+            "feed_recommended_friend_promo_background": {
                 "color_identifier": "blue_300"
             },
             "overlay_status_background": {
