@@ -191,11 +191,17 @@
             "im_bubble_border_alternate": {
                 "color_identifier": "clear"
             },
+            "im_bubble_border_alternate_highlighted": {
+                "color_identifier": "clear"
+            },
             "im_bubble_incoming": {
                 "color_identifier": "gray_800"
             },
             "im_bubble_incoming_alternate": {
                 "color_identifier": "gray_800"
+            },
+            "im_bubble_incoming_alternate_highlighted": {
+                "color_identifier": "gray_600"
             },
             "im_bubble_incoming_highlighted": {
                 "color_identifier": "gray_600"
@@ -204,10 +210,13 @@
                 "color_identifier": "gray_700"
             },
             "im_bubble_outgoing_alternate": {
-                "color_identifier": "gray_500"
+                "color_identifier": "gray_700"
             },
             "im_bubble_outgoing_highlighted": {
                 "color_identifier": "gray_600"
+            },
+            "im_bubble_outgoing_alternate_highlighted": {
+                "color_identifier": "gray_500"
             },
             "im_forward_line_tint": {
                 "color_identifier": "white"
@@ -253,6 +262,9 @@
             },
             "music_playback_icon": {
                 "color_identifier": "white"
+            },
+            "news_recommended_friend_background": {
+                "color_identifier": "steel_gray_500"
             },
             "overlay_status_background": {
                 "color_identifier": "gray_900"
@@ -428,7 +440,7 @@
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "gray_50"
+                "color_identifier": "black_blue45_alpha10"
             },
             "button_secondary_foreground": {
                 "color_identifier": "blue_600"
@@ -550,11 +562,17 @@
             "im_bubble_border_alternate": {
                 "color_identifier": "gray_100"
             },
+            "im_bubble_border_alternate_highlighted": {
+                "color_identifier": "gray_20"
+            },
             "im_bubble_incoming": {
                 "color_identifier": "gray_50"
             },
             "im_bubble_incoming_alternate": {
                 "color_identifier": "white"
+            },
+            "im_bubble_incoming_alternate_highlighted": {
+                "color_identifier": "gray_20"
             },
             "im_bubble_incoming_highlighted": {
                 "color_identifier": "gray_A150"
@@ -567,6 +585,9 @@
             },
             "im_bubble_outgoing_highlighted": {
                 "color_identifier": "white_blue32"
+            },
+            "im_bubble_outgoing_alternate_highlighted": {
+                "color_identifier": "gray_20"
             },
             "im_forward_line_tint": {
                 "color_identifier": "blue_600"
@@ -612,6 +633,9 @@
             },
             "music_playback_icon": {
                 "color_identifier": "black"
+            },
+            "news_recommended_friend_background": {
+                "color_identifier": "blue_300"
             },
             "overlay_status_background": {
                 "color_identifier": "gray_50"
