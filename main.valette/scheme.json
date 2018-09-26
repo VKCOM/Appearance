@@ -36,7 +36,7 @@
                 "color_identifier": "gray_850"
             },
             "background_page": {
-                "color_identifier": "gray_950"
+                "color_identifier": "gray_1000"
             },
             "background_suggestions": {
                 "color_identifier": "gray_800"
@@ -54,13 +54,13 @@
                 "color_identifier": "gray_50"
             },
             "button_muted_foreground": {
-                "color_identifier": "sky_300"
+                "color_identifier": "gray_100"
             },
             "button_outline_border": {
-                "color_identifier": "sky_300"
+                "color_identifier": "gray_100"
             },
             "button_outline_foreground": {
-                "color_identifier": "sky_300"
+                "color_identifier": "gray_100"
             },
             "button_primary_background": {
                 "color_identifier": "gray_100"
@@ -78,10 +78,10 @@
                 "color_identifier": "clear"
             },
             "button_tertiary_foreground": {
-                "color_identifier": "sky_300"
+                "color_identifier": "gray_100"
             },
             "cell_button_foreground": {
-                "color_identifier": "sky_300"
+                "color_identifier": "gray_100"
             },
             "content_placeholder_icon": {
                 "color_identifier": "gray_300"
@@ -327,7 +327,7 @@
                 "color_identifier": "gray_900"
             },
             "separator_common": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_750"
             },
             "snippet_background": {
                 "color_identifier": "gray_800"
@@ -360,7 +360,7 @@
                 "color_identifier": "gray_200"
             },
             "text_name": {
-                "color_identifier": "sky_300"
+                "color_identifier": "gray_100"
             },
             "text_placeholder": {
                 "color_identifier": "gray_300"
