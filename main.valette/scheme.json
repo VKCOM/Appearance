@@ -140,6 +140,9 @@
             "float_button_background": {
                 "color_identifier": "gray_700"
             },
+            "float_button_background_highlighted": {
+                "color_identifier": "gray_900"
+            },
             "float_button_foreground": {
                 "color_identifier": "gray_300"
             },
@@ -528,6 +531,9 @@
             },
             "float_button_background": {
                 "color_identifier": "gray_A40"
+            },
+            "float_button_background_highlighted": {
+                "color_identifier": "gray_50"
             },
             "float_button_foreground": {
                 "color_identifier": "steel_gray_300"
