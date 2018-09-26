@@ -443,7 +443,7 @@
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "black_blue45_alpha10"
+                "color_identifier": "gray_50"
             },
             "button_secondary_foreground": {
                 "color_identifier": "blue_600"
