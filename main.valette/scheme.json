@@ -141,7 +141,7 @@
                 "color_identifier": "gray_700"
             },
             "float_button_background_highlighted": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_1000"
             },
             "float_button_foreground": {
                 "color_identifier": "gray_300"
