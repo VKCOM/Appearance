@@ -137,6 +137,15 @@
             "field_text_placeholder": {
                 "color_identifier": "gray_500"
             },
+            "float_button_background": {
+                "color_identifier": "gray_700"
+            },
+            "float_button_foreground": {
+                "color_identifier": "gray_300"
+            },
+            "float_button_border": {
+                "color_identifier": "black_alpha12"
+            },
             "header_background_before_blur": {
                 "color_identifier": "gray_950"
             },
@@ -516,6 +525,15 @@
             },
             "field_text_placeholder": {
                 "color_identifier": "gray_400"
+            },
+            "float_button_background": {
+                "color_identifier": "gray_A40"
+            },
+            "float_button_foreground": {
+                "color_identifier": "steel_gray_300"
+            },
+            "float_button_border": {
+                "color_identifier": "black_alpha05"
             },
             "header_background_before_blur": {
                 "color_identifier": "blue_A400"
