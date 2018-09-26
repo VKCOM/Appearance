@@ -345,7 +345,7 @@
                 "color_identifier": "gray_800"
             },
             "snippet_border": {
-                "color_identifier": "gray_100"
+                "color_identifier": "white_alpha12"
             },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_700"
