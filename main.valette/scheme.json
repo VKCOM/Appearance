@@ -197,6 +197,12 @@
             "im_bubble_border_alternate_highlighted": {
                 "color_identifier": "clear"
             },
+            "im_bubble_button_background": {
+                "color_identifier": "gray_750"
+            },
+            "im_bubble_button_foreground": {
+                "color_identifier": "gray_100"
+            },
             "im_bubble_incoming": {
                 "color_identifier": "gray_800"
             },
@@ -570,6 +576,12 @@
             },
             "im_bubble_border_alternate_highlighted": {
                 "color_identifier": "gray_20"
+            },
+            "im_bubble_button_background": {
+                "color_identifier": "black_blue45_alpha10"
+            },
+            "im_bubble_button_foreground": {
+                "color_identifier": "blue_600"
             },
             "im_bubble_incoming": {
                 "color_identifier": "gray_50"
