@@ -342,7 +342,7 @@
                 "color_identifier": "gray_800"
             },
             "tabbar_active_icon": {
-                "color_identifier": "sky_300"
+                "color_identifier": "white"
             },
             "tabbar_inactive_icon": {
                 "color_identifier": "gray_500"
