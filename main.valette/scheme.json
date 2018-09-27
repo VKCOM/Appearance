@@ -260,6 +260,9 @@
             "input_border": {
                 "color_identifier": "gray_800"
             },
+            "like_tint": {
+                "color_identifier": "red_light"
+            },
             "link_alternate": {
                 "color_identifier": "sky_300"
             },
@@ -651,6 +654,9 @@
             },
             "input_border": {
                 "color_identifier": "gray_100"
+            },
+            "like_tint": {
+                "color_identifier": "red_nice"
             },
             "link_alternate": {
                 "color_identifier": "blue_400"
