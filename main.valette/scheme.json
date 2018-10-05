@@ -278,6 +278,12 @@
             "loader_track_value_fill": {
                 "color_identifier": "sky_300"
             },
+            "media_overlay_button_background": {
+                "color_identifier": "gray_700"
+            },
+            "media_overlay_button_foreground": {
+                "color_identifier": "gray_100"
+            },
             "modal_card_background": {
                 "color_identifier": "gray_800"
             },
@@ -678,6 +684,12 @@
             },
             "loader_track_value_fill": {
                 "color_identifier": "blue_300"
+            },
+            "media_overlay_button_background": {
+                "color_identifier": "white"
+            },
+            "media_overlay_button_foreground": {
+                "color_identifier": "gray_800"
             },
             "modal_card_background": {
                 "color_identifier": "white"
