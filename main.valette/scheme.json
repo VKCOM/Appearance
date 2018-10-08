@@ -394,6 +394,9 @@
             },
             "text_tertiary": {
                 "color_identifier": "gray_600"
+            },
+            "icon_name": {
+                "color_identifier": "gray_300"
             }
         }
     },
@@ -792,6 +795,9 @@
             },
             "text_tertiary": {
                 "color_identifier": "gray_300"
+            },
+            "icon_name": {
+                "color_identifier": "blue_200_muted"
             }
         }
     }
