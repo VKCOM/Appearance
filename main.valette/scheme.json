@@ -350,6 +350,9 @@
             "snippet_border": {
                 "color_identifier": "white_alpha12"
             },
+            "splashscreen_icon": {
+                "color_identifier": "gray_800"
+            },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_700"
             },
@@ -744,6 +747,9 @@
             },
             "snippet_border": {
                 "color_identifier": "gray_600"
+            },
+            "splashscreen_icon": {
+                "color_identifier": "gray_100"
             },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_200"
