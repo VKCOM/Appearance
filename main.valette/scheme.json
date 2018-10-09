@@ -366,10 +366,10 @@
                 "color_identifier": "gray_500"
             },
             "toolbar_attach_background_from": {
-                "color_identifier": "steel_gray_500"
+                "color_identifier": "gray_500"
             },
             "toolbar_attach_background_to": {
-                "color_identifier": "steel_gray_500"
+                "color_identifier": "gray_600"
             },
             "text_action_counter": {
                 "color_identifier": "gray_300"
