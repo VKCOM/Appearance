@@ -644,10 +644,10 @@
                 "color_identifier": "blue_600"
             },
             "im_reply_sender_text": {
-                "color_identifier": "azure_A400"
+                "color_identifier": "blue_400"
             },
             "im_reply_separator": {
-                "color_identifier": "azure_300"
+                "color_identifier": "blue_400"
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "steel_gray_300"
