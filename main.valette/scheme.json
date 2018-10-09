@@ -197,12 +197,6 @@
             "im_attach_tint": {
                 "color_identifier": "sky_300"
             },
-            "im_toolbar_attach_background_from": {
-                "color_identifier": "steel_gray_500"
-            },
-            "im_toolbar_attach_background_to": {
-                "color_identifier": "steel_gray_500"
-            },
             "im_bubble_border_alternate": {
                 "color_identifier": "clear"
             },
@@ -370,6 +364,12 @@
             },
             "tabbar_inactive_icon": {
                 "color_identifier": "gray_500"
+            },
+            "toolbar_attach_background_from": {
+                "color_identifier": "steel_gray_500"
+            },
+            "toolbar_attach_background_to": {
+                "color_identifier": "steel_gray_500"
             },
             "text_action_counter": {
                 "color_identifier": "gray_300"
@@ -604,12 +604,6 @@
             "im_attach_tint": {
                 "color_identifier": "blue_400"
             },
-            "im_toolbar_attach_background_from": {
-                "color_identifier": "steel_gray_150"
-            },
-            "im_toolbar_attach_background_to": {
-                "color_identifier": "steel_gray_250"
-            },
             "im_bubble_border_alternate": {
                 "color_identifier": "gray_40"
             },
@@ -777,6 +771,12 @@
             },
             "tabbar_inactive_icon": {
                 "color_identifier": "steel_gray_300"
+            },
+            "toolbar_attach_background_from": {
+                "color_identifier": "steel_gray_150"
+            },
+            "toolbar_attach_background_to": {
+                "color_identifier": "steel_gray_250"
             },
             "text_action_counter": {
                 "color_identifier": "steel_gray_400"
