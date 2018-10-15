@@ -359,6 +359,9 @@
             "snippet_border": {
                 "color_identifier": "white_alpha12"
             },
+            "snippet_icon_tertiary": {
+                "color_identifier": "gray_600"
+            },
             "splashscreen_icon": {
                 "color_identifier": "gray_800"
             },
@@ -774,6 +777,9 @@
             },
             "snippet_border": {
                 "color_identifier": "gray_600"
+            },
+            "snippet_icon_tertiary": {
+                "color_identifier": "gray_200"
             },
             "splashscreen_icon": {
                 "color_identifier": "gray_100"
