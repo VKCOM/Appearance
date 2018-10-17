@@ -617,10 +617,10 @@
                 "color_identifier": "blue_400"
             },
             "im_bubble_border_alternate": {
-                "color_identifier": "gray_40"
+                "color_identifier": "gray_100"
             },
             "im_bubble_border_alternate_highlighted": {
-                "color_identifier": "gray_50"
+                "color_identifier": "gray_A150"
             },
             "im_bubble_button_background": {
                 "color_identifier": "black_blue45_alpha10"
