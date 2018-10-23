@@ -317,6 +317,9 @@
             "placeholder_icon_foreground_secondary": {
                 "color_identifier": "gray_600"
             },
+            "placeholder_icon_tint": {
+                "color_identifier": "white"
+            },
             "poll_option_background": {
                 "color_identifier": "white"
             },
@@ -735,6 +738,9 @@
             },
             "placeholder_icon_foreground_secondary": {
                 "color_identifier": "steel_gray_200"
+            },
+            "placeholder_icon_tint": {
+                "color_identifier": "black_blue24"
             },
             "poll_option_background": {
                 "color_identifier": "blue_600"
