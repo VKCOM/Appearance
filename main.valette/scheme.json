@@ -418,6 +418,15 @@
             },
             "icon_name": {
                 "color_identifier": "gray_300"
+            },
+            "panel_tab_active_background": {
+                "color_identifier": "gray_700"
+            },
+            "panel_tab_active_text": {
+                "color_identifier": "gray_100"
+            },
+            "panel_tab_inactive_text": {
+                "color_identifier": "gray_500"
             }
         }
     },
@@ -840,6 +849,15 @@
             },
             "icon_name": {
                 "color_identifier": "blue_200_muted"
+            },
+            "panel_tab_active_background": {
+                "color_identifier": "gray_50"
+            },
+            "panel_tab_active_text": {
+                "color_identifier": "gray_600"
+            },
+            "panel_tab_inactive_text": {
+                "color_identifier": "gray_500"
             }
         }
     }
