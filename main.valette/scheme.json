@@ -150,7 +150,7 @@
                 "color_identifier": "black_alpha12"
             },
             "header_background": {
-                "color_identifier": "white"
+                "color_identifier": "gray_900"
             },
             "header_background_before_blur": {
                 "color_identifier": "gray_950"
@@ -590,7 +590,7 @@
                 "color_identifier": "black_alpha05"
             },
             "header_background": {
-                "color_identifier": "white"
+                "color_identifier": "blue_400"
             },
             "header_background_before_blur": {
                 "color_identifier": "blue_A400"
