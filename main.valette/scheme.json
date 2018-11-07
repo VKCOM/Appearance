@@ -1389,7 +1389,7 @@
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "azure_300_alpha10"
+                "color_identifier": "azure_300"
             },
             "button_secondary_foreground": {
                 "color_identifier": "azure_A400"
