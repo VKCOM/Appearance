@@ -1356,7 +1356,7 @@
                 "color_identifier": "gray_20"
             },
             "background_page": { 
-                "color_identifier": "white"
+                "color_identifier": "gray_50"
             },
             "background_suggestions": {
                 "color_identifier": "white"
