@@ -1467,7 +1467,7 @@
                 "color_identifier": "steel_gray_300"
             },
             "float_button_border": {
-                "color_identifier": "black_alpha10"
+                "color_identifier": "black_alpha05"
             },
             "header_background": {
                 "color_identifier": "white"
