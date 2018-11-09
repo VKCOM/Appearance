@@ -150,7 +150,7 @@
                 "color_identifier": "black_alpha12"
             },
             "header_background": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_800"
             },
             "header_background_before_blur": {
                 "color_identifier": "gray_950"
@@ -382,6 +382,9 @@
             },
             "tabbar_active_icon": {
                 "color_identifier": "white"
+            },
+            "tabbar_background": {
+                "color_identifier": "gray_800"
             },
             "tabbar_inactive_icon": {
                 "color_identifier": "gray_500"
@@ -823,6 +826,9 @@
             "tabbar_active_icon": {
                 "color_identifier": "azure_350"
             },
+            "tabbar_background": {
+                "color_identifier": "gray_20"
+            },
             "tabbar_inactive_icon": {
                 "color_identifier": "steel_gray_300"
             },
@@ -1030,7 +1036,7 @@
                 "color_identifier": "black_alpha12"
             },
             "header_background": {
-                "color_identifier": "white"
+                "color_identifier": "gray_800"
             },
             "header_background_before_blur": {
                 "color_identifier": "gray_950"
@@ -1262,6 +1268,9 @@
             },
             "tabbar_active_icon": {
                 "color_identifier": "white"
+            },
+            "tabbar_background": {
+                "color_identifier": "gray_800"
             },
             "tabbar_inactive_icon": {
                 "color_identifier": "gray_500"
@@ -1702,6 +1711,9 @@
             },
             "tabbar_active_icon": {
                 "color_identifier": "azure_350"
+            },
+            "tabbar_background": {
+                "color_identifier": "gray_800"
             },
             "tabbar_inactive_icon": {
                 "color_identifier": "steel_gray_300"
