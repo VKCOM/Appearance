@@ -1216,7 +1216,7 @@
                 "color_identifier": "white"
             },
             "search_bar_background": {
-                "color_identifier": "gray_900"
+                "color_identifier": "clear"
             },
             "search_bar_field_background": {
                 "color_identifier": "gray_700"
@@ -1659,13 +1659,13 @@
                 "color_identifier": "blue_600"
             },
             "search_bar_background": {
-                "color_identifier": "gray_50"
+                "color_identifier": "clear"
             },
             "search_bar_field_background": {
-                "color_identifier": "white"
+                "color_identifier": "gray_A40"
             },
             "search_bar_field_tint": {
-                "color_identifier": "steel_gray_300"
+                "color_identifier": "steel_gray_400"
             },
             "search_bar_segmented_control_tint": {
                 "color_identifier": "steel_gray_400"
