@@ -272,6 +272,24 @@
             "input_border": {
                 "color_identifier": "gray_800"
             },
+            "landing_background": {
+                "color_identifier": "blue_400"
+            },
+            "landing_primary_button_background": {
+                "color_identifier": "white"
+            },
+            "landing_primary_button_foreground": {
+                "color_identifier": "blue_400"
+            },
+            "landing_text_title": {
+                "color_identifier": "white"
+            },
+            "landing_text_secondary": {
+                "color_identifier": "black_alpha60"
+            },
+            "landing_snippet_border": {
+                "color_identifier": "clear"
+            },
             "like_text_tint": {
                 "color_identifier": "red_light"
             },
@@ -717,6 +735,24 @@
             },
             "input_border": {
                 "color_identifier": "gray_100"
+            },
+            "landing_background": {
+                "color_identifier": "blue_400"
+            },
+            "landing_primary_button_background": {
+                "color_identifier": "white"
+            },
+            "landing_primary_button_foreground": {
+                "color_identifier": "blue_400"
+            },
+            "landing_text_title": {
+                "color_identifier": "white"
+            },
+            "landing_text_secondary": {
+                "color_identifier": "black_alpha60"
+            },
+            "landing_snippet_border": {
+                "color_identifier": "clear"
             },
             "like_text_tint": {
                 "color_identifier": "red_nice"
@@ -1164,6 +1200,24 @@
             "input_border": {
                 "color_identifier": "gray_800"
             },
+            "landing_background": {
+                "color_identifier": "gray_900"
+            },
+            "landing_primary_button_background": {
+                "color_identifier": "white"
+            },
+            "landing_primary_button_foreground": {
+                "color_identifier": "gray_900"
+            },
+            "landing_text_title": {
+                "color_identifier": "white"
+            },
+            "landing_text_secondary": {
+                "color_identifier": "gray_500"
+            },
+            "landing_snippet_border": {
+                "color_identifier": "black_alpha15"
+            },
             "like_text_tint": {
                 "color_identifier": "red_light"
             },
@@ -1609,6 +1663,24 @@
             },
             "input_border": {
                 "color_identifier": "gray_100"
+            },
+            "landing_background": {
+                "color_identifier": "white"
+            },
+            "landing_primary_button_background": {
+                "color_identifier": "azure_300"
+            },
+            "landing_primary_button_foreground": {
+                "color_identifier": "white"
+            },
+            "landing_text_title": {
+                "color_identifier": "azure_300"
+            },
+            "landing_text_secondary": {
+                "color_identifier": "steel_gray_400"
+            },
+            "landing_snippet_border": {
+                "color_identifier": "black_alpha15"
             },
             "like_text_tint": {
                 "color_identifier": "red_nice"
