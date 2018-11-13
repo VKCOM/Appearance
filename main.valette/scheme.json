@@ -647,7 +647,7 @@
                 "color_identifier": "black"
             },
             "header_text_secondary": {
-                "color_identifier": "gray_400"
+                "color_identifier": "white_alpha60"
             },
             "header_tint": {
                 "color_identifier": "white"
