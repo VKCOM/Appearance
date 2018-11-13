@@ -182,6 +182,9 @@
             "header_text_alternate": {
                 "color_identifier": "gray_100"
             },
+            "header_text_secondary": {
+                "color_identifier": "white_alpha60"
+            },
             "header_tint": {
                 "color_identifier": "gray_100"
             },
@@ -624,6 +627,9 @@
             },
             "header_text_alternate": {
                 "color_identifier": "black"
+            },
+            "header_text_secondary": {
+                "color_identifier": "gray_400"
             },
             "header_tint": {
                 "color_identifier": "white"
@@ -1068,6 +1074,9 @@
             "header_text_alternate": {
                 "color_identifier": "gray_100"
             },
+            "header_text_secondary": {
+                "color_identifier": "white_alpha60"
+            },
             "header_tint": {
                 "color_identifier": "gray_100"
             },
@@ -1510,6 +1519,9 @@
             },
             "header_text_alternate": {
                 "color_identifier": "black"
+            },
+            "header_text_secondary": {
+                "color_identifier": "white_alpha60"
             },
             "header_tint": {
                 "color_identifier": "azure_300"
