@@ -1521,7 +1521,7 @@
                 "color_identifier": "black"
             },
             "header_text_secondary": {
-                "color_identifier": "white_alpha60"
+                "color_identifier": "steel_gray_400"
             },
             "header_tint": {
                 "color_identifier": "azure_300"
