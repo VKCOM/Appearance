@@ -90,7 +90,7 @@
                 "color_identifier": "gray_300"
             },
             "content_tint_background": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_850"
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_500"
@@ -182,6 +182,9 @@
             "header_text_alternate": {
                 "color_identifier": "gray_100"
             },
+            "header_text_secondary": {
+                "color_identifier": "white_alpha60"
+            },
             "header_tint": {
                 "color_identifier": "gray_100"
             },
@@ -268,6 +271,24 @@
             },
             "input_border": {
                 "color_identifier": "gray_800"
+            },
+            "landing_background": {
+                "color_identifier": "blue_400"
+            },
+            "landing_primary_button_background": {
+                "color_identifier": "white"
+            },
+            "landing_primary_button_foreground": {
+                "color_identifier": "blue_400"
+            },
+            "landing_text_title": {
+                "color_identifier": "white"
+            },
+            "landing_text_secondary": {
+                "color_identifier": "black_alpha60"
+            },
+            "landing_snippet_border": {
+                "color_identifier": "clear"
             },
             "like_text_tint": {
                 "color_identifier": "red_light"
@@ -625,6 +646,9 @@
             "header_text_alternate": {
                 "color_identifier": "black"
             },
+            "header_text_secondary": {
+                "color_identifier": "white_alpha60"
+            },
             "header_tint": {
                 "color_identifier": "white"
             },
@@ -711,6 +735,24 @@
             },
             "input_border": {
                 "color_identifier": "gray_100"
+            },
+            "landing_background": {
+                "color_identifier": "blue_400"
+            },
+            "landing_primary_button_background": {
+                "color_identifier": "white"
+            },
+            "landing_primary_button_foreground": {
+                "color_identifier": "blue_400"
+            },
+            "landing_text_title": {
+                "color_identifier": "white"
+            },
+            "landing_text_secondary": {
+                "color_identifier": "black_alpha60"
+            },
+            "landing_snippet_border": {
+                "color_identifier": "clear"
             },
             "like_text_tint": {
                 "color_identifier": "red_nice"
@@ -976,7 +1018,7 @@
                 "color_identifier": "gray_300"
             },
             "content_tint_background": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_850"
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_500"
@@ -1068,6 +1110,9 @@
             "header_text_alternate": {
                 "color_identifier": "gray_100"
             },
+            "header_text_secondary": {
+                "color_identifier": "white_alpha60"
+            },
             "header_tint": {
                 "color_identifier": "gray_100"
             },
@@ -1155,6 +1200,24 @@
             "input_border": {
                 "color_identifier": "gray_800"
             },
+            "landing_background": {
+                "color_identifier": "gray_900"
+            },
+            "landing_primary_button_background": {
+                "color_identifier": "white"
+            },
+            "landing_primary_button_foreground": {
+                "color_identifier": "gray_900"
+            },
+            "landing_text_title": {
+                "color_identifier": "white"
+            },
+            "landing_text_secondary": {
+                "color_identifier": "gray_500"
+            },
+            "landing_snippet_border": {
+                "color_identifier": "black_alpha15"
+            },
             "like_text_tint": {
                 "color_identifier": "red_light"
             },
@@ -1216,7 +1279,7 @@
                 "color_identifier": "white"
             },
             "search_bar_background": {
-                "color_identifier": "gray_900"
+                "color_identifier": "clear"
             },
             "search_bar_field_background": {
                 "color_identifier": "gray_700"
@@ -1511,6 +1574,9 @@
             "header_text_alternate": {
                 "color_identifier": "black"
             },
+            "header_text_secondary": {
+                "color_identifier": "steel_gray_400"
+            },
             "header_tint": {
                 "color_identifier": "azure_300"
             },
@@ -1598,6 +1664,24 @@
             "input_border": {
                 "color_identifier": "gray_100"
             },
+            "landing_background": {
+                "color_identifier": "white"
+            },
+            "landing_primary_button_background": {
+                "color_identifier": "azure_300"
+            },
+            "landing_primary_button_foreground": {
+                "color_identifier": "white"
+            },
+            "landing_text_title": {
+                "color_identifier": "azure_300"
+            },
+            "landing_text_secondary": {
+                "color_identifier": "steel_gray_400"
+            },
+            "landing_snippet_border": {
+                "color_identifier": "black_alpha15"
+            },
             "like_text_tint": {
                 "color_identifier": "red_nice"
             },
@@ -1659,13 +1743,13 @@
                 "color_identifier": "blue_600"
             },
             "search_bar_background": {
-                "color_identifier": "gray_50"
+                "color_identifier": "clear"
             },
             "search_bar_field_background": {
-                "color_identifier": "white"
+                "color_identifier": "gray_A40"
             },
             "search_bar_field_tint": {
-                "color_identifier": "steel_gray_300"
+                "color_identifier": "steel_gray_400"
             },
             "search_bar_segmented_control_tint": {
                 "color_identifier": "steel_gray_400"
