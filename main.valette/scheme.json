@@ -90,7 +90,7 @@
                 "color_identifier": "gray_300"
             },
             "content_tint_background": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_850"
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_500"
@@ -1018,7 +1018,7 @@
                 "color_identifier": "gray_300"
             },
             "content_tint_background": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_850"
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_500"
