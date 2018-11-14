@@ -931,7 +931,7 @@
         "appearance": "dark",
         "colors": {
             "accent": {
-                "color_identifier": "white"
+                "color_identifier": "sky_300"
             },
             "activity_indicator_tint": {
                 "color_identifier": "gray_50"
