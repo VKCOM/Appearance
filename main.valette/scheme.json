@@ -285,7 +285,7 @@
                 "color_identifier": "white"
             },
             "landing_text_secondary": {
-                "color_identifier": "black_alpha60"
+                "color_identifier": "white_alpha60"
             },
             "landing_snippet_border": {
                 "color_identifier": "clear"
@@ -749,7 +749,7 @@
                 "color_identifier": "white"
             },
             "landing_text_secondary": {
-                "color_identifier": "black_alpha60"
+                "color_identifier": "white_alpha60"
             },
             "landing_snippet_border": {
                 "color_identifier": "clear"
