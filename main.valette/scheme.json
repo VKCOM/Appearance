@@ -1530,10 +1530,10 @@
                 "color_identifier": "gray_400"
             },
             "float_button_background": {
-                "color_identifier": "white"
+                "color_identifier": "gray_A40"
             },
             "float_button_background_highlighted": {
-                "color_identifier": "gray_20"
+                "color_identifier": "gray_50"
             },
             "float_button_foreground": {
                 "color_identifier": "steel_gray_300"
