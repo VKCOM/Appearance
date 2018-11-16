@@ -171,7 +171,7 @@
                 "color_identifier": "gray_100"
             },
             "header_tab_active_indicator": {
-                "color_identifier": "azure_A400"
+                "color_identifier": "gray_100"
             },
             "header_tab_inactive_text": {
                 "color_identifier": "gray_500"
@@ -635,7 +635,7 @@
                 "color_identifier": "white"
             },
             "header_tab_active_indicator": {
-                "color_identifier": "azure_A400"
+                "color_identifier": "white"
             },
             "header_tab_inactive_text": {
                 "color_identifier": "blue_overlight_2_alpha80"
