@@ -8,6 +8,9 @@
             "action_sheet_action_foreground": {
                 "color_identifier": "white"
             },
+            "action_sheet_separator": {
+                "color_identifier": "white_alpha12"
+            },
             "activity_indicator_tint": {
                 "color_identifier": "gray_50"
             },
@@ -374,9 +377,6 @@
             "selection_off_icon": {
                 "color_identifier": "gray_700"
             },
-            "separator_action_sheet": {
-                "color_identifier": "white_alpha12"
-            },
             "separator_alpha": {
                 "color_identifier": "white_alpha15"
             },
@@ -474,6 +474,9 @@
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "azure_300"
+            },
+            "action_sheet_separator": {
+                "color_identifier": "black_alpha12"
             },
             "activity_indicator_tint": {
                 "color_identifier": "gray_700"
@@ -841,9 +844,6 @@
             "selection_off_icon": {
                 "color_identifier": "gray_200"
             },
-            "separator_action_sheet": {
-                "color_identifier": "black_alpha12"
-            },
             "separator_alpha": {
                 "color_identifier": "black_alpha15"
             },
@@ -941,6 +941,9 @@
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "white"
+            },
+            "action_sheet_separator": {
+                "color_identifier": "white_alpha12"
             },
             "activity_indicator_tint": {
                 "color_identifier": "gray_50"
@@ -1308,9 +1311,6 @@
             "selection_off_icon": {
                 "color_identifier": "gray_700"
             },
-            "separator_action_sheet": {
-                "color_identifier": "white_alpha12"
-            },
             "separator_alpha": {
                 "color_identifier": "white_alpha15"
             },
@@ -1408,6 +1408,9 @@
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "azure_300"
+            },
+            "action_sheet_separator": {
+                "color_identifier": "black_alpha12"
             },
             "activity_indicator_tint": {
                 "color_identifier": "gray_700"
@@ -1774,9 +1777,6 @@
             },
             "selection_off_icon": {
                 "color_identifier": "steel_gray_150"
-            },
-            "separator_action_sheet": {
-                "color_identifier": "black_alpha12"
             },
             "separator_alpha": {
                 "color_identifier": "black_alpha15"
