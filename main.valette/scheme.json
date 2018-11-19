@@ -5,6 +5,9 @@
             "accent": {
                 "color_identifier": "sky_300"
             },
+            "action_sheet_action_foreground": {
+                "color_identifier": "white"
+            },
             "activity_indicator_tint": {
                 "color_identifier": "gray_50"
             },
@@ -468,6 +471,9 @@
         "colors": {
             "accent": {
                 "color_identifier": "blue_300"
+            },
+            "action_sheet_action_foreground": {
+                "color_identifier": "azure_300"
             },
             "activity_indicator_tint": {
                 "color_identifier": "gray_700"
@@ -933,6 +939,9 @@
             "accent": {
                 "color_identifier": "sky_300"
             },
+            "action_sheet_action_foreground": {
+                "color_identifier": "white"
+            },
             "activity_indicator_tint": {
                 "color_identifier": "gray_50"
             },
@@ -1395,6 +1404,9 @@
         "appearance": "light",
         "colors": {
             "accent": {
+                "color_identifier": "azure_300"
+            },
+            "action_sheet_action_foreground": {
                 "color_identifier": "azure_300"
             },
             "activity_indicator_tint": {
