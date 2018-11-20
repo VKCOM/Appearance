@@ -326,6 +326,9 @@
             "modal_card_background": {
                 "color_identifier": "gray_800"
             },
+            "modal_card_border": {
+                "color_identifier": "white_alpha12"
+            },
             "modal_card_header_close": {
                 "color_identifier": "white"
             },
@@ -795,6 +798,9 @@
             },
             "modal_card_background": {
                 "color_identifier": "white"
+            },
+            "modal_card_border": {
+                "color_identifier": "clear"
             },
             "modal_card_header_close": {
                 "color_identifier": "black"
@@ -1266,6 +1272,9 @@
             "modal_card_background": {
                 "color_identifier": "gray_800"
             },
+            "modal_card_border": {
+                "color_identifier": "white_alpha12"
+            },
             "modal_card_header_close": {
                 "color_identifier": "white"
             },
@@ -1735,6 +1744,9 @@
             },
             "modal_card_background": {
                 "color_identifier": "white"
+            },
+            "modal_card_border": {
+                "color_identifier": "clear"
             },
             "modal_card_header_close": {
                 "color_identifier": "black"
