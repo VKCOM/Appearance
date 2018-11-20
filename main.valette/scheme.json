@@ -35,6 +35,9 @@
             "background_content": {
                 "color_identifier": "gray_900"
             },
+            "background_highlighted": {
+                "color_identifier": "white_alpha12"
+            },
             "background_keyboard": {
                 "color_identifier": "gray_800"
             },
@@ -501,6 +504,9 @@
             },
             "background_content": {
                 "color_identifier": "white"
+            },
+            "background_highlighted": {
+                "color_identifier": "black_alpha12"
             },
             "background_keyboard": {
                 "color_identifier": "gray_100"
@@ -969,6 +975,9 @@
             "background_content": {
                 "color_identifier": "gray_900"
             },
+            "background_highlighted": {
+                "color_identifier": "white_alpha12"
+            },
             "background_keyboard": {
                 "color_identifier": "gray_800"
             },
@@ -1435,6 +1444,9 @@
             },
             "background_content": {
                 "color_identifier": "white"
+            },
+            "background_highlighted": {
+                "color_identifier": "black_alpha12"
             },
             "background_keyboard": {
                 "color_identifier": "gray_100"
