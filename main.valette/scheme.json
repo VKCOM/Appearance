@@ -476,7 +476,7 @@
                 "color_identifier": "blue_300"
             },
             "action_sheet_action_foreground": {
-                "color_identifier": "azure_300"
+                "color_identifier": "azure_A100"
             },
             "action_sheet_separator": {
                 "color_identifier": "black_alpha12"
