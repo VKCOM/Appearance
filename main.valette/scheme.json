@@ -908,7 +908,7 @@
                 "color_identifier": "black"
             },
             "text_muted": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_800"
             },
             "text_name": {
                 "color_identifier": "blue_600"
@@ -1854,7 +1854,7 @@
                 "color_identifier": "black"
             },
             "text_muted": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_800"
             },
             "text_name": {
                 "color_identifier": "azure_A400"
