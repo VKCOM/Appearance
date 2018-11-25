@@ -12,7 +12,7 @@
                 "color_identifier": "white_alpha12"
             },
             "activity_indicator_tint": {
-                "color_identifier": "gray_50"
+                "color_identifier": "gray_600"
             },
             "attach_picker_tab_active_background": {
                 "color_identifier": "gray_100"
@@ -485,7 +485,7 @@
                 "color_identifier": "black_alpha12"
             },
             "activity_indicator_tint": {
-                "color_identifier": "gray_700"
+                "color_identifier": "steel_gray_200"
             },
             "attach_picker_tab_active_background": {
                 "color_identifier": "blue_400"
@@ -958,7 +958,7 @@
                 "color_identifier": "white_alpha12"
             },
             "activity_indicator_tint": {
-                "color_identifier": "gray_50"
+                "color_identifier": "gray_600"
             },
             "attach_picker_tab_active_background": {
                 "color_identifier": "gray_100"
@@ -1431,7 +1431,7 @@
                 "color_identifier": "black_alpha12"
             },
             "activity_indicator_tint": {
-                "color_identifier": "gray_700"
+                "color_identifier": "steel_gray_200"
             },
             "attach_picker_tab_active_background": {
                 "color_identifier": "blue_400"
