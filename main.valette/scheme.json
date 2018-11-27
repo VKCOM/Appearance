@@ -1599,10 +1599,10 @@
                 "color_identifier": "white"
             },
             "header_search_field_background": {
-                "color_identifier": "blue_A800"
+                "color_identifier": "gray_A40"
             },
             "header_search_field_tint": {
-                "color_identifier": "blue_overlight_3"
+                "color_identifier": "steel_gray_400"
             },
             "header_tab_active_background": {
                 "color_identifier": "blue_overlight_1_alpha32"
