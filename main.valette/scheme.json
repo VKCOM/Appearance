@@ -158,6 +158,9 @@
             "float_button_border": {
                 "color_identifier": "black_alpha12"
             },
+            "header_alternate_background": {
+                "color_identifier": "gray_800"
+            },
             "header_background": {
                 "color_identifier": "gray_800"
             },
@@ -630,6 +633,9 @@
             },
             "float_button_border": {
                 "color_identifier": "black_alpha05"
+            },
+            "header_alternate_background": {
+                "color_identifier": "white"
             },
             "header_background": {
                 "color_identifier": "blue_400"
@@ -1104,6 +1110,9 @@
             "float_button_border": {
                 "color_identifier": "black_alpha12"
             },
+            "header_alternate_background": {
+                "color_identifier": "gray_800"
+            },
             "header_background": {
                 "color_identifier": "gray_800"
             },
@@ -1576,6 +1585,9 @@
             },
             "float_button_border": {
                 "color_identifier": "black_alpha05"
+            },
+            "header_alternate_background": {
+                "color_identifier": "white"
             },
             "header_background": {
                 "color_identifier": "white"
