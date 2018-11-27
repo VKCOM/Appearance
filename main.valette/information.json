@@ -1,7 +1,6 @@
 {
 	"documentation": {
 		"scheme_colors": {
-			"placeholder_icon_background": "Should be used with 0.08 alpha",
 			"modal_card_header_close": "Should be used with 0.28 alpha"
 		}
 	}
