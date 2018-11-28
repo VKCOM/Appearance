@@ -375,7 +375,7 @@
                 "color_identifier": "gray_300"
             },
             "search_bar_segmented_control_tint": {
-                "color_identifier": "gray_500"
+                "color_identifier": "gray_400"
             },
             "segmented_control_bar_background": {
                 "color_identifier": "gray_900"
@@ -1327,7 +1327,7 @@
                 "color_identifier": "gray_300"
             },
             "search_bar_segmented_control_tint": {
-                "color_identifier": "gray_500"
+                "color_identifier": "gray_400"
             },
             "segmented_control_bar_background": {
                 "color_identifier": "gray_900"
