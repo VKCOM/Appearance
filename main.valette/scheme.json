@@ -1827,7 +1827,7 @@
                 "color_identifier": "white"
             },
             "snippet_border": {
-                "color_identifier": "gray_600"
+                "color_identifier": "black_alpha12"
             },
             "snippet_icon_tertiary": {
                 "color_identifier": "gray_200"
