@@ -554,7 +554,7 @@
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "gray_50"
+                "color_identifier": "black_blue45_alpha10"
             },
             "button_secondary_foreground": {
                 "color_identifier": "blue_600"
@@ -1506,7 +1506,7 @@
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "gray_50"
+                "color_identifier": "black_blue45_alpha10"
             },
             "button_secondary_foreground": {
                 "color_identifier": "azure_A400"
