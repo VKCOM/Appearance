@@ -278,6 +278,9 @@
             "im_toolbar_separator": {
                 "color_identifier": "gray_300"
             },
+            "image_border": {
+                "color_identifier": "white_alpha8"
+            },
             "input_background": {
                 "color_identifier": "gray_700"
             },
@@ -753,6 +756,9 @@
             },
             "im_toolbar_separator": {
                 "color_identifier": "black_blue24"
+            },
+            "image_border": {
+                "color_identifier": "black_alpha8"
             },
             "input_background": {
                 "color_identifier": "gray_40"
@@ -1230,6 +1236,9 @@
             "im_toolbar_separator": {
                 "color_identifier": "gray_300"
             },
+            "image_border": {
+                "color_identifier": "white_alpha8"
+            },
             "input_background": {
                 "color_identifier": "gray_700"
             },
@@ -1705,6 +1714,9 @@
             },
             "im_toolbar_separator": {
                 "color_identifier": "black_blue24"
+            },
+            "image_border": {
+                "color_identifier": "black_alpha8"
             },
             "input_background": {
                 "color_identifier": "gray_40"
