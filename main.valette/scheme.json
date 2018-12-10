@@ -475,6 +475,9 @@
             },
             "im_service_message_text": {
                 "color_identifier": "steel_gray_400"
+            },
+            "writebar_icon": {
+                "color_identifier": "gray_400"
             }
         }
     },
@@ -954,6 +957,9 @@
             },
             "im_service_message_text": {
                 "color_identifier": "steel_gray_400"
+            },
+            "writebar_icon": {
+                "color_identifier": "steel_gray_300"
             }
         }
     },
@@ -1433,6 +1439,9 @@
             },
             "im_service_message_text": {
                 "color_identifier": "gray_500"
+            },
+            "writebar_icon": {
+                "color_identifier": "gray_100"
             }
         }
     },
@@ -1912,6 +1921,9 @@
             },
             "im_service_message_text": {
                 "color_identifier": "steel_gray_400"
+            },
+            "writebar_icon": {
+                "color_identifier": "azure_300"
             }
         }
     }
