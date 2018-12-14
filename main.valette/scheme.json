@@ -60,7 +60,7 @@
                 "color_identifier": "white"
             },
             "button_muted_background": {
-                "color_identifier": "gray_50"
+                "color_identifier": "gray_800"
             },
             "button_muted_foreground": {
                 "color_identifier": "gray_100"
@@ -1024,7 +1024,7 @@
                 "color_identifier": "white"
             },
             "button_muted_background": {
-                "color_identifier": "gray_50"
+                "color_identifier": "gray_800"
             },
             "button_muted_foreground": {
                 "color_identifier": "gray_100"
@@ -1755,7 +1755,7 @@
                 "color_identifier": "red_nice"
             },
             "link_alternate": {
-                "color_identifier": "blue_400"
+                "color_identifier": "azure_A400"
             },
             "loader_background": {
                 "color_identifier": "gray_50"
