@@ -161,6 +161,15 @@
             "header_alternate_background": {
                 "color_identifier": "gray_800"
             },
+            "header_alternate_tab_active_indicator": {
+                "color_identifier": "gray_100"
+            },
+            "header_alternate_tab_active_text": {
+                "color_identifier": "gray_100"
+            },
+            "header_alternate_tab_inactive_text": {
+                "color_identifier": "gray_500"
+            },
             "header_background": {
                 "color_identifier": "gray_800"
             },
@@ -642,6 +651,15 @@
             },
             "header_alternate_background": {
                 "color_identifier": "white"
+            },
+            "header_alternate_tab_active_indicator": {
+                "color_identifier": "blue_300"
+            },
+            "header_alternate_tab_active_text": {
+                "color_identifier": "blue_300"
+            },
+            "header_alternate_tab_inactive_text": {
+                "color_identifier": "gray_400"
             },
             "header_background": {
                 "color_identifier": "blue_400"
@@ -1125,6 +1143,15 @@
             "header_alternate_background": {
                 "color_identifier": "gray_800"
             },
+            "header_alternate_tab_active_indicator": {
+                "color_identifier": "gray_100"
+            },
+            "header_alternate_tab_active_text": {
+                "color_identifier": "gray_100"
+            },
+            "header_alternate_tab_inactive_text": {
+                "color_identifier": "gray_500"
+            },
             "header_background": {
                 "color_identifier": "gray_800"
             },
@@ -1606,6 +1633,15 @@
             },
             "header_alternate_background": {
                 "color_identifier": "white"
+            },
+            "header_alternate_tab_active_indicator": {
+                "color_identifier": "azure_300"
+            },
+            "header_alternate_tab_active_text": {
+                "color_identifier": "azure_300"
+            },
+            "header_alternate_tab_inactive_text": {
+                "color_identifier": "steel_gray_300"
             },
             "header_background": {
                 "color_identifier": "white"
