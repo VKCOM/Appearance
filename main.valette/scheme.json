@@ -1153,7 +1153,7 @@
                 "color_identifier": "gray_500"
             },
             "header_background": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_900"
             },
             "header_background_before_blur": {
                 "color_identifier": "gray_A970"
