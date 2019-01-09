@@ -294,7 +294,7 @@
                 "color_identifier": "white_alpha8"
             },
             "input_background": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_800"
             },
             "input_border": {
                 "color_identifier": "gray_800"
@@ -1282,7 +1282,7 @@
                 "color_identifier": "white_alpha8"
             },
             "input_background": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_800"
             },
             "input_border": {
                 "color_identifier": "gray_800"
