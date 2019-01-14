@@ -422,6 +422,9 @@
             "splashscreen_icon": {
                 "color_identifier": "gray_800"
             },
+            "statusbar_alternate_legacy_background": {
+                "color_identifier": "clear"
+            },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_700"
             },
@@ -915,6 +918,9 @@
             },
             "splashscreen_icon": {
                 "color_identifier": "gray_100"
+            },
+            "statusbar_alternate_legacy_background": {
+                "color_identifier": "black_alpha20"
             },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_200"
@@ -1410,6 +1416,9 @@
             "splashscreen_icon": {
                 "color_identifier": "gray_800"
             },
+            "statusbar_alternate_legacy_background": {
+                "color_identifier": "clear"
+            },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_700"
             },
@@ -1903,6 +1912,9 @@
             },
             "splashscreen_icon": {
                 "color_identifier": "gray_100"
+            },
+            "statusbar_alternate_legacy_background": {
+                "color_identifier": "black_alpha20"
             },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_200"
