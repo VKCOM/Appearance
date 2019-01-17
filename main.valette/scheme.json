@@ -218,6 +218,9 @@
             "icon_medium": {
                 "color_identifier": "gray_400"
             },
+            "icon_outline_medium": {
+                "color_identifier": "gray_300"
+            },
             "icon_outline_secondary": {
                 "color_identifier": "gray_400"
             },
@@ -714,6 +717,9 @@
             },
             "icon_medium": {
                 "color_identifier": "gray_400"
+            },
+            "icon_outline_medium": {
+                "color_identifier": "steel_gray_400"
             },
             "icon_outline_secondary": {
                 "color_identifier": "steel_gray_300"
@@ -1212,6 +1218,9 @@
             "icon_medium": {
                 "color_identifier": "gray_400"
             },
+            "icon_outline_medium": {
+                "color_identifier": "gray_300"
+            },
             "icon_outline_secondary": {
                 "color_identifier": "gray_400"
             },
@@ -1707,6 +1716,9 @@
                 "color_identifier": "white"
             },
             "icon_medium": {
+                "color_identifier": "steel_gray_400"
+            },
+            "icon_outline_medium": {
                 "color_identifier": "steel_gray_400"
             },
             "icon_outline_secondary": {
