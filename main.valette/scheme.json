@@ -143,6 +143,9 @@
             "field_error_border": {
                 "color_identifier": "red_light"
             },
+            "field_valid_border": {
+                "color_identifier": "green"
+            },
             "field_text_placeholder": {
                 "color_identifier": "gray_500"
             },
@@ -642,6 +645,9 @@
             },
             "field_error_border": {
                 "color_identifier": "red"
+            },
+            "field_valid_border": {
+                "color_identifier": "green"
             },
             "field_text_placeholder": {
                 "color_identifier": "gray_400"
@@ -1143,6 +1149,9 @@
             "field_error_border": {
                 "color_identifier": "red_light"
             },
+            "field_valid_border": {
+                "color_identifier": "green"
+            },
             "field_text_placeholder": {
                 "color_identifier": "gray_500"
             },
@@ -1642,6 +1651,9 @@
             },
             "field_error_border": {
                 "color_identifier": "red"
+            },
+            "field_valid_border": {
+                "color_identifier": "green"
             },
             "field_text_placeholder": {
                 "color_identifier": "gray_400"
