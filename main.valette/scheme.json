@@ -306,19 +306,37 @@
                 "color_identifier": "gray_700"
             },
             "landing_background": {
-                "color_identifier": "blue_400"
+                "color_identifier": "gray_900"
+            },
+            "landing_login_button_background": {
+                "color_identifier": "gray_100"
+            },
+            "landing_login_button_foreground": {
+                "color_identifier": "gray_900"
             },
             "landing_primary_button_background": {
-                "color_identifier": "white"
+                "color_identifier": "gray_100"
             },
             "landing_primary_button_foreground": {
-                "color_identifier": "blue_400"
+                "color_identifier": "gray_900"
+            },
+            "landing_tertiary_button_background": {
+                "color_identifier": "clear"
+            },
+            "landing_tertiary_button_foreground": {
+                "color_identifier": "gray_500"
             },
             "landing_text_title": {
                 "color_identifier": "white"
             },
             "landing_text_secondary": {
-                "color_identifier": "white_alpha60"
+                "color_identifier": "gray_500"
+            },
+            "landing_secondary_button_background": {
+                "color_identifier": "white_alpha15"
+            },
+            "landing_secondary_button_foreground": {
+                "color_identifier": "white"
             },
             "landing_snippet_border": {
                 "color_identifier": "clear"
@@ -809,19 +827,37 @@
                 "color_identifier": "gray_100"
             },
             "landing_background": {
-                "color_identifier": "blue_400"
+                "color_identifier": "blue_300"
+            },
+            "landing_login_button_background": {
+                "color_identifier": "black_blue24_alpha24"
+            },
+            "landing_login_button_foreground": {
+                "color_identifier": "white"
             },
             "landing_primary_button_background": {
                 "color_identifier": "white"
             },
             "landing_primary_button_foreground": {
-                "color_identifier": "blue_400"
+                "color_identifier": "gray_800"
+            },
+            "landing_tertiary_button_background": {
+                "color_identifier": "clear"
+            },
+            "landing_tertiary_button_foreground": {
+                "color_identifier": "blue_overlight_2_alpha80"
             },
             "landing_text_title": {
                 "color_identifier": "white"
             },
             "landing_text_secondary": {
                 "color_identifier": "white_alpha60"
+            },
+            "landing_secondary_button_background": {
+                "color_identifier": "white_alpha15"
+            },
+            "landing_secondary_button_foreground": {
+                "color_identifier": "white"
             },
             "landing_snippet_border": {
                 "color_identifier": "clear"
@@ -1314,11 +1350,23 @@
             "landing_background": {
                 "color_identifier": "gray_900"
             },
+            "landing_login_button_background": {
+                "color_identifier": "gray_100"
+            },
+            "landing_login_button_foreground": {
+                "color_identifier": "gray_900"
+            },
             "landing_primary_button_background": {
-                "color_identifier": "white"
+                "color_identifier": "gray_100"
             },
             "landing_primary_button_foreground": {
                 "color_identifier": "gray_900"
+            },
+            "landing_tertiary_button_background": {
+                "color_identifier": "clear"
+            },
+            "landing_tertiary_button_foreground": {
+                "color_identifier": "white"
             },
             "landing_text_title": {
                 "color_identifier": "white"
@@ -1326,8 +1374,14 @@
             "landing_text_secondary": {
                 "color_identifier": "gray_500"
             },
+            "landing_secondary_button_background": {
+                "color_identifier": "white_alpha15"
+            },
+            "landing_secondary_button_foreground": {
+                "color_identifier": "white"
+            },
             "landing_snippet_border": {
-                "color_identifier": "black_alpha15"
+                "color_identifier": "white_alpha15"
             },
             "like_text_tint": {
                 "color_identifier": "red_light"
@@ -1817,17 +1871,35 @@
             "landing_background": {
                 "color_identifier": "white"
             },
+            "landing_login_button_background": {
+                "color_identifier": "azure_300"
+            },
+            "landing_login_button_foreground": {
+                "color_identifier": "white"
+            },
             "landing_primary_button_background": {
                 "color_identifier": "azure_300"
             },
             "landing_primary_button_foreground": {
                 "color_identifier": "white"
             },
+            "landing_tertiary_button_background": {
+                "color_identifier": "clear"
+            },
+            "landing_tertiary_button_foreground": {
+                "color_identifier": "azure_300"
+            },
             "landing_text_title": {
                 "color_identifier": "azure_300"
             },
             "landing_text_secondary": {
                 "color_identifier": "steel_gray_400"
+            },
+            "landing_secondary_button_background": {
+                "color_identifier": "black_blue45_alpha10"
+            },
+            "landing_secondary_button_foreground": {
+                "color_identifier": "azure_A400"
             },
             "landing_snippet_border": {
                 "color_identifier": "black_alpha15"
