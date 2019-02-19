@@ -438,7 +438,7 @@
                 "color_identifier": "gray_800"
             },
             "snippet_border": {
-                "color_identifier": "white_alpha12"
+                "color_identifier": "white_alpha15"
             },
             "snippet_icon_tertiary": {
                 "color_identifier": "gray_600"
@@ -959,7 +959,7 @@
                 "color_identifier": "white"
             },
             "snippet_border": {
-                "color_identifier": "gray_600"
+                "color_identifier": "black_alpha15"
             },
             "snippet_icon_tertiary": {
                 "color_identifier": "gray_200"
@@ -1480,7 +1480,7 @@
                 "color_identifier": "gray_800"
             },
             "snippet_border": {
-                "color_identifier": "white_alpha12"
+                "color_identifier": "white_alpha15"
             },
             "snippet_icon_tertiary": {
                 "color_identifier": "gray_600"
@@ -2001,7 +2001,7 @@
                 "color_identifier": "white"
             },
             "snippet_border": {
-                "color_identifier": "black_alpha12"
+                "color_identifier": "black_alpha15"
             },
             "snippet_icon_tertiary": {
                 "color_identifier": "gray_200"
