@@ -186,7 +186,7 @@
                 "color_identifier": "gray_700"
             },
             "header_search_field_tint": {
-                "color_identifier": "gray_100"
+                "color_identifier": "gray_300"
             },
             "header_tab_active_background": {
                 "color_identifier": "gray_600"
@@ -1228,7 +1228,7 @@
                 "color_identifier": "gray_700"
             },
             "header_search_field_tint": {
-                "color_identifier": "gray_100"
+                "color_identifier": "gray_300"
             },
             "header_tab_active_background": {
                 "color_identifier": "gray_600"
