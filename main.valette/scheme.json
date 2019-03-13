@@ -312,7 +312,7 @@
                 "color_identifier": "gray_850"
             },
             "landing_field_border": {
-                "color_identifier": "white_alpha_12"
+                "color_identifier": "white_alpha12"
             },
             "landing_field_placeholder": {
                 "color_identifier": "gray_300"
@@ -845,7 +845,7 @@
                 "color_identifier": "white"
             },
             "landing_field_border": {
-                "color_identifier": "black_alpha_12"
+                "color_identifier": "black_alpha12"
             },
             "landing_field_placeholder": {
                 "color_identifier": "steel_gray_400"
