@@ -336,7 +336,7 @@
                 "color_identifier": "gray_500"
             },
             "landing_text_primary": {
-                "color_identifier": "white"
+                "color_identifier": "gray_100"
             },
             "landing_text_title": {
                 "color_identifier": "white"
@@ -869,7 +869,7 @@
                 "color_identifier": "blue_overlight_2_alpha80"
             },
             "landing_text_primary": {
-                "color_identifier": "gray_100"
+                "color_identifier": "white"
             },
             "landing_text_title": {
                 "color_identifier": "white"
@@ -1402,7 +1402,7 @@
                 "color_identifier": "white"
             },
             "landing_text_primary": {
-                "color_identifier": "white"
+                "color_identifier": "gray_100"
             },
             "landing_text_title": {
                 "color_identifier": "white"
