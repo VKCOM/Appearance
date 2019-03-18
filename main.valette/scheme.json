@@ -1614,6 +1614,15 @@
             "tabbar_inactive_icon": {
                 "color_identifier": "gray_500"
             },
+            "tabbar_tablet_active_icon": {
+                "color_identifier": "sky_300"
+            },
+            "tabbar_tablet_background": {
+                "color_identifier": "gray_850"
+            },
+            "tabbar_tablet_inactive_icon": {
+                "color_identifier": "gray_500"
+            },
             "toolbar_attach_background_from": {
                 "color_identifier": "gray_500"
             },
