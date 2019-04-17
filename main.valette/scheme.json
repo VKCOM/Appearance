@@ -261,13 +261,13 @@
                 "color_identifier": "gray_600"
             },
             "im_bubble_gift_background": {
-                "color_identifier": "gold_300"
+                "color_identifier": "gold_400"
             },
             "im_bubble_gift_text": {
                 "color_identifier": "gold_100"
             },
             "im_bubble_gift_text_secondary": {
-                "color_identifier": "gold_150"
+                "color_identifier": "gold_200"
             },
             "im_bubble_outgoing": {
                 "color_identifier": "gray_700"
@@ -1393,13 +1393,13 @@
                 "color_identifier": "gray_600"
             },
             "im_bubble_gift_background": {
-                "color_identifier": "gold_300"
+                "color_identifier": "gold_400"
             },
             "im_bubble_gift_text": {
                 "color_identifier": "gold_100"
             },
             "im_bubble_gift_text_secondary": {
-                "color_identifier": "gold_150"
+                "color_identifier": "gold_200"
             },
             "im_bubble_outgoing": {
                 "color_identifier": "gray_700"
