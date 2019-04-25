@@ -480,10 +480,10 @@
                 "color_identifier": "clear"
             },
             "stories_create_button_background_from": {
-                "color_identifier": "gray_780"
+                "color_identifier": "gray_750"
             },
             "stories_create_button_background_to": {
-                "color_identifier": "gray_780"
+                "color_identifier": "gray_750"
             },
             "stories_create_button_foreground": {
                 "color_identifier": "gray_200"
@@ -1630,10 +1630,10 @@
                 "color_identifier": "clear"
             },
             "stories_create_button_background_from": {
-                "color_identifier": "gray_780"
+                "color_identifier": "gray_750"
             },
             "stories_create_button_background_to": {
-                "color_identifier": "gray_780"
+                "color_identifier": "gray_750"
             },
             "stories_create_button_foreground": {
                 "color_identifier": "gray_200"
