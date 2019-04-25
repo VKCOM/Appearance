@@ -153,7 +153,7 @@
                 "color_identifier": "gray_700"
             },
             "float_button_background_highlighted": {
-                "color_identifier": "gray_1000"
+                "color_identifier": "gray_600"
             },
             "float_button_foreground": {
                 "color_identifier": "gray_300"
@@ -1285,7 +1285,7 @@
                 "color_identifier": "gray_700"
             },
             "float_button_background_highlighted": {
-                "color_identifier": "gray_1000"
+                "color_identifier": "gray_600"
             },
             "float_button_foreground": {
                 "color_identifier": "gray_300"
