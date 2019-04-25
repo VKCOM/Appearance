@@ -479,6 +479,15 @@
             "statusbar_alternate_legacy_background": {
                 "color_identifier": "clear"
             },
+            "stories_create_button_background_from": {
+                "color_identifier": "gray_780"
+            },
+            "stories_create_button_background_to": {
+                "color_identifier": "gray_780"
+            },
+            "stories_create_button_foreground": {
+                "color_identifier": "gray_200"
+            },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_700"
             },
@@ -1044,6 +1053,15 @@
             },
             "statusbar_alternate_legacy_background": {
                 "color_identifier": "black_alpha20"
+            },
+            "stories_create_button_background_from": {
+                "color_identifier": "gray_40"
+            },
+            "stories_create_button_background_to": {
+                "color_identifier": "gray_100"
+            },
+            "stories_create_button_foreground": {
+                "color_identifier": "steel_gray_500"
             },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_200"
@@ -1611,6 +1629,15 @@
             "statusbar_alternate_legacy_background": {
                 "color_identifier": "clear"
             },
+            "stories_create_button_background_from": {
+                "color_identifier": "gray_780"
+            },
+            "stories_create_button_background_to": {
+                "color_identifier": "gray_780"
+            },
+            "stories_create_button_foreground": {
+                "color_identifier": "gray_200"
+            },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_700"
             },
@@ -2176,6 +2203,15 @@
             },
             "statusbar_alternate_legacy_background": {
                 "color_identifier": "black_alpha20"
+            },
+            "stories_create_button_background_from": {
+                "color_identifier": "gray_40"
+            },
+            "stories_create_button_background_to": {
+                "color_identifier": "gray_100"
+            },
+            "stories_create_button_foreground": {
+                "color_identifier": "steel_gray_500"
             },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_200"
