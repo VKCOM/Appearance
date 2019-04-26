@@ -491,6 +491,9 @@
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_700"
             },
+            "stories_create_button_icon_background": {
+                "color_identifier": "gray_700"
+            },
             "switch_ios_off_border": {
                 "color_identifier": "gray_800"
             },
@@ -1065,6 +1068,9 @@
             },
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_200"
+            },
+            "stories_create_button_icon_background": {
+                "color_identifier": "white"
             },
             "switch_ios_off_border": {
                 "color_identifier": "gray_100"
