@@ -1647,6 +1647,9 @@
             "stories_skeleton_loader_background": {
                 "color_identifier": "gray_700"
             },
+            "stories_create_button_icon_background": {
+                "color_identifier": "gray_700"
+            },
             "switch_ios_off_border": {
                 "color_identifier": "gray_800"
             },
@@ -2224,6 +2227,9 @@
             },
             "switch_ios_off_border": {
                 "color_identifier": "gray_100"
+            },
+            "stories_create_button_icon_background": {
+                "color_identifier": "white"
             },
             "tabbar_active_icon": {
                 "color_identifier": "azure_350"
