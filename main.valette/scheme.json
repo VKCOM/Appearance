@@ -574,6 +574,21 @@
             },
             "writebar_icon": {
                 "color_identifier": "gray_400"
+            },
+            "dynamic_blue": {
+                "color_identifier": "blue_300"
+            },
+            "dynamic_gray": {
+                "color_identifier": "steel_gray_250"
+            },
+            "dynamic_red": {
+                "color_identifier": "red"
+            },
+            "dynamic_green": {
+                "color_identifier": "green"
+            },
+            "dynamic_orange": {
+                "color_identifier": "orange"
             }
         }
     },
@@ -1152,6 +1167,21 @@
             },
             "writebar_icon": {
                 "color_identifier": "steel_gray_300"
+            },
+            "dynamic_blue": {
+                "color_identifier": "blue_300"
+            },
+            "dynamic_gray": {
+                "color_identifier": "steel_gray_250"
+            },
+            "dynamic_red": {
+                "color_identifier": "red"
+            },
+            "dynamic_green": {
+                "color_identifier": "green"
+            },
+            "dynamic_orange": {
+                "color_identifier": "orange"
             }
         }
     },
@@ -1730,6 +1760,21 @@
             },
             "writebar_icon": {
                 "color_identifier": "gray_400"
+            },
+            "dynamic_blue": {
+                "color_identifier": "azure_300"
+            },
+            "dynamic_gray": {
+                "color_identifier": "steel_gray_250"
+            },
+            "dynamic_red": {
+                "color_identifier": "red"
+            },
+            "dynamic_green": {
+                "color_identifier": "green"
+            },
+            "dynamic_orange": {
+                "color_identifier": "orange"
             }
         }
     },
@@ -2308,6 +2353,21 @@
             },
             "writebar_icon": {
                 "color_identifier": "azure_300"
+            },
+            "dynamic_blue": {
+                "color_identifier": "azure_300"
+            },
+            "dynamic_gray": {
+                "color_identifier": "steel_gray_250"
+            },
+            "dynamic_red": {
+                "color_identifier": "red"
+            },
+            "dynamic_green": {
+                "color_identifier": "green"
+            },
+            "dynamic_orange": {
+                "color_identifier": "orange"
             }
         }
     }
