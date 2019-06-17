@@ -122,6 +122,12 @@
             "counter_primary_text": {
                 "color_identifier": "white"
             },
+            "counter_prominent_background": {
+                "color_identifier": "red_nice"
+            },
+            "counter_prominent_text": {
+                "color_identifier": "white"
+            },
             "counter_secondary_background": {
                 "color_identifier": "gray_500"
             },
@@ -713,6 +719,12 @@
                 "color_identifier": "blue_300"
             },
             "counter_primary_text": {
+                "color_identifier": "white"
+            },
+            "counter_prominent_background": {
+                "color_identifier": "red_nice"
+            },
+            "counter_prominent_text": {
                 "color_identifier": "white"
             },
             "counter_secondary_background": {
@@ -1308,6 +1320,12 @@
             "counter_primary_text": {
                 "color_identifier": "gray_900"
             },
+            "counter_prominent_background": {
+                "color_identifier": "red_nice"
+            },
+            "counter_prominent_text": {
+                "color_identifier": "white"
+            },
             "counter_secondary_background": {
                 "color_identifier": "gray_500"
             },
@@ -1899,6 +1917,12 @@
                 "color_identifier": "azure_300"
             },
             "counter_primary_text": {
+                "color_identifier": "white"
+            },
+            "counter_prominent_background": {
+                "color_identifier": "red_nice"
+            },
+            "counter_prominent_text": {
                 "color_identifier": "white"
             },
             "counter_secondary_background": {
