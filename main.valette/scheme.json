@@ -595,6 +595,9 @@
             },
             "dynamic_orange": {
                 "color_identifier": "orange"
+            },
+            "dynamic_violet": {
+                "color_identifier": "violet_light"
             }
         }
     },
@@ -1194,6 +1197,9 @@
             },
             "dynamic_orange": {
                 "color_identifier": "orange"
+            },
+            "dynamic_violet": {
+                "color_identifier": "violet"
             }
         }
     },
@@ -1793,6 +1799,9 @@
             },
             "dynamic_orange": {
                 "color_identifier": "orange"
+            },
+            "dynamic_violet": {
+                "color_identifier": "violet_light"
             }
         }
     },
@@ -2392,6 +2401,9 @@
             },
             "dynamic_orange": {
                 "color_identifier": "orange"
+            },
+            "dynamic_violet": {
+                "color_identifier": "violet"
             }
         }
     }
