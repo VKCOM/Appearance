@@ -594,7 +594,7 @@
                 "color_identifier": "steel_gray_250"
             },
             "dynamic_red": {
-                "color_identifier": "red"
+                "color_identifier": "red_nice"
             },
             "dynamic_green": {
                 "color_identifier": "green"
@@ -1204,7 +1204,7 @@
                 "color_identifier": "steel_gray_250"
             },
             "dynamic_red": {
-                "color_identifier": "red"
+                "color_identifier": "red_nice"
             },
             "dynamic_green": {
                 "color_identifier": "green"
@@ -1812,7 +1812,7 @@
                 "color_identifier": "steel_gray_250"
             },
             "dynamic_red": {
-                "color_identifier": "red"
+                "color_identifier": "red_nice"
             },
             "dynamic_green": {
                 "color_identifier": "green"
@@ -2045,7 +2045,7 @@
                 "color_identifier": "azure_300"
             },
             "header_tint_alternate": {
-                "color_identifier": "blue_300"
+                "color_identifier": "azure_300"
             },
             "icon_alpha_placeholder": {
                 "color_identifier": "white"
@@ -2421,7 +2421,7 @@
                 "color_identifier": "steel_gray_250"
             },
             "dynamic_red": {
-                "color_identifier": "red"
+                "color_identifier": "red_nice"
             },
             "dynamic_green": {
                 "color_identifier": "green"
