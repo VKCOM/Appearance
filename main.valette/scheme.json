@@ -1857,22 +1857,22 @@
                 "color_identifier": "steel_gray_200"
             },
             "attach_picker_tab_active_background": {
-                "color_identifier": "blue_400"
+                "color_identifier": "azure_300"
             },
             "attach_picker_tab_active_icon": {
                 "color_identifier": "white"
             },
             "attach_picker_tab_active_text": {
-                "color_identifier": "blue_400"
+                "color_identifier": "azure_300"
             },
             "attach_picker_tab_inactive_background": {
-                "color_identifier": "gray_200"
+                "color_identifier": "gray_50"
             },
             "attach_picker_tab_inactive_icon": {
-                "color_identifier": "white"
+                "color_identifier": "steel_gray_400"
             },
             "attach_picker_tab_inactive_text": {
-                "color_identifier": "gray_400"
+                "color_identifier": "steel_gray_400"
             },
             "background_content": {
                 "color_identifier": "white"
