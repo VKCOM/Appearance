@@ -1857,16 +1857,16 @@
                 "color_identifier": "steel_gray_200"
             },
             "attach_picker_tab_active_background": {
-                "color_identifier": "azure_300"
+                "color_identifier": "azure_A400"
             },
             "attach_picker_tab_active_icon": {
                 "color_identifier": "white"
             },
             "attach_picker_tab_active_text": {
-                "color_identifier": "azure_300"
+                "color_identifier": "azure_A400"
             },
             "attach_picker_tab_inactive_background": {
-                "color_identifier": "gray_50"
+                "color_identifier": "gray_40"
             },
             "attach_picker_tab_inactive_icon": {
                 "color_identifier": "steel_gray_400"
