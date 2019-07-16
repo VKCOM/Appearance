@@ -863,7 +863,7 @@
                 "color_identifier": "gray_A150"
             },
             "im_bubble_button_background": {
-                "color_identifier": "gray_20",
+                "color_identifier": "gray_20"
             },
             "im_bubble_button_background_highlighted": {
                 "color_identifier": "gray_A150"
@@ -905,7 +905,7 @@
                 "color_identifier": "gray_20"
             },
             "im_bubble_wallpaper_button_background": {
-                "color_identifier": "gray_40",
+                "color_identifier": "gray_40"
             },
             "im_bubble_wallpaper_button_background_highlighted": {
                 "color_identifier": "gray_100"
@@ -2091,10 +2091,10 @@
                 "color_identifier": "gray_A150"
             },
             "im_bubble_button_background": {
-                "color_identifier": "gray_20",
+                "color_identifier": "gray_20"
             },
             "im_bubble_button_background_highlighted": {
-                "color_identifier": "gray_A150",
+                "color_identifier": "gray_A150"
             },
             "im_bubble_button_foreground": {
                 "color_identifier": "black"
