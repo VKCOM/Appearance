@@ -2049,10 +2049,10 @@
                 "color_identifier": "steel_gray_350"
             },
             "header_text": {
-                "color_identifier": "azure_300"
+                "color_identifier": "black"
             },
             "header_text_alternate": {
-                "color_identifier": "azure_300"
+                "color_identifier": "black"
             },
             "header_text_secondary": {
                 "color_identifier": "steel_gray_400"
