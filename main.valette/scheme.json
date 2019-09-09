@@ -1923,7 +1923,7 @@
                 "color_identifier": "black_blue45_alpha10"
             },
             "button_secondary_foreground": {
-                "color_identifier": "azure_400"
+                "color_identifier": "azure_300"
             },
             "button_tertiary_background": {
                 "color_identifier": "clear"
@@ -2226,7 +2226,7 @@
                 "color_identifier": "black_blue45_alpha10"
             },
             "landing_secondary_button_foreground": {
-                "color_identifier": "azure_400"
+                "color_identifier": "azure_300"
             },
             "landing_snippet_border": {
                 "color_identifier": "black_alpha15"
