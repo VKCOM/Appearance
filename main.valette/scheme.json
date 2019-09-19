@@ -36,7 +36,7 @@
                 "color_identifier": "gray_900"
             },
             "background_highlighted": {
-                "color_identifier": "white_alpha12"
+                "color_identifier": "white_alpha8"
             },
             "background_keyboard": {
                 "color_identifier": "gray_800"
@@ -650,7 +650,7 @@
                 "color_identifier": "white"
             },
             "background_highlighted": {
-                "color_identifier": "black_alpha12"
+                "color_identifier": "black_alpha8"
             },
             "background_keyboard": {
                 "color_identifier": "gray_100"
@@ -1264,7 +1264,7 @@
                 "color_identifier": "gray_900"
             },
             "background_highlighted": {
-                "color_identifier": "white_alpha12"
+                "color_identifier": "white_alpha8"
             },
             "background_keyboard": {
                 "color_identifier": "gray_800"
@@ -1702,7 +1702,7 @@
                 "color_identifier": "gray_700"
             },
             "separator_alpha": {
-                "color_identifier": "white_alpha15"
+                "color_identifier": "white_alpha12"
             },
             "separator_alternate": {
                 "color_identifier": "gray_850"
@@ -1878,7 +1878,7 @@
                 "color_identifier": "white"
             },
             "background_highlighted": {
-                "color_identifier": "black_alpha12"
+                "color_identifier": "black_alpha8"
             },
             "background_keyboard": {
                 "color_identifier": "gray_100"
@@ -2316,7 +2316,7 @@
                 "color_identifier": "gray_200"
             },
             "separator_alpha": {
-                "color_identifier": "black_alpha15"
+                "color_identifier": "black_alpha12"
             },
             "separator_alternate": {
                 "color_identifier": "gray_100"
