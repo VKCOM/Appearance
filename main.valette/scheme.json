@@ -257,6 +257,12 @@
             "im_bubble_button_foreground": {
                 "color_identifier": "gray_100"
             },
+            "im_bubble_expiring": {
+                "color_identifier": "mint_400"
+            },
+            "im_bubble_expiring_highlighted": {
+                "color_identifier": "mint_500"
+            },
             "im_bubble_incoming": {
                 "color_identifier": "gray_800"
             },
@@ -298,6 +304,9 @@
             },
             "im_bubble_wallpaper_button_foreground": {
                 "color_identifier": "gray_100"
+            },
+            "im_bubble_wallpaper_expiring_border": {
+                "color_identifier": "mint_500"
             },
             "im_bubble_wallpaper_incoming": {
                 "color_identifier": "gray_800"
@@ -871,6 +880,12 @@
             "im_bubble_button_foreground": {
                 "color_identifier": "black"
             },
+            "im_bubble_expiring": {
+                "color_identifier": "mint_100"
+            },
+            "im_bubble_expiring_highlighted": {
+                "color_identifier": "mint_200"
+            },
             "im_bubble_incoming": {
                 "color_identifier": "gray_50"
             },
@@ -912,6 +927,9 @@
             },
             "im_bubble_wallpaper_button_foreground": {
                 "color_identifier": "black"
+            },
+            "im_bubble_wallpaper_expiring_border": {
+                "color_identifier": "mint_A1_alpha12"
             },
             "im_bubble_wallpaper_incoming": {
                 "color_identifier": "white"
@@ -1485,6 +1503,12 @@
             "im_bubble_button_foreground": {
                 "color_identifier": "gray_100"
             },
+            "im_bubble_expiring": {
+                "color_identifier": "mint_400"
+            },
+            "im_bubble_expiring_highlighted": {
+                "color_identifier": "mint_500"
+            },
             "im_bubble_incoming": {
                 "color_identifier": "gray_800"
             },
@@ -1526,6 +1550,9 @@
             },
             "im_bubble_wallpaper_button_foreground": {
                 "color_identifier": "gray_100"
+            },
+            "im_bubble_wallpaper_expiring_border": {
+                "color_identifier": "mint_500"
             },
             "im_bubble_wallpaper_incoming": {
                 "color_identifier": "gray_800"
@@ -2100,6 +2127,12 @@
             "im_bubble_button_foreground": {
                 "color_identifier": "black"
             },
+            "im_bubble_expiring": {
+                "color_identifier": "mint_100"
+            },
+            "im_bubble_expiring_highlighted": {
+                "color_identifier": "mint_200"
+            },
             "im_bubble_incoming": {
                 "color_identifier": "gray_50"
             },
@@ -2141,6 +2174,9 @@
             },
             "im_bubble_wallpaper_button_foreground": {
                 "color_identifier": "black"
+            },
+            "im_bubble_wallpaper_expiring_border": {
+                "color_identifier": "mint_A1_alpha12"
             },
             "im_bubble_wallpaper_incoming": {
                 "color_identifier": "white"
