@@ -1708,7 +1708,7 @@
                 "color_identifier": "white"
             },
             "search_bar_background": {
-                "color_identifier": "clear"
+                "color_identifier": "gray_900"
             },
             "search_bar_field_background": {
                 "color_identifier": "gray_750"
@@ -2332,7 +2332,7 @@
                 "color_identifier": "blue_600"
             },
             "search_bar_background": {
-                "color_identifier": "clear"
+                "color_identifier": "white"
             },
             "search_bar_field_background": {
                 "color_identifier": "gray_50"
