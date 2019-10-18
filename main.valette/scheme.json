@@ -1948,7 +1948,7 @@
             },
             "button_secondary_background": {
                 "color_identifier": "black_blue24",
-                "alpha_multiplier": "0.05"
+                "alpha_multiplier": 0.05
             },
             "button_secondary_foreground": {
                 "color_identifier": "azure_300"
