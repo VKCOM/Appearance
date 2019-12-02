@@ -249,10 +249,12 @@
                 "color_identifier": "clear"
             },
             "im_bubble_button_background": {
-                "color_identifier": "gray_700"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.16
             },
             "im_bubble_button_background_highlighted": {
-                "color_identifier": "gray_500"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_bubble_button_foreground": {
                 "color_identifier": "gray_100"
@@ -1495,10 +1497,12 @@
                 "color_identifier": "clear"
             },
             "im_bubble_button_background": {
-                "color_identifier": "gray_700"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.16
             },
             "im_bubble_button_background_highlighted": {
-                "color_identifier": "gray_500"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_bubble_button_foreground": {
                 "color_identifier": "gray_100"
