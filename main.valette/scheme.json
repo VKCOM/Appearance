@@ -278,13 +278,16 @@
                 "color_identifier": "gray_600"
             },
             "im_bubble_gift_background": {
+                "color_identifier": "gold_500"
+            },
+            "im_bubble_gift_background_highlighted": {
                 "color_identifier": "gold_400"
             },
             "im_bubble_gift_text": {
-                "color_identifier": "gold_100"
+                "color_identifier": "white"
             },
             "im_bubble_gift_text_secondary": {
-                "color_identifier": "gold_200"
+                "color_identifier": "gold_250"
             },
             "im_bubble_outgoing": {
                 "color_identifier": "gray_700"
@@ -902,6 +905,9 @@
             },
             "im_bubble_gift_background": {
                 "color_identifier": "gold_200"
+            },
+            "im_bubble_gift_background_highlighted": {
+                "color_identifier": "gold_250"
             },
             "im_bubble_gift_text": {
                 "color_identifier": "gold_500"
@@ -1526,13 +1532,16 @@
                 "color_identifier": "gray_600"
             },
             "im_bubble_gift_background": {
+                "color_identifier": "gold_500"
+            },
+            "im_bubble_gift_background_highlighted": {
                 "color_identifier": "gold_400"
             },
             "im_bubble_gift_text": {
-                "color_identifier": "gold_100"
+                "color_identifier": "white"
             },
             "im_bubble_gift_text_secondary": {
-                "color_identifier": "gold_200"
+                "color_identifier": "gold_250"
             },
             "im_bubble_outgoing": {
                 "color_identifier": "gray_700"
@@ -2151,6 +2160,9 @@
             },
             "im_bubble_gift_background": {
                 "color_identifier": "gold_200"
+            },
+            "im_bubble_gift_background_highlighted": {
+                "color_identifier": "gold_250"
             },
             "im_bubble_gift_text": {
                 "color_identifier": "gold_500"
