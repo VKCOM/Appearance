@@ -1455,7 +1455,7 @@
                 "color_identifier": "gray_100"
             },
             "header_tab_active_indicator": {
-                "color_identifier": "gray_100"
+                "color_identifier": "sky_300"
             },
             "header_tab_inactive_text": {
                 "color_identifier": "gray_500"
