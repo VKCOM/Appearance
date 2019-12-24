@@ -334,11 +334,11 @@
             "im_forward_line_tint": {
                 "color_identifier": "white"
             },
-            "im_reply_sender_text": {
-                "color_identifier": "white"
-            },
             "im_reply_separator": {
                 "color_identifier": "white"
+            },
+            "im_text_name": {
+                "color_identifier": "sky_300"
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "gray_700"
@@ -960,10 +960,10 @@
             "im_forward_line_tint": {
                 "color_identifier": "blue_600"
             },
-            "im_reply_sender_text": {
+            "im_reply_separator": {
                 "color_identifier": "blue_400"
             },
-            "im_reply_separator": {
+            "im_text_name": {
                 "color_identifier": "blue_400"
             },
             "im_toolbar_voice_msg_background": {
@@ -1588,11 +1588,11 @@
             "im_forward_line_tint": {
                 "color_identifier": "white"
             },
-            "im_reply_sender_text": {
-                "color_identifier": "white"
-            },
             "im_reply_separator": {
                 "color_identifier": "white"
+            },
+            "im_text_name": {
+                "color_identifier": "sky_300"
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "gray_700"
@@ -2215,10 +2215,10 @@
             "im_forward_line_tint": {
                 "color_identifier": "blue_600"
             },
-            "im_reply_sender_text": {
+            "im_reply_separator": {
                 "color_identifier": "azure_A400"
             },
-            "im_reply_separator": {
+            "im_text_name": {
                 "color_identifier": "azure_A400"
             },
             "im_toolbar_voice_msg_background": {
