@@ -81,7 +81,7 @@
                 "color_identifier": "jam_A500"
             },
             "im_pink_theme_outgoing_bubble_background_highlighted": {
-                "color_identifier": "jam_300"
+                "color_identifier": "jam_400"
             },
             "im_pink_theme_outgoing_text_primary": {
                 "color_identifier": "white"
@@ -90,13 +90,13 @@
                 "color_identifier": "jam_200"
             },
             "im_pink_theme_outgoing_link": {
-                "color_identifier": "jam_200"
+                "color_identifier": "white"
             },
             "im_pink_theme_outgoing_hint_text": {
                 "color_identifier": "jam_200"
             },
             "im_pink_theme_outgoing_forward_line_tint": {
-                "color_identifier": "jam_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -120,13 +120,13 @@
                 "color_identifier": "royal_blue_600"
             },
             "im_pink_theme_incoming_color1_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color1_hint_text": {
                 "color_identifier": "royal_blue_600"
             },
             "im_pink_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "royal_blue_700"
+                "color_identifier": "royal_blue_400"
             },
             "im_pink_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "royal_blue_400"
@@ -150,13 +150,13 @@
                 "color_identifier": "deep_lilac_400"
             },
             "im_pink_theme_incoming_color2_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color2_hint_text": {
                 "color_identifier": "deep_lilac_400"
             },
             "im_pink_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "deep_lilac_700"
+                "color_identifier": "deep_lilac_300"
             },
             "im_pink_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "deep_lilac_300"
@@ -180,13 +180,13 @@
                 "color_identifier": "jam_400"
             },
             "im_pink_theme_incoming_color3_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color3_hint_text": {
                 "color_identifier": "jam_400"
             },
             "im_pink_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "jam_700"
+                "color_identifier": "jam_300"
             },
             "im_pink_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "jam_300"
@@ -201,7 +201,7 @@
                 "color_identifier": "white"
             },
             "im_pink_theme_outgoing_reply_separator": {
-                "color_identifier": "jam_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color1_reply_sender_text": {
                 "color_identifier": "royal_blue_400"
@@ -237,13 +237,13 @@
                 "color_identifier": "deep_lilac_100"
             },
             "im_purple_theme_outgoing_link": {
-                "color_identifier": "deep_lilac_100"
+                "color_identifier": "white"
             },
             "im_purple_theme_outgoing_hint_text": {
                 "color_identifier": "deep_lilac_100"
             },
             "im_purple_theme_outgoing_forward_line_tint": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -267,13 +267,13 @@
                 "color_identifier": "royal_blue_600"
             },
             "im_purple_theme_incoming_color1_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_incoming_color1_hint_text": {
                 "color_identifier": "royal_blue_600"
             },
             "im_purple_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "royal_blue_700"
+                "color_identifier": "royal_blue_400"
             },
             "im_purple_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "royal_blue_400"
@@ -297,13 +297,13 @@
                 "color_identifier": "deep_lilac_400"
             },
             "im_purple_theme_incoming_color2_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_incoming_color2_hint_text": {
                 "color_identifier": "deep_lilac_400"
             },
             "im_purple_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "deep_lilac_700"
+                "color_identifier": "deep_lilac_300"
             },
             "im_purple_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "deep_lilac_300"
@@ -327,13 +327,13 @@
                 "color_identifier": "pacific_blue_600"
             },
             "im_purple_theme_incoming_color3_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_incoming_color3_hint_text": {
                 "color_identifier": "pacific_blue_600"
             },
             "im_purple_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "pacific_blue_700"
+                "color_identifier": "pacific_blue_400"
             },
             "im_purple_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "pacific_blue_400"
@@ -384,13 +384,13 @@
                 "color_identifier": "carrot_200"
             },
             "im_orange_theme_outgoing_link": {
-                "color_identifier": "carrot_200"
+                "color_identifier": "white"
             },
             "im_orange_theme_outgoing_hint_text": {
                 "color_identifier": "carrot_200"
             },
             "im_orange_theme_outgoing_forward_line_tint": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "white"
             },
             "im_orange_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -405,7 +405,7 @@
                 "color_identifier": "carrot_900"
             },
             "im_orange_theme_incoming_color1_bubble_background_highlighted": {
-                "color_identifier": "carrot_100"
+                "color_identifier": "carrot_800"
             },
             "im_orange_theme_incoming_color1_text_primary": {
                 "color_identifier": "white"
@@ -414,13 +414,13 @@
                 "color_identifier": "carrot_600"
             },
             "im_orange_theme_incoming_color1_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_orange_theme_incoming_color1_hint_text": {
                 "color_identifier": "carrot_600"
             },
             "im_orange_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "carrot_700"
+                "color_identifier": "carrot_400"
             },
             "im_orange_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "carrot_400"
@@ -444,13 +444,13 @@
                 "color_identifier": "dark_gold_600"
             },
             "im_orange_theme_incoming_color2_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_orange_theme_incoming_color2_hint_text": {
                 "color_identifier": "dark_gold_600"
             },
             "im_orange_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "dark_gold_700"
+                "color_identifier": "dark_gold_400"
             },
             "im_orange_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "dark_gold_400"
@@ -474,13 +474,13 @@
                 "color_identifier": "forest_green_600"
             },
             "im_orange_theme_incoming_color3_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_orange_theme_incoming_color3_hint_text": {
                 "color_identifier": "forest_green_600"
             },
             "im_orange_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "forest_green_200"
+                "color_identifier": "forest_green_400"
             },
             "im_orange_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "forest_green_400"
@@ -599,7 +599,7 @@
                 "color_identifier": "jam_A500"
             },
             "im_pink_theme_outgoing_bubble_background_highlighted": {
-                "color_identifier": "jam_700"
+                "color_identifier": "jam_600"
             },
             "im_pink_theme_outgoing_text_primary": {
                 "color_identifier": "white"
@@ -608,13 +608,13 @@
                 "color_identifier": "jam_200"
             },
             "im_pink_theme_outgoing_link": {
-                "color_identifier": "jam_200"
+                "color_identifier": "white"
             },
             "im_pink_theme_outgoing_hint_text": {
                 "color_identifier": "jam_200"
             },
             "im_pink_theme_outgoing_forward_line_tint": {
-                "color_identifier": "jam_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -644,7 +644,7 @@
                 "color_identifier": "royal_blue_400"
             },
             "im_pink_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "royal_blue_200"
+                "color_identifier": "royal_blue_A500"
             },
             "im_pink_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "royal_blue_A500"
@@ -665,16 +665,16 @@
                 "color_identifier": "black"
             },
             "im_pink_theme_incoming_color2_text_placeholder": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "deep_lilac_200"
             },
             "im_pink_theme_incoming_color2_link": {
                 "color_identifier": "azure_300"
             },
             "im_pink_theme_incoming_color2_hint_text": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "deep_lilac_200"
             },
             "im_pink_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "deep_lilac_100"
+                "color_identifier": "deep_lilac_A500"
             },
             "im_pink_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "deep_lilac_A500"
@@ -689,7 +689,7 @@
                 "color_identifier": "jam_50"
             },
             "im_pink_theme_incoming_color3_bubble_background_highlighted": {
-                "color_identifier": "jam_800"
+                "color_identifier": "jam_100"
             },
             "im_pink_theme_incoming_color3_text_primary": {
                 "color_identifier": "black"
@@ -704,7 +704,7 @@
                 "color_identifier": "jam_300"
             },
             "im_pink_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "jam_200"
+                "color_identifier": "jam_A500"
             },
             "im_pink_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "jam_A500"
@@ -719,7 +719,7 @@
                 "color_identifier": "white"
             },
             "im_pink_theme_outgoing_reply_separator": {
-                "color_identifier": "jam_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color1_reply_sender_text": {
                 "color_identifier": "royal_blue_A500"
@@ -755,13 +755,13 @@
                 "color_identifier": "deep_lilac_100"
             },
             "im_purple_theme_outgoing_link": {
-                "color_identifier": "deep_lilac_100"
+                "color_identifier": "white"
             },
             "im_purple_theme_outgoing_hint_text": {
                 "color_identifier": "deep_lilac_100"
             },
             "im_purple_theme_outgoing_forward_line_tint": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -791,7 +791,7 @@
                 "color_identifier": "royal_blue_400"
             },
             "im_purple_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "royal_blue_200"
+                "color_identifier": "royal_blue_A500"
             },
             "im_purple_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "royal_blue_A500"
@@ -812,16 +812,16 @@
                 "color_identifier": "black"
             },
             "im_purple_theme_incoming_color2_text_placeholder": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "deep_lilac_200"
             },
             "im_purple_theme_incoming_color2_link": {
                 "color_identifier": "azure_300"
             },
             "im_purple_theme_incoming_color2_hint_text": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "deep_lilac_200"
             },
             "im_purple_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "deep_lilac_100"
+                "color_identifier": "deep_lilac_A500"
             },
             "im_purple_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "deep_lilac_A500"
@@ -851,7 +851,7 @@
                 "color_identifier": "pacific_blue_400"
             },
             "im_purple_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "pacific_blue_200"
+                "color_identifier": "pacific_blue_A500"
             },
             "im_purple_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "pacific_blue_A500"
@@ -866,7 +866,7 @@
                 "color_identifier": "white"
             },
             "im_purple_theme_outgoing_reply_separator": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_incoming_color1_reply_sender_text": {
                 "color_identifier": "royal_blue_A500"
@@ -902,13 +902,13 @@
                 "color_identifier": "carrot_200"
             },
             "im_orange_theme_outgoing_link": {
-                "color_identifier": "carrot_200"
+                "color_identifier": "white"
             },
             "im_orange_theme_outgoing_hint_text": {
                 "color_identifier": "carrot_200"
             },
             "im_orange_theme_outgoing_forward_line_tint": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "white"
             },
             "im_orange_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -923,22 +923,22 @@
                 "color_identifier": "carrot_50"
             },
             "im_orange_theme_incoming_color1_bubble_background_highlighted": {
-                "color_identifier": "carrot_800"
+                "color_identifier": "carrot_100"
             },
             "im_orange_theme_incoming_color1_text_primary": {
                 "color_identifier": "black"
             },
             "im_orange_theme_incoming_color1_text_placeholder": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "carrot_300"
             },
             "im_orange_theme_incoming_color1_link": {
                 "color_identifier": "azure_300"
             },
             "im_orange_theme_incoming_color1_hint_text": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "carrot_300"
             },
             "im_orange_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "carrot_200"
+                "color_identifier": "carrot_A500"
             },
             "im_orange_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "carrot_A500"
@@ -968,7 +968,7 @@
                 "color_identifier": "dark_gold_400"
             },
             "im_orange_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "dark_gold_200"
+                "color_identifier": "dark_gold_A500"
             },
             "im_orange_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "dark_gold_A500"
@@ -998,7 +998,7 @@
                 "color_identifier": "forest_green_400"
             },
             "im_orange_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "forest_green_700"
+                "color_identifier": "forest_green_A500"
             },
             "im_orange_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "forest_green_A500"
@@ -1013,7 +1013,7 @@
                 "color_identifier": "white"
             },
             "im_orange_theme_outgoing_reply_separator": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "white"
             },
             "im_orange_theme_incoming_color1_reply_sender_text": {
                 "color_identifier": "carrot_A500"
@@ -1117,7 +1117,7 @@
                 "color_identifier": "jam_A500"
             },
             "im_pink_theme_outgoing_bubble_background_highlighted": {
-                "color_identifier": "jam_300"
+                "color_identifier": "jam_400"
             },
             "im_pink_theme_outgoing_text_primary": {
                 "color_identifier": "white"
@@ -1126,13 +1126,13 @@
                 "color_identifier": "jam_200"
             },
             "im_pink_theme_outgoing_link": {
-                "color_identifier": "jam_200"
+                "color_identifier": "white"
             },
             "im_pink_theme_outgoing_hint_text": {
                 "color_identifier": "jam_200"
             },
             "im_pink_theme_outgoing_forward_line_tint": {
-                "color_identifier": "jam_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -1156,13 +1156,13 @@
                 "color_identifier": "royal_blue_600"
             },
             "im_pink_theme_incoming_color1_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color1_hint_text": {
                 "color_identifier": "royal_blue_600"
             },
             "im_pink_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "royal_blue_700"
+                "color_identifier": "royal_blue_400"
             },
             "im_pink_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "royal_blue_400"
@@ -1186,13 +1186,13 @@
                 "color_identifier": "deep_lilac_400"
             },
             "im_pink_theme_incoming_color2_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color2_hint_text": {
                 "color_identifier": "deep_lilac_400"
             },
             "im_pink_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "deep_lilac_700"
+                "color_identifier": "deep_lilac_300"
             },
             "im_pink_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "deep_lilac_300"
@@ -1216,13 +1216,13 @@
                 "color_identifier": "jam_400"
             },
             "im_pink_theme_incoming_color3_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color3_hint_text": {
                 "color_identifier": "jam_400"
             },
             "im_pink_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "jam_700"
+                "color_identifier": "jam_300"
             },
             "im_pink_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "jam_300"
@@ -1237,7 +1237,7 @@
                 "color_identifier": "white"
             },
             "im_pink_theme_outgoing_reply_separator": {
-                "color_identifier": "jam_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color1_reply_sender_text": {
                 "color_identifier": "royal_blue_400"
@@ -1273,13 +1273,13 @@
                 "color_identifier": "deep_lilac_100"
             },
             "im_purple_theme_outgoing_link": {
-                "color_identifier": "deep_lilac_100"
+                "color_identifier": "white"
             },
             "im_purple_theme_outgoing_hint_text": {
                 "color_identifier": "deep_lilac_100"
             },
             "im_purple_theme_outgoing_forward_line_tint": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -1303,13 +1303,13 @@
                 "color_identifier": "royal_blue_600"
             },
             "im_purple_theme_incoming_color1_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_incoming_color1_hint_text": {
                 "color_identifier": "royal_blue_600"
             },
             "im_purple_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "royal_blue_700"
+                "color_identifier": "royal_blue_400"
             },
             "im_purple_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "royal_blue_400"
@@ -1333,13 +1333,13 @@
                 "color_identifier": "deep_lilac_400"
             },
             "im_purple_theme_incoming_color2_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_incoming_color2_hint_text": {
                 "color_identifier": "deep_lilac_400"
             },
             "im_purple_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "deep_lilac_700"
+                "color_identifier": "deep_lilac_300"
             },
             "im_purple_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "deep_lilac_300"
@@ -1363,13 +1363,13 @@
                 "color_identifier": "pacific_blue_600"
             },
             "im_purple_theme_incoming_color3_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_incoming_color3_hint_text": {
                 "color_identifier": "pacific_blue_600"
             },
             "im_purple_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "pacific_blue_700"
+                "color_identifier": "pacific_blue_400"
             },
             "im_purple_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "pacific_blue_400"
@@ -1420,13 +1420,13 @@
                 "color_identifier": "carrot_200"
             },
             "im_orange_theme_outgoing_link": {
-                "color_identifier": "carrot_200"
+                "color_identifier": "white"
             },
             "im_orange_theme_outgoing_hint_text": {
                 "color_identifier": "carrot_200"
             },
             "im_orange_theme_outgoing_forward_line_tint": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "white"
             },
             "im_orange_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -1441,7 +1441,7 @@
                 "color_identifier": "carrot_900"
             },
             "im_orange_theme_incoming_color1_bubble_background_highlighted": {
-                "color_identifier": "carrot_100"
+                "color_identifier": "carrot_800"
             },
             "im_orange_theme_incoming_color1_text_primary": {
                 "color_identifier": "white"
@@ -1450,13 +1450,13 @@
                 "color_identifier": "carrot_600"
             },
             "im_orange_theme_incoming_color1_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_orange_theme_incoming_color1_hint_text": {
                 "color_identifier": "carrot_600"
             },
             "im_orange_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "carrot_700"
+                "color_identifier": "carrot_400"
             },
             "im_orange_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "carrot_400"
@@ -1480,13 +1480,13 @@
                 "color_identifier": "dark_gold_600"
             },
             "im_orange_theme_incoming_color2_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_orange_theme_incoming_color2_hint_text": {
                 "color_identifier": "dark_gold_600"
             },
             "im_orange_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "dark_gold_700"
+                "color_identifier": "dark_gold_400"
             },
             "im_orange_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "dark_gold_400"
@@ -1510,13 +1510,13 @@
                 "color_identifier": "forest_green_600"
             },
             "im_orange_theme_incoming_color3_link": {
-                "color_identifier": "azure_300"
+                "color_identifier": "white"
             },
             "im_orange_theme_incoming_color3_hint_text": {
                 "color_identifier": "forest_green_600"
             },
             "im_orange_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "forest_green_200"
+                "color_identifier": "forest_green_400"
             },
             "im_orange_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "forest_green_400"
@@ -1635,7 +1635,7 @@
                 "color_identifier": "jam_A500"
             },
             "im_pink_theme_outgoing_bubble_background_highlighted": {
-                "color_identifier": "jam_700"
+                "color_identifier": "jam_600"
             },
             "im_pink_theme_outgoing_text_primary": {
                 "color_identifier": "white"
@@ -1644,13 +1644,13 @@
                 "color_identifier": "jam_200"
             },
             "im_pink_theme_outgoing_link": {
-                "color_identifier": "jam_200"
+                "color_identifier": "white"
             },
             "im_pink_theme_outgoing_hint_text": {
                 "color_identifier": "jam_200"
             },
             "im_pink_theme_outgoing_forward_line_tint": {
-                "color_identifier": "jam_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -1680,7 +1680,7 @@
                 "color_identifier": "royal_blue_400"
             },
             "im_pink_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "royal_blue_200"
+                "color_identifier": "royal_blue_A500"
             },
             "im_pink_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "royal_blue_A500"
@@ -1701,16 +1701,16 @@
                 "color_identifier": "black"
             },
             "im_pink_theme_incoming_color2_text_placeholder": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "deep_lilac_200"
             },
             "im_pink_theme_incoming_color2_link": {
                 "color_identifier": "azure_300"
             },
             "im_pink_theme_incoming_color2_hint_text": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "deep_lilac_200"
             },
             "im_pink_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "deep_lilac_100"
+                "color_identifier": "deep_lilac_A500"
             },
             "im_pink_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "deep_lilac_A500"
@@ -1725,7 +1725,7 @@
                 "color_identifier": "jam_50"
             },
             "im_pink_theme_incoming_color3_bubble_background_highlighted": {
-                "color_identifier": "jam_800"
+                "color_identifier": "jam_100"
             },
             "im_pink_theme_incoming_color3_text_primary": {
                 "color_identifier": "black"
@@ -1740,7 +1740,7 @@
                 "color_identifier": "jam_300"
             },
             "im_pink_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "jam_200"
+                "color_identifier": "jam_A500"
             },
             "im_pink_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "jam_A500"
@@ -1755,7 +1755,7 @@
                 "color_identifier": "white"
             },
             "im_pink_theme_outgoing_reply_separator": {
-                "color_identifier": "jam_300"
+                "color_identifier": "white"
             },
             "im_pink_theme_incoming_color1_reply_sender_text": {
                 "color_identifier": "royal_blue_A500"
@@ -1791,13 +1791,13 @@
                 "color_identifier": "deep_lilac_100"
             },
             "im_purple_theme_outgoing_link": {
-                "color_identifier": "deep_lilac_100"
+                "color_identifier": "white"
             },
             "im_purple_theme_outgoing_hint_text": {
                 "color_identifier": "deep_lilac_100"
             },
             "im_purple_theme_outgoing_forward_line_tint": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -1827,7 +1827,7 @@
                 "color_identifier": "royal_blue_400"
             },
             "im_purple_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "royal_blue_200"
+                "color_identifier": "royal_blue_A500"
             },
             "im_purple_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "royal_blue_A500"
@@ -1848,16 +1848,16 @@
                 "color_identifier": "black"
             },
             "im_purple_theme_incoming_color2_text_placeholder": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "deep_lilac_200"
             },
             "im_purple_theme_incoming_color2_link": {
                 "color_identifier": "azure_300"
             },
             "im_purple_theme_incoming_color2_hint_text": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "deep_lilac_200"
             },
             "im_purple_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "deep_lilac_100"
+                "color_identifier": "deep_lilac_A500"
             },
             "im_purple_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "deep_lilac_A500"
@@ -1887,7 +1887,7 @@
                 "color_identifier": "pacific_blue_400"
             },
             "im_purple_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "pacific_blue_200"
+                "color_identifier": "pacific_blue_A500"
             },
             "im_purple_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "pacific_blue_A500"
@@ -1902,7 +1902,7 @@
                 "color_identifier": "white"
             },
             "im_purple_theme_outgoing_reply_separator": {
-                "color_identifier": "deep_lilac_300"
+                "color_identifier": "white"
             },
             "im_purple_theme_incoming_color1_reply_sender_text": {
                 "color_identifier": "royal_blue_A500"
@@ -1938,13 +1938,13 @@
                 "color_identifier": "carrot_200"
             },
             "im_orange_theme_outgoing_link": {
-                "color_identifier": "carrot_200"
+                "color_identifier": "white"
             },
             "im_orange_theme_outgoing_hint_text": {
                 "color_identifier": "carrot_200"
             },
             "im_orange_theme_outgoing_forward_line_tint": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "white"
             },
             "im_orange_theme_outgoing_button_tertiary_foreground": {
                 "color_identifier": "white"
@@ -1959,22 +1959,22 @@
                 "color_identifier": "carrot_50"
             },
             "im_orange_theme_incoming_color1_bubble_background_highlighted": {
-                "color_identifier": "carrot_800"
+                "color_identifier": "carrot_100"
             },
             "im_orange_theme_incoming_color1_text_primary": {
                 "color_identifier": "black"
             },
             "im_orange_theme_incoming_color1_text_placeholder": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "carrot_300"
             },
             "im_orange_theme_incoming_color1_link": {
                 "color_identifier": "azure_300"
             },
             "im_orange_theme_incoming_color1_hint_text": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "carrot_300"
             },
             "im_orange_theme_incoming_color1_forward_line_tint": {
-                "color_identifier": "carrot_200"
+                "color_identifier": "carrot_A500"
             },
             "im_orange_theme_incoming_color1_button_tertiary_foreground": {
                 "color_identifier": "carrot_A500"
@@ -2004,7 +2004,7 @@
                 "color_identifier": "dark_gold_400"
             },
             "im_orange_theme_incoming_color2_forward_line_tint": {
-                "color_identifier": "dark_gold_200"
+                "color_identifier": "dark_gold_A500"
             },
             "im_orange_theme_incoming_color2_button_tertiary_foreground": {
                 "color_identifier": "dark_gold_A500"
@@ -2034,7 +2034,7 @@
                 "color_identifier": "forest_green_400"
             },
             "im_orange_theme_incoming_color3_forward_line_tint": {
-                "color_identifier": "forest_green_700"
+                "color_identifier": "forest_green_A500"
             },
             "im_orange_theme_incoming_color3_button_tertiary_foreground": {
                 "color_identifier": "forest_green_A500"
@@ -2049,7 +2049,7 @@
                 "color_identifier": "white"
             },
             "im_orange_theme_outgoing_reply_separator": {
-                "color_identifier": "carrot_400"
+                "color_identifier": "white"
             },
             "im_orange_theme_incoming_color1_reply_sender_text": {
                 "color_identifier": "carrot_A500"
@@ -2068,7 +2068,7 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_A500"
-            }   
+            }
         }
     }
 }
