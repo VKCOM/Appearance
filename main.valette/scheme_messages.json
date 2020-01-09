@@ -17,6 +17,9 @@
             "im_default_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_default_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_default_theme_outgoing_text_placeholder": {
                 "color_identifier": "gray_300"
             },
@@ -53,6 +56,9 @@
             "im_default_theme_incoming_text_primary": {
                 "color_identifier": "white"
             },
+            "im_default_theme_incoming_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_default_theme_incoming_text_placeholder": {
                 "color_identifier": "gray_300"
             },
@@ -86,6 +92,9 @@
             "im_pink_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_pink_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_pink_theme_outgoing_text_placeholder": {
                 "color_identifier": "jam_200"
             },
@@ -114,6 +123,9 @@
                 "color_identifier": "royal_blue_800"
             },
             "im_pink_theme_incoming_color1_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_pink_theme_incoming_color1_snippet_title": {
                 "color_identifier": "white"
             },
             "im_pink_theme_incoming_color1_text_placeholder": {
@@ -146,6 +158,9 @@
             "im_pink_theme_incoming_color2_text_primary": {
                 "color_identifier": "white"
             },
+            "im_pink_theme_incoming_color2_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_pink_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "deep_lilac_400"
             },
@@ -174,6 +189,9 @@
                 "color_identifier": "jam_100"
             },
             "im_pink_theme_incoming_color3_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_pink_theme_incoming_color3_snippet_title": {
                 "color_identifier": "white"
             },
             "im_pink_theme_incoming_color3_text_placeholder": {
@@ -233,6 +251,9 @@
             "im_purple_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_purple_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_purple_theme_outgoing_text_placeholder": {
                 "color_identifier": "deep_lilac_100"
             },
@@ -261,6 +282,9 @@
                 "color_identifier": "royal_blue_800"
             },
             "im_purple_theme_incoming_color1_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_purple_theme_incoming_color1_snippet_title": {
                 "color_identifier": "white"
             },
             "im_purple_theme_incoming_color1_text_placeholder": {
@@ -293,6 +317,9 @@
             "im_purple_theme_incoming_color2_text_primary": {
                 "color_identifier": "white"
             },
+            "im_purple_theme_incoming_color2_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_purple_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "deep_lilac_400"
             },
@@ -321,6 +348,9 @@
                 "color_identifier": "pacific_blue_800"
             },
             "im_purple_theme_incoming_color3_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_purple_theme_incoming_color3_snippet_title": {
                 "color_identifier": "white"
             },
             "im_purple_theme_incoming_color3_text_placeholder": {
@@ -380,6 +410,9 @@
             "im_orange_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_orange_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_orange_theme_outgoing_text_placeholder": {
                 "color_identifier": "carrot_200"
             },
@@ -408,6 +441,9 @@
                 "color_identifier": "carrot_800"
             },
             "im_orange_theme_incoming_color1_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_orange_theme_incoming_color1_snippet_title": {
                 "color_identifier": "white"
             },
             "im_orange_theme_incoming_color1_text_placeholder": {
@@ -440,6 +476,9 @@
             "im_orange_theme_incoming_color2_text_primary": {
                 "color_identifier": "white"
             },
+            "im_orange_theme_incoming_color2_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_orange_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "dark_gold_600"
             },
@@ -468,6 +507,9 @@
                 "color_identifier": "forest_green_800"
             },
             "im_orange_theme_incoming_color3_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_orange_theme_incoming_color3_snippet_title": {
                 "color_identifier": "white"
             },
             "im_orange_theme_incoming_color3_text_placeholder": {
@@ -535,6 +577,9 @@
             "im_default_theme_outgoing_text_primary": {
                 "color_identifier": "black"
             },
+            "im_default_theme_outgoing_snippet_title": {
+                "color_identifier": "black"
+            },
             "im_default_theme_outgoing_text_placeholder": {
                 "color_identifier": "steel_gray_400"
             },
@@ -571,6 +616,9 @@
             "im_default_theme_incoming_text_primary": {
                 "color_identifier": "black"
             },
+            "im_default_theme_incoming_snippet_title": {
+                "color_identifier": "black"
+            },
             "im_default_theme_incoming_text_placeholder": {
                 "color_identifier": "steel_gray_400"
             },
@@ -604,6 +652,9 @@
             "im_pink_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_pink_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_pink_theme_outgoing_text_placeholder": {
                 "color_identifier": "jam_200"
             },
@@ -633,6 +684,9 @@
             },
             "im_pink_theme_incoming_color1_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_pink_theme_incoming_color1_snippet_title": {
+                "color_identifier": "royal_blue_A500"
             },
             "im_pink_theme_incoming_color1_text_placeholder": {
                 "color_identifier": "royal_blue_400"
@@ -664,6 +718,9 @@
             "im_pink_theme_incoming_color2_text_primary": {
                 "color_identifier": "black"
             },
+            "im_pink_theme_incoming_color2_snippet_title": {
+                "color_identifier": "deep_lilac_A500"
+            },
             "im_pink_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "deep_lilac_200"
             },
@@ -693,6 +750,9 @@
             },
             "im_pink_theme_incoming_color3_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_pink_theme_incoming_color3_snippet_title": {
+                "color_identifier": "jam_A500"
             },
             "im_pink_theme_incoming_color3_text_placeholder": {
                 "color_identifier": "jam_300"
@@ -751,6 +811,9 @@
             "im_purple_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_purple_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_purple_theme_outgoing_text_placeholder": {
                 "color_identifier": "deep_lilac_100"
             },
@@ -780,6 +843,9 @@
             },
             "im_purple_theme_incoming_color1_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_purple_theme_incoming_color1_snippet_title": {
+                "color_identifier": "royal_blue_A500"
             },
             "im_purple_theme_incoming_color1_text_placeholder": {
                 "color_identifier": "royal_blue_400"
@@ -811,6 +877,9 @@
             "im_purple_theme_incoming_color2_text_primary": {
                 "color_identifier": "black"
             },
+            "im_purple_theme_incoming_color2_snippet_title": {
+                "color_identifier": "deep_lilac_A500"
+            },
             "im_purple_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "deep_lilac_200"
             },
@@ -840,6 +909,9 @@
             },
             "im_purple_theme_incoming_color3_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_purple_theme_incoming_color3_snippet_title": {
+                "color_identifier": "pacific_blue_A500"
             },
             "im_purple_theme_incoming_color3_text_placeholder": {
                 "color_identifier": "pacific_blue_400"
@@ -898,6 +970,9 @@
             "im_orange_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_orange_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_orange_theme_outgoing_text_placeholder": {
                 "color_identifier": "carrot_200"
             },
@@ -927,6 +1002,9 @@
             },
             "im_orange_theme_incoming_color1_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_orange_theme_incoming_color1_snippet_title": {
+                "color_identifier": "carrot_A500"
             },
             "im_orange_theme_incoming_color1_text_placeholder": {
                 "color_identifier": "carrot_300"
@@ -958,6 +1036,9 @@
             "im_orange_theme_incoming_color2_text_primary": {
                 "color_identifier": "black"
             },
+            "im_orange_theme_incoming_color2_snippet_title": {
+                "color_identifier": "dark_gold_A500"
+            },
             "im_orange_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "dark_gold_400"
             },
@@ -987,6 +1068,9 @@
             },
             "im_orange_theme_incoming_color3_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_orange_theme_incoming_color3_snippet_title": {
+                "color_identifier": "forest_green_A500"
             },
             "im_orange_theme_incoming_color3_text_placeholder": {
                 "color_identifier": "forest_green_400"
@@ -1053,6 +1137,9 @@
             "im_default_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_default_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_default_theme_outgoing_text_placeholder": {
                 "color_identifier": "gray_300"
             },
@@ -1089,6 +1176,9 @@
             "im_default_theme_incoming_text_primary": {
                 "color_identifier": "white"
             },
+            "im_default_theme_incoming_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_default_theme_incoming_text_placeholder": {
                 "color_identifier": "gray_300"
             },
@@ -1122,6 +1212,9 @@
             "im_pink_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_pink_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_pink_theme_outgoing_text_placeholder": {
                 "color_identifier": "jam_200"
             },
@@ -1150,6 +1243,9 @@
                 "color_identifier": "royal_blue_800"
             },
             "im_pink_theme_incoming_color1_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_pink_theme_incoming_color1_snippet_title": {
                 "color_identifier": "white"
             },
             "im_pink_theme_incoming_color1_text_placeholder": {
@@ -1182,6 +1278,9 @@
             "im_pink_theme_incoming_color2_text_primary": {
                 "color_identifier": "white"
             },
+            "im_pink_theme_incoming_color2_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_pink_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "deep_lilac_400"
             },
@@ -1210,6 +1309,9 @@
                 "color_identifier": "jam_100"
             },
             "im_pink_theme_incoming_color3_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_pink_theme_incoming_color3_snippet_title": {
                 "color_identifier": "white"
             },
             "im_pink_theme_incoming_color3_text_placeholder": {
@@ -1269,6 +1371,9 @@
             "im_purple_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_purple_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_purple_theme_outgoing_text_placeholder": {
                 "color_identifier": "deep_lilac_100"
             },
@@ -1297,6 +1402,9 @@
                 "color_identifier": "royal_blue_800"
             },
             "im_purple_theme_incoming_color1_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_purple_theme_incoming_color1_snippet_title": {
                 "color_identifier": "white"
             },
             "im_purple_theme_incoming_color1_text_placeholder": {
@@ -1329,6 +1437,9 @@
             "im_purple_theme_incoming_color2_text_primary": {
                 "color_identifier": "white"
             },
+            "im_purple_theme_incoming_color2_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_purple_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "deep_lilac_400"
             },
@@ -1357,6 +1468,9 @@
                 "color_identifier": "pacific_blue_800"
             },
             "im_purple_theme_incoming_color3_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_purple_theme_incoming_color3_snippet_title": {
                 "color_identifier": "white"
             },
             "im_purple_theme_incoming_color3_text_placeholder": {
@@ -1416,6 +1530,9 @@
             "im_orange_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_orange_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_orange_theme_outgoing_text_placeholder": {
                 "color_identifier": "carrot_200"
             },
@@ -1444,6 +1561,9 @@
                 "color_identifier": "carrot_800"
             },
             "im_orange_theme_incoming_color1_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_orange_theme_incoming_color1_snippet_title": {
                 "color_identifier": "white"
             },
             "im_orange_theme_incoming_color1_text_placeholder": {
@@ -1476,6 +1596,9 @@
             "im_orange_theme_incoming_color2_text_primary": {
                 "color_identifier": "white"
             },
+            "im_orange_theme_incoming_color2_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_orange_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "dark_gold_600"
             },
@@ -1504,6 +1627,9 @@
                 "color_identifier": "forest_green_800"
             },
             "im_orange_theme_incoming_color3_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_orange_theme_incoming_color3_snippet_title": {
                 "color_identifier": "white"
             },
             "im_orange_theme_incoming_color3_text_placeholder": {
@@ -1571,6 +1697,9 @@
             "im_default_theme_outgoing_text_primary": {
                 "color_identifier": "black"
             },
+            "im_default_theme_outgoing_snippet_title": {
+                "color_identifier": "black"
+            },
             "im_default_theme_outgoing_text_placeholder": {
                 "color_identifier": "steel_gray_400"
             },
@@ -1607,6 +1736,9 @@
             "im_default_theme_incoming_text_primary": {
                 "color_identifier": "black"
             },
+            "im_default_theme_incoming_snippet_title": {
+                "color_identifier": "black"
+            },
             "im_default_theme_incoming_text_placeholder": {
                 "color_identifier": "steel_gray_400"
             },
@@ -1640,6 +1772,9 @@
             "im_pink_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_pink_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_pink_theme_outgoing_text_placeholder": {
                 "color_identifier": "jam_200"
             },
@@ -1669,6 +1804,9 @@
             },
             "im_pink_theme_incoming_color1_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_pink_theme_incoming_color1_snippet_title": {
+                "color_identifier": "royal_blue_A500"
             },
             "im_pink_theme_incoming_color1_text_placeholder": {
                 "color_identifier": "royal_blue_400"
@@ -1700,6 +1838,9 @@
             "im_pink_theme_incoming_color2_text_primary": {
                 "color_identifier": "black"
             },
+            "im_pink_theme_incoming_color2_snippet_title": {
+                "color_identifier": "deep_lilac_A500"
+            },
             "im_pink_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "deep_lilac_200"
             },
@@ -1729,6 +1870,9 @@
             },
             "im_pink_theme_incoming_color3_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_pink_theme_incoming_color3_snippet_title": {
+                "color_identifier": "jam_A500"
             },
             "im_pink_theme_incoming_color3_text_placeholder": {
                 "color_identifier": "jam_300"
@@ -1787,6 +1931,9 @@
             "im_purple_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_purple_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_purple_theme_outgoing_text_placeholder": {
                 "color_identifier": "deep_lilac_100"
             },
@@ -1816,6 +1963,9 @@
             },
             "im_purple_theme_incoming_color1_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_purple_theme_incoming_color1_snippet_title": {
+                "color_identifier": "royal_blue_A500"
             },
             "im_purple_theme_incoming_color1_text_placeholder": {
                 "color_identifier": "royal_blue_400"
@@ -1847,6 +1997,9 @@
             "im_purple_theme_incoming_color2_text_primary": {
                 "color_identifier": "black"
             },
+            "im_purple_theme_incoming_color2_snippet_title": {
+                "color_identifier": "deep_lilac_A500"
+            },
             "im_purple_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "deep_lilac_200"
             },
@@ -1876,6 +2029,9 @@
             },
             "im_purple_theme_incoming_color3_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_purple_theme_incoming_color3_snippet_title": {
+                "color_identifier": "pacific_blue_A500"
             },
             "im_purple_theme_incoming_color3_text_placeholder": {
                 "color_identifier": "pacific_blue_400"
@@ -1934,6 +2090,9 @@
             "im_orange_theme_outgoing_text_primary": {
                 "color_identifier": "white"
             },
+            "im_orange_theme_outgoing_snippet_title": {
+                "color_identifier": "white"
+            },
             "im_orange_theme_outgoing_text_placeholder": {
                 "color_identifier": "carrot_200"
             },
@@ -1963,6 +2122,9 @@
             },
             "im_orange_theme_incoming_color1_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_orange_theme_incoming_color1_snippet_title": {
+                "color_identifier": "carrot_A500"
             },
             "im_orange_theme_incoming_color1_text_placeholder": {
                 "color_identifier": "carrot_300"
@@ -1994,6 +2156,9 @@
             "im_orange_theme_incoming_color2_text_primary": {
                 "color_identifier": "black"
             },
+            "im_orange_theme_incoming_color2_snippet_title": {
+                "color_identifier": "dark_gold_A500"
+            },
             "im_orange_theme_incoming_color2_text_placeholder": {
                 "color_identifier": "dark_gold_400"
             },
@@ -2023,6 +2188,9 @@
             },
             "im_orange_theme_incoming_color3_text_primary": {
                 "color_identifier": "black"
+            },
+            "im_orange_theme_incoming_color3_snippet_title": {
+                "color_identifier": "forest_green_A500"
             },
             "im_orange_theme_incoming_color3_text_placeholder": {
                 "color_identifier": "forest_green_400"
