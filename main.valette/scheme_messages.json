@@ -1031,7 +1031,7 @@
                 "color_identifier": "dark_gold_50"
             },
             "im_orange_theme_incoming_color2_bubble_background_highlighted": {
-                "color_identifier": "dark_gold_200"
+                "color_identifier": "dark_gold_100"
             },
             "im_orange_theme_incoming_color2_text_primary": {
                 "color_identifier": "black"
@@ -2151,7 +2151,7 @@
                 "color_identifier": "dark_gold_50"
             },
             "im_orange_theme_incoming_color2_bubble_background_highlighted": {
-                "color_identifier": "dark_gold_200"
+                "color_identifier": "dark_gold_100"
             },
             "im_orange_theme_incoming_color2_text_primary": {
                 "color_identifier": "black"
