@@ -624,7 +624,19 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet_light"
-            }
+            },
+            "vkconnect_primary_button_background": {
+                "color_identifier": "gray_100"
+            },
+            "vkconnect_primary_button_foreground": {
+                "color_identifier": "gray_850"
+            },
+            "vkconnect_secondary_button_background": {
+                "color_identifier": "gray_800"
+            },
+            "vkconnect_secondary_button_foreground": {
+                "color_identifier": "gray_100"
+            },
         }
     },
     "client_light": {
@@ -1250,7 +1262,19 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet"
-            }
+            },
+            "vkconnect_primary_button_background": {
+                "color_identifier": "gray_850"
+            },
+            "vkconnect_primary_button_foreground": {
+                "color_identifier": "white"
+            },
+            "vkconnect_secondary_button_background": {
+                "color_identifier": "gray_40"
+            },
+            "vkconnect_secondary_button_foreground": {
+                "color_identifier": "gray_850"
+            },
         }
     },
     "space_gray": {
@@ -1878,7 +1902,19 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet_light"
-            }
+            },
+            "vkconnect_primary_button_background": {
+                "color_identifier": "gray_100"
+            },
+            "vkconnect_primary_button_foreground": {
+                "color_identifier": "gray_850"
+            },
+            "vkconnect_secondary_button_background": {
+                "color_identifier": "gray_800"
+            },
+            "vkconnect_secondary_button_foreground": {
+                "color_identifier": "gray_100"
+            },
         }
     },
     "bright_light": {
@@ -2505,7 +2541,19 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet"
-            }
+            },
+            "vkconnect_primary_button_background": {
+                "color_identifier": "gray_850"
+            },
+            "vkconnect_primary_button_foreground": {
+                "color_identifier": "white"
+            },
+            "vkconnect_secondary_button_background": {
+                "color_identifier": "gray_40"
+            },
+            "vkconnect_secondary_button_foreground": {
+                "color_identifier": "gray_850"
+            },
         }
     }
 }
