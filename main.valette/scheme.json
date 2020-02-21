@@ -624,7 +624,19 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet_light"
-            }
+            },
+            "vk_connect_button_primary_background": {
+                "color_identifier": "gray_100"
+            },
+            "vk_connect_button_primary_foreground": {
+                "color_identifier": "gray_900"
+            },
+            "vk_connect_button_secondary_background": {
+                "color_identifier": "gray_700"
+            },
+            "vk_connect_button_secondary_foreground": {
+                "color_identifier": "gray_100"
+            },
         }
     },
     "client_light": {
@@ -1250,7 +1262,19 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet"
-            }
+            },
+            "vk_connect_button_primary_background": {
+                "color_identifier": "gray_900"
+            },
+            "vk_connect_button_primary_foreground": {
+                "color_identifier": "white"
+            },
+            "vk_connect_button_secondary_background": {
+                "color_identifier": "gray_40"
+            },
+            "vk_connect_button_secondary_foreground": {
+                "color_identifier": "gray_900"
+            },
         }
     },
     "space_gray": {
@@ -1878,7 +1902,19 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet_light"
-            }
+            },
+            "vk_connect_button_primary_background": {
+                "color_identifier": "gray_100"
+            },
+            "vk_connect_button_primary_foreground": {
+                "color_identifier": "gray_900"
+            },
+            "vk_connect_button_secondary_background": {
+                "color_identifier": "gray_700"
+            },
+            "vk_connect_button_secondary_foreground": {
+                "color_identifier": "gray_100"
+            },
         }
     },
     "bright_light": {
@@ -2505,7 +2541,19 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet"
-            }
+            },
+            "vk_connect_button_primary_background": {
+                "color_identifier": "gray_900"
+            },
+            "vk_connect_button_primary_foreground": {
+                "color_identifier": "white"
+            },
+            "vk_connect_button_secondary_background": {
+                "color_identifier": "gray_40"
+            },
+            "vk_connect_button_secondary_foreground": {
+                "color_identifier": "gray_900"
+            },
         }
     }
 }
