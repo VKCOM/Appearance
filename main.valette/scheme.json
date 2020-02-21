@@ -454,6 +454,9 @@
             "placeholder_icon_background": {
                 "color_identifier": "white_alpha8"
             },
+            "placeholder_icon_background_opaque": {
+                "color_identifier": "gray_850"
+            },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "gray_400"
             },
@@ -1091,6 +1094,9 @@
             },
             "placeholder_icon_background": {
                 "color_identifier": "black_blue24_alpha8"
+            },
+            "placeholder_icon_background_opaque": {
+                "color_identifier": "gray_50"
             },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "steel_gray_300"
@@ -1732,6 +1738,9 @@
             "placeholder_icon_background": {
                 "color_identifier": "white_alpha8"
             },
+            "placeholder_icon_background_opaque": {
+                "color_identifier": "gray_850"
+            },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "gray_400"
             },
@@ -2370,6 +2379,9 @@
             },
             "placeholder_icon_background": {
                 "color_identifier": "black_blue24_alpha8"
+            },
+            "placeholder_icon_background_opaque": {
+                "color_identifier": "gray_50"
             },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "steel_gray_300"
