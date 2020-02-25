@@ -639,7 +639,7 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
-            },
+            }
         }
     },
     "client_light": {
@@ -1280,7 +1280,7 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
-            },
+            }
         }
     },
     "space_gray": {
@@ -1923,7 +1923,7 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
-            },
+            }
         }
     },
     "bright_light": {
@@ -2565,7 +2565,7 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
-            },
+            }
         }
     }
 }
