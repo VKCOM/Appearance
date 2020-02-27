@@ -237,7 +237,7 @@
                 "color_identifier": "gray_500"
             },
             "icon_tertiary": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_600"
             },
             "im_attach_tint": {
                 "color_identifier": "sky_300"
@@ -1521,7 +1521,7 @@
                 "color_identifier": "gray_500"
             },
             "icon_tertiary": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_600"
             },
             "im_attach_tint": {
                 "color_identifier": "white"
@@ -2165,7 +2165,7 @@
                 "color_identifier": "steel_gray_300"
             },
             "icon_tertiary": {
-                "color_identifier": "gray_200"
+                "color_identifier": "steel_gray_150"
             },
             "im_attach_tint": {
                 "color_identifier": "azure_A400"
