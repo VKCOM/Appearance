@@ -83,6 +83,20 @@
             "button_secondary_foreground": {
                 "color_identifier": "gray_100"
             },
+            "button_secondary_destructive_background": {
+                "color_identifier": "gray_700"
+            },
+            "button_secondary_destructive_background_highlighted": {
+                "color_identifier": "gray_700",
+                "alpha_multiplier": 0.6
+            },
+            "button_secondary_destructive_foreground": {
+                "color_identifier": "red_light"
+            },
+            "button_secondary_destructive_foreground_highlighted": {
+                "color_identifier": "red_light",
+                "alpha_multiplier": 0.6
+            },
             "button_tertiary_background": {
                 "color_identifier": "clear"
             },
@@ -726,6 +740,20 @@
             "button_secondary_foreground": {
                 "color_identifier": "blue_600"
             },
+            "button_secondary_destructive_background": {
+                "color_identifier": "black_blue45_alpha10"
+            },
+            "button_secondary_destructive_background_highlighted": {
+                "color_identifier": "black_blue45_alpha10",
+                "alpha_multiplier": 0.6
+            },
+            "button_secondary_destructive_foreground": {
+                "color_identifier": "red"
+            },
+            "button_secondary_destructive_foreground_highlighted": {
+                "color_identifier": "red",
+                "alpha_multiplier": 0.6
+            },
             "button_tertiary_background": {
                 "color_identifier": "clear"
             },
@@ -1366,6 +1394,20 @@
             },
             "button_secondary_foreground": {
                 "color_identifier": "gray_100"
+            },
+            "button_secondary_destructive_background": {
+                "color_identifier": "gray_700"
+            },
+            "button_secondary_destructive_background_highlighted": {
+                "color_identifier": "gray_700",
+                "alpha_multiplier": 0.6
+            },
+            "button_secondary_destructive_foreground": {
+                "color_identifier": "red_light"
+            },
+            "button_secondary_destructive_foreground_highlighted": {
+                "color_identifier": "red_light",
+                "alpha_multiplier": 0.6
             },
             "button_tertiary_background": {
                 "color_identifier": "clear"
@@ -2010,6 +2052,21 @@
             },
             "button_secondary_foreground": {
                 "color_identifier": "azure_300"
+            },
+            "button_secondary_destructive_background": {
+                "color_identifier": "black_blue24",
+                "alpha_multiplier": 0.05
+            },
+            "button_secondary_destructive_background_highlighted": {
+                "color_identifier": "black_blue24",
+                "alpha_multiplier": 0.03
+            },
+            "button_secondary_destructive_foreground": {
+                "color_identifier": "red"
+            },
+            "button_secondary_destructive_foreground_highlighted": {
+                "color_identifier": "red",
+                "alpha_multiplier": 0.6
             },
             "button_tertiary_background": {
                 "color_identifier": "clear"
