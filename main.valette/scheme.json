@@ -1814,7 +1814,7 @@
                 "color_identifier": "gray_500"
             },
             "selection_off_icon": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_600"
             },
             "separator_alpha": {
                 "color_identifier": "white_alpha12"
@@ -2471,7 +2471,7 @@
                 "color_identifier": "steel_gray_300"
             },
             "selection_off_icon": {
-                "color_identifier": "gray_200"
+                "color_identifier": "stee_gray_150"
             },
             "separator_alpha": {
                 "color_identifier": "black_alpha12"
