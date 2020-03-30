@@ -53,5 +53,11 @@
     "carrot_A500": "#E56322",
     "carrot_600": "#BF5926",
     "carrot_800": "#663014",
-    "carrot_900": "#401E0D"
+    "carrot_900": "#401E0D",
+    "lavender_100": "#E6E9FF",
+    "lavender_200": "#CCD3FF",
+    "lavender_300": "#ADB8FF",
+    "lavender_700": "#5965B3",
+    "lavender_800": "#404980",
+    "lavender_900": "#262B4D"
 }
