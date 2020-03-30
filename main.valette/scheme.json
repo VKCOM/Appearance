@@ -653,6 +653,18 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
+            },
+            "im_bubble_incoming_expiring": {
+                "color_identifier": "lavender_900"
+            },
+            "im_bubble_incoming_expiring_highlighted": {
+                "color_identifier": "lavender_800"
+            },
+            "im_bubble_outgoing_expiring": {
+                "color_identifier": "lavender_800"
+            },
+            "im_bubble_outgoing_expiring_highlighted": {
+                "color_identifier": "lavender_700"
             }
         }
     },
@@ -1308,6 +1320,18 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
+            },
+            "im_bubble_incoming_expiring": {
+                "color_identifier": "lavender_100"
+            },
+            "im_bubble_incoming_expiring_highlighted": {
+                "color_identifier": "lavender_200"
+            },
+            "im_bubble_outgoing_expiring": {
+                "color_identifier": "lavender_200"
+            },
+            "im_bubble_outgoing_expiring_highlighted": {
+                "color_identifier": "lavender_300"
             }
         }
     },
@@ -1965,6 +1989,18 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
+            },
+            "im_bubble_incoming_expiring": {
+                "color_identifier": "lavender_900"
+            },
+            "im_bubble_incoming_expiring_highlighted": {
+                "color_identifier": "lavender_800"
+            },
+            "im_bubble_outgoing_expiring": {
+                "color_identifier": "lavender_800"
+            },
+            "im_bubble_outgoing_expiring_highlighted": {
+                "color_identifier": "lavender_700"
             }
         }
     },
@@ -2622,6 +2658,18 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
+            },
+            "im_bubble_incoming_expiring": {
+                "color_identifier": "lavender_100"
+            },
+            "im_bubble_incoming_expiring_highlighted": {
+                "color_identifier": "lavender_200"
+            },
+            "im_bubble_outgoing_expiring": {
+                "color_identifier": "lavender_200"
+            },
+            "im_bubble_outgoing_expiring_highlighted": {
+                "color_identifier": "lavender_300"
             }
         }
     }
