@@ -105,5 +105,11 @@
     "white_blue32": "#ADD3FF",
     "yellow": "#ffc107",
     "yellow_light": "#FFD54F",
-    "yellow_sunflower": "#FECE00"
+    "yellow_sunflower": "#FECE00",
+    "lavender_100": "#E6E9FF",
+    "lavender_200": "#CCD3FF",
+    "lavender_300": "#ADB8FF",
+    "lavender_700": "#5965B3",
+    "lavender_800": "#404980",
+    "lavender_900": "#262B4D"
 }
