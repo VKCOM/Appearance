@@ -241,6 +241,10 @@
             "icon_medium": {
                 "color_identifier": "gray_400"
             },
+            "icon_medium_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.48
+            },
             "icon_outline_medium": {
                 "color_identifier": "gray_300"
             },
@@ -250,8 +254,16 @@
             "icon_secondary": {
                 "color_identifier": "gray_500"
             },
+            "icon_secondary_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.36
+            },
             "icon_tertiary": {
                 "color_identifier": "gray_600"
+            },
+            "icon_tertiary_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_attach_tint": {
                 "color_identifier": "sky_300"
@@ -907,6 +919,10 @@
             "icon_medium": {
                 "color_identifier": "gray_400"
             },
+            "icon_medium_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.48
+            },
             "icon_outline_medium": {
                 "color_identifier": "steel_gray_400"
             },
@@ -916,8 +932,16 @@
             "icon_secondary": {
                 "color_identifier": "gray_300"
             },
+            "icon_secondary_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.36
+            },
             "icon_tertiary": {
                 "color_identifier": "gray_200"
+            },
+            "icon_tertiary_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.24
             },
             "im_attach_tint": {
                 "color_identifier": "blue_400"
@@ -1570,6 +1594,10 @@
             },
             "icon_medium": {
                 "color_identifier": "gray_400"
+             },
+            "icon_medium_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.48
             },
             "icon_outline_medium": {
                 "color_identifier": "gray_300"
@@ -1580,8 +1608,16 @@
             "icon_secondary": {
                 "color_identifier": "gray_500"
             },
+            "icon_secondary_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.36
+            },
             "icon_tertiary": {
                 "color_identifier": "gray_600"
+            },
+            "icon_tertiary_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_attach_tint": {
                 "color_identifier": "white"
@@ -2238,6 +2274,10 @@
             },
             "icon_medium": {
                 "color_identifier": "steel_gray_400"
+             },
+            "icon_medium_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.48
             },
             "icon_outline_medium": {
                 "color_identifier": "steel_gray_400"
@@ -2247,9 +2287,17 @@
             },
             "icon_secondary": {
                 "color_identifier": "steel_gray_300"
+                },
+            "icon_secondary_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.36
             },
             "icon_tertiary": {
                 "color_identifier": "steel_gray_150"
+            },
+            "icon_tertiary_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.24
             },
             "im_attach_tint": {
                 "color_identifier": "azure_A400"
