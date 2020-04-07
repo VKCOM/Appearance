@@ -83,6 +83,20 @@
             "button_secondary_foreground": {
                 "color_identifier": "gray_100"
             },
+            "button_secondary_destructive_background": {
+                "color_identifier": "gray_700"
+            },
+            "button_secondary_destructive_background_highlighted": {
+                "color_identifier": "gray_700",
+                "alpha_multiplier": 0.6
+            },
+            "button_secondary_destructive_foreground": {
+                "color_identifier": "red_light"
+            },
+            "button_secondary_destructive_foreground_highlighted": {
+                "color_identifier": "red_light",
+                "alpha_multiplier": 0.6
+            },
             "button_tertiary_background": {
                 "color_identifier": "clear"
             },
@@ -226,6 +240,10 @@
             },
             "icon_medium": {
                 "color_identifier": "gray_400"
+             },
+            "icon_medium_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.48
             },
             "icon_outline_medium": {
                 "color_identifier": "gray_300"
@@ -236,8 +254,16 @@
             "icon_secondary": {
                 "color_identifier": "gray_500"
             },
+            "icon_secondary_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.36
+            },
             "icon_tertiary": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_600"
+            },
+            "icon_tertiary_alpha": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_attach_tint": {
                 "color_identifier": "white"
@@ -252,6 +278,9 @@
                 "color_identifier": "white",
                 "alpha_multiplier": 0.16
             },
+            "im_bubble_button_outgoing_background": {
+                "color_identifier": "gray_600"
+            },
             "im_bubble_button_background_highlighted": {
                 "color_identifier": "white",
                 "alpha_multiplier": 0.24
@@ -259,11 +288,17 @@
             "im_bubble_button_foreground": {
                 "color_identifier": "gray_100"
             },
-            "im_bubble_expiring": {
-                "color_identifier": "mint_400"
+            "im_bubble_incoming_expiring": {
+                "color_identifier": "lavender_900"
             },
-            "im_bubble_expiring_highlighted": {
-                "color_identifier": "mint_500"
+            "im_bubble_incoming_expiring_highlighted": {
+                "color_identifier": "lavender_800"
+            },
+            "im_bubble_outgoing_expiring": {
+                "color_identifier": "lavender_800"
+            },
+            "im_bubble_outgoing_expiring_highlighted": {
+                "color_identifier": "lavender_700"
             },
             "im_bubble_incoming": {
                 "color_identifier": "gray_800"
@@ -454,6 +489,9 @@
             "placeholder_icon_background": {
                 "color_identifier": "white_alpha8"
             },
+            "placeholder_icon_background_opaque": {
+                "color_identifier": "gray_850"
+            },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "gray_400"
             },
@@ -485,7 +523,7 @@
                 "color_identifier": "gray_500"
             },
             "selection_off_icon": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_600"
             },
             "separator_alpha": {
                 "color_identifier": "white_alpha12"
@@ -636,7 +674,7 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
-            },
+            }
         }
     },
     "bright_light": {
@@ -723,6 +761,21 @@
             },
             "button_secondary_foreground": {
                 "color_identifier": "azure_300"
+            },
+            "button_secondary_destructive_background": {
+                "color_identifier": "black_blue24",
+                "alpha_multiplier": 0.05
+            },
+            "button_secondary_destructive_background_highlighted": {
+                "color_identifier": "black_blue24",
+                "alpha_multiplier": 0.03
+            },
+            "button_secondary_destructive_foreground": {
+                "color_identifier": "red"
+            },
+            "button_secondary_destructive_foreground_highlighted": {
+                "color_identifier": "red",
+                "alpha_multiplier": 0.6
             },
             "button_tertiary_background": {
                 "color_identifier": "clear"
@@ -867,6 +920,10 @@
             },
             "icon_medium": {
                 "color_identifier": "steel_gray_400"
+             },
+            "icon_medium_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.48
             },
             "icon_outline_medium": {
                 "color_identifier": "steel_gray_400"
@@ -876,9 +933,17 @@
             },
             "icon_secondary": {
                 "color_identifier": "steel_gray_300"
+                },
+            "icon_secondary_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.36
             },
             "icon_tertiary": {
-                "color_identifier": "gray_200"
+                "color_identifier": "steel_gray_150"
+            },
+            "icon_tertiary_alpha": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.24
             },
             "im_attach_tint": {
                 "color_identifier": "azure_A400"
@@ -892,17 +957,26 @@
             "im_bubble_button_background": {
                 "color_identifier": "gray_20"
             },
+            "im_bubble_button_outgoing_background": {
+                "color_identifier": "white_alpha60"
+            },
             "im_bubble_button_background_highlighted": {
                 "color_identifier": "gray_A150"
             },
             "im_bubble_button_foreground": {
                 "color_identifier": "black"
             },
-            "im_bubble_expiring": {
-                "color_identifier": "mint_100"
+            "im_bubble_incoming_expiring": {
+                "color_identifier": "lavender_100"
             },
-            "im_bubble_expiring_highlighted": {
-                "color_identifier": "mint_200"
+            "im_bubble_incoming_expiring_highlighted": {
+                "color_identifier": "lavender_200"
+            },
+            "im_bubble_outgoing_expiring": {
+                "color_identifier": "lavender_200"
+            },
+            "im_bubble_outgoing_expiring_highlighted": {
+                "color_identifier": "lavender_300"
             },
             "im_bubble_incoming": {
                 "color_identifier": "gray_50"
@@ -1093,6 +1167,9 @@
             "placeholder_icon_background": {
                 "color_identifier": "black_blue24_alpha8"
             },
+            "placeholder_icon_background_opaque": {
+                "color_identifier": "gray_50"
+            },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "steel_gray_300"
             },
@@ -1124,7 +1201,7 @@
                 "color_identifier": "steel_gray_300"
             },
             "selection_off_icon": {
-                "color_identifier": "gray_200"
+                "color_identifier": "steel_gray_150"
             },
             "separator_alpha": {
                 "color_identifier": "black_alpha12"
@@ -1275,7 +1352,7 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
-            },
+            }
         }
     }
 }
