@@ -674,6 +674,10 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
+            },
+            "background_text_hightlited": {
+                "color_identifier": "sky_300",
+                "alpha_multiplier": 0.24
             }
         }
     },
@@ -1352,6 +1356,10 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
+            },
+            "background_text_hightlited": {
+                "color_identifier": "azure_300",
+                "alpha_multiplier": 0.2
             }
         }
     }
