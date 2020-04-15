@@ -643,7 +643,7 @@
                 "color_identifier": "gray_500"
             },
             "writebar_icon": {
-                "color_identifier": "gray_400"
+                "color_identifier": "gray_100"
             },
             "dynamic_blue": {
                 "color_identifier": "azure_300"
