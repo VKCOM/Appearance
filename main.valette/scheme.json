@@ -643,7 +643,7 @@
                 "color_identifier": "gray_500"
             },
             "writebar_icon": {
-                "color_identifier": "gray_400"
+                "color_identifier": "gray_100"
             },
             "dynamic_blue": {
                 "color_identifier": "azure_300"
@@ -674,6 +674,10 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
+            },
+            "background_text_hightlited": {
+                "color_identifier": "sky_300",
+                "alpha_multiplier": 0.24
             },
             "skeleton_shimmer_from": {
                 "color_identifier": "gray_900"
@@ -1359,6 +1363,10 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
+            },
+            "background_text_hightlited": {
+                "color_identifier": "azure_300",
+                "alpha_multiplier": 0.2
             },
             "skeleton_shimmer_from": {
                 "color_identifier": "white"
