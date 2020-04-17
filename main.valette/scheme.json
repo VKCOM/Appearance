@@ -674,6 +674,13 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
+            },
+            "skeleton_shimmer_from": {
+                "color_identifier": "gray_900"
+            },
+            "skeleton_shimmer_to": {
+                "color_identifier": "gray_900",
+                "alpha_multiplier": 0.08
             }
         }
     },
@@ -1352,6 +1359,12 @@
             },
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
+            },
+            "skeleton_shimmer_from": {
+                "color_identifier": "white"
+            },
+            "skeleton_shimmer_to": {
+                "color_identifier": "white_alpha8"
             }
         }
     }
