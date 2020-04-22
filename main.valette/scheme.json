@@ -35,6 +35,10 @@
             "background_content": {
                 "color_identifier": "gray_900"
             },
+            "background_hover": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.04
+            },
             "background_highlighted": {
                 "color_identifier": "white_alpha8"
             },
@@ -723,6 +727,10 @@
             },
             "background_content": {
                 "color_identifier": "white"
+            },
+            "background_hover": {
+                "color_identifier": "black",
+                "alpha_multiplier": 0.04
             },
             "background_highlighted": {
                 "color_identifier": "black_alpha8"
