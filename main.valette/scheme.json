@@ -680,7 +680,8 @@
                 "alpha_multiplier": 0.24
             },
             "skeleton_shimmer_from": {
-                "color_identifier": "gray_900"
+                "color_identifier": "gray_900",
+                "alpha_multiplier": 0
             },
             "skeleton_shimmer_to": {
                 "color_identifier": "gray_900",
