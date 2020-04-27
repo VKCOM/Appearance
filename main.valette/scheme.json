@@ -688,7 +688,7 @@
             },
             "skeleton_shimmer_to": {
                 "color_identifier": "gray_900",
-                "alpha_multiplier": 0.08
+                "alpha_multiplier": 0
             }
         }
     },
@@ -1380,7 +1380,8 @@
                 "color_identifier": "white"
             },
             "skeleton_shimmer_to": {
-                "color_identifier": "white_alpha8"
+                "color_identifier": "white",
+                "alpha_multiplier": 0
             }
         }
     }
