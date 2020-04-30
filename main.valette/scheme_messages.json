@@ -556,18 +556,6 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_400"
-            },
-            "im_bubble_incoming_expiring": {
-                "color_identifier": "lavender_900"
-            },
-            "im_bubble_incoming_expiring_highlighted": {
-                "color_identifier": "lavender_800"
-            },
-            "im_bubble_outgoing_expiring": {
-                "color_identifier": "lavender_800"
-            },
-            "im_bubble_outgoing_expiring_highlighted": {
-                "color_identifier": "lavender_700"
             }
         }
     },
@@ -1128,18 +1116,6 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_A500"
-            },
-            "im_bubble_incoming_expiring": {
-                "color_identifier": "lavender_100"
-            },
-            "im_bubble_incoming_expiring_highlighted": {
-                "color_identifier": "lavender_200"
-            },
-            "im_bubble_outgoing_expiring": {
-                "color_identifier": "lavender_200"
-            },
-            "im_bubble_outgoing_expiring_highlighted": {
-                "color_identifier": "lavender_300"
             }
         }
     },
@@ -1700,18 +1676,6 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_400"
-            },
-            "im_bubble_incoming_expiring": {
-                "color_identifier": "lavender_900"
-            },
-            "im_bubble_incoming_expiring_highlighted": {
-                "color_identifier": "lavender_800"
-            },
-            "im_bubble_outgoing_expiring": {
-                "color_identifier": "lavender_800"
-            },
-            "im_bubble_outgoing_expiring_highlighted": {
-                "color_identifier": "lavender_700"
             }
         }
     },
@@ -2272,18 +2236,6 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_A500"
-            },
-            "im_bubble_incoming_expiring": {
-                "color_identifier": "lavender_100"
-            },
-            "im_bubble_incoming_expiring_highlighted": {
-                "color_identifier": "lavender_200"
-            },
-            "im_bubble_outgoing_expiring": {
-                "color_identifier": "lavender_200"
-            },
-            "im_bubble_outgoing_expiring_highlighted": {
-                "color_identifier": "lavender_300"
             }
         }
     }
