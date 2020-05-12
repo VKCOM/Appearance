@@ -1,18 +1,9 @@
 {
   "name": "@vkontakte/appearance",
-  "version": "1.0.0",
-  "description": "",
+  "version": "6.2.0",
+  "repository": "https://github.com/ariarzer/Appearance.git",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VKCOM/Appearance.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/VKCOM/Appearance/issues"
-  },
-  "homepage": "https://github.com/VKCOM/Appearance#readme"
+    "test": "node ./main.valette/__test__/test.js"
+  }
 }
