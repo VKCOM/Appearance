@@ -112,19 +112,5 @@
     "lavender_700": "#5965B3",
     "lavender_800": "#404980",
     "lavender_900": "#262B4D",
-    "emerald": "#4CD964",
-    "list_gradient_azure1": "#4CB8FF",
-    "list_gradient_azure2": "#3F7FE0",
-    "list_gradient_green1": "#ACE063",
-    "list_gradient_green2": "#36C245",
-    "list_gradient_yellow1": "#FFE64C",
-    "list_gradient_yellow2": "#E78232",
-    "list_gradient_red1": "#FF974C",
-    "list_gradient_red2": "#E03F74",
-    "list_gradient_blue1": "#7FE1F5",
-    "list_gradient_blue2": "#58C1F5",
-    "list_gradient_turquoise1": "#63E0CB",
-    "list_gradient_turquoise2": "#36C2C2",
-    "list_gradient_purple1": "#FF6A9E",
-    "list_gradient_purple2": "#853FE0"
+    "emerald": "#4CD964"
 }
