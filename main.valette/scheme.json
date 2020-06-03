@@ -615,7 +615,7 @@
             "text_link": {
                 "color_identifier": "sky_300"
             },
-            "text_link_hightlighted_background": {
+            "text_link_highlighted_background": {
                 "color_identifier": "sky_300"
             },
             "text_muted": {
@@ -687,7 +687,7 @@
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_100"
             },
-            "background_text_hightlighted": {
+            "background_text_highlighted": {
                 "color_identifier": "sky_300",
                 "alpha_multiplier": 0.24
             },
@@ -1316,7 +1316,7 @@
             "text_link": {
                 "color_identifier": "azure_A400"
             },
-            "text_link_hightlighted_background": {
+            "text_link_highlighted_background": {
                 "color_identifier": "black"
             },
             "text_muted": {
@@ -1388,7 +1388,7 @@
             "vk_connect_button_secondary_foreground": {
                 "color_identifier": "gray_900"
             },
-            "background_text_hightlighted": {
+            "background_text_highlighted": {
                 "color_identifier": "azure_300",
                 "alpha_multiplier": 0.2
             },
