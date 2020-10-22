@@ -161,7 +161,7 @@
                 "color_identifier": "gray_900"
                 },
             "content_warning_background": {
-                "color_identifier": "gray_850"
+                "color_identifier": "gold_500"
             },
             "destructive": {
                 "color_identifier": "red_light"
