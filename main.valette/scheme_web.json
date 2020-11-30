@@ -36,19 +36,19 @@
         "color_identifier": "white"
       },
       "background_hover": {
-        "color_identifier": "black_alpha05"
+        "color_identifier": "black_alpha4"
       },
       "background_highlighted": {
         "color_identifier": "black_alpha8"
       },
       "background_keyboard": {
-        "color_identifier": "gray_100"
+        "color_identifier": "steel_gray_100"
       },
       "background_light": {
         "color_identifier": "steel_gray_40"
       },
       "background_page": {
-        "color_identifier": "gray_60"
+        "color_identifier": "steel_gray_60"
       },
       "background_suggestions": {
         "color_identifier": "white"
@@ -381,7 +381,7 @@
         "color_identifier": "gray_40"
       },
       "input_border": {
-        "color_identifier": "gray_100"
+        "color_identifier": "steel_gray_100"
       },
       "landing_background": {
         "color_identifier": "white"
@@ -441,7 +441,7 @@
         "color_identifier": "steel_gray_60"
       },
       "loader_tint": {
-        "color_identifier": "steek_gray_300"
+        "color_identifier": "steel_gray_300"
       },
       "loader_track_fill": {
         "color_identifier": "steel_gray_80"
@@ -495,7 +495,7 @@
         "color_identifier": "blue_800"
       },
       "poll_option_background": {
-        "color_identifier": "blue_00"
+        "color_identifier": "blue_400"
       },
       "search_bar_background": {
         "color_identifier": "transparent_black"
@@ -555,7 +555,7 @@
         "color_identifier": "gray_200"
       },
       "switch_ios_off_border": {
-        "color_identifier": "gray_100"
+        "color_identifier": "steel_gray_100"
       },
       "stories_create_button_icon_background": {
         "color_identifier": "white"
