@@ -694,6 +694,12 @@
             "skeleton_shimmer_to": {
                 "color_identifier": "gray_900",
                 "alpha_multiplier": 0
+            },
+            "skeleton_foreground_from": {
+                "color_identifier": "gray_850"
+            },
+            "skeleton_foreground_to": {
+                "color_identifier": "gray_800"  
             }
         }
     },
@@ -1392,6 +1398,12 @@
             "skeleton_shimmer_to": {
                 "color_identifier": "white",
                 "alpha_multiplier": 0
+            },
+            "skeleton_foreground_from": {
+                "color_identifier": "gray_A40"
+            },
+            "skeleton_foreground_to": {
+                "color_identifier": "gray_100"  
             }
         }
     }
