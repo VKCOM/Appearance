@@ -294,7 +294,7 @@
                 "alpha_multiplier": 0.16
             },
             "im_bubble_button_outgoing_background": {
-                "color_identifier": "gray_600"
+                "color_identifier": "white_alpha20"
             },
             "im_bubble_button_background_highlighted": {
                 "color_identifier": "white",
