@@ -22,6 +22,7 @@
     "black_blue24_alpha24": "#3D001C3D",
     "black_blue30_alpha66": "#A800244D",
     "black_blue45_alpha10": "#1A003973",
+    "black_lavender_alpha5": "#0D00083D",
     "blue_200": "#5C9CE6",
     "blue_200_muted": "#74A2D6",
     "blue_300": "#528BCC",
@@ -39,6 +40,7 @@
     "brown_light": "#C2B79F",
     "clear": "#00000000",
     "charcoal": "#384452",
+    "emerald": "#4CD964",
     "gold_200": "#F4E7C3",
     "gold_250": "#E3D3AC",
     "gold_300": "#D1C097",
@@ -110,11 +112,15 @@
     "yellow_light": "#FFD54F",
     "yellow_overlight": "#FFF2D6",
     "yellow_sunflower": "#FECE00",
+    "lavender_A100": "#E6E5FF",
+    "lavender_A200": "#CECCFF",
+    "lavender_A400": "#928FFF",
+    "lavender_A700": "#4b47b2",
+    "lavender_A800": "#353380",
     "lavender_100": "#E6E9FF",
     "lavender_200": "#CCD3FF",
     "lavender_300": "#ADB8FF",
     "lavender_700": "#5965B3",
     "lavender_800": "#404980",
-    "lavender_900": "#262B4D",
-    "emerald": "#4CD964"
+    "lavender_900": "#262B4D"
 }
