@@ -642,7 +642,7 @@
                 "color_identifier": "gray_100"
             },
             "dynamic_blue": {
-                "color_identifier": "azure_300"
+                "color_identifier": "blue_400"
             },
             "dynamic_gray": {
                 "color_identifier": "steel_gray_200"
