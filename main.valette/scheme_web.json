@@ -1373,7 +1373,7 @@
                 "color_identifier": "transparent_white"
             },
             "skeleton_foreground_from": {
-                "color_identifier": "stgray_40"
+                "color_identifier": "steel_gray_40"
             },
             "skeleton_foreground_to": {
                 "color_identifier": "steel_gray_80"
