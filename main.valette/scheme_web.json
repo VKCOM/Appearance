@@ -480,7 +480,7 @@
                 "color_identifier": "gray_100"
             },
             "overlay_status_icon": {
-                "color_identifier": "gray_50"
+                "color_identifier": "steel_gray_60"
             },
             "placeholder_icon_background": {
                 "color_identifier": "white_alpha8"
