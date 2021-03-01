@@ -812,7 +812,7 @@
                 "color_identifier": "steel_gray_400"
             },
             "content_tint_background": {
-                "color_identifier": "steel_gray_20"
+                "color_identifier": "steel_gray_40"
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_500"
