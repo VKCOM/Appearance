@@ -1288,7 +1288,7 @@
             "text_link": {
                 "color_identifier": "blue_600"
             },
-            "text_link_hightlighted_background": {
+            "text_link_highlighted_background": {
                 "color_identifier": "black"
             },
             "text_muted": {
