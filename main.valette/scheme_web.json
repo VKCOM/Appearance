@@ -847,6 +847,9 @@
             "counter_secondary_text": {
                 "color_identifier": "white"
             },
+            "content_warning_background": {
+                "color_identifier": "yellow_light"
+            },
             "destructive": {
                 "color_identifier": "red"
             },
