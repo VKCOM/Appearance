@@ -11,3 +11,21 @@ function checkColorSyntax(palette) {
 }
 
 [paletteMvk, paletteWeb].forEach(palette => checkColorSyntax(palette));
+
+
+const schemeWeb = require('../scheme_web');
+
+function checkWebSchemeColorDefine(colors, palette) {
+  const colorsList = Object.keys(colors);
+  const paletteList = Object.keys(palette)
+  colorsList.forEach((colorSchemeName) => {
+    const colorIdentifier = colors[colorSchemeName].color_identifier;
+    if(!paletteList.includes(colorIdentifier)) {
+      throw new Error(`Color '${colorSchemeName}': ${colorIdentifier} from web scheme is not define in web palette`);
+    }
+  });
+}
+
+Object.values(schemeWeb).forEach((scheme) => {
+  checkWebSchemeColorDefine(scheme.colors, paletteWeb);
+});
