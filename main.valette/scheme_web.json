@@ -36,7 +36,7 @@
                 "color_identifier": "gray_900"
             },
             "background_hover": {
-                "color_identifier": "white_alpha4"
+                "color_identifier": "white_alpha8"
             },
             "background_highlighted": {
                 "color_identifier": "white_alpha8"
@@ -728,7 +728,7 @@
                 "color_identifier": "white"
             },
             "background_hover": {
-                "color_identifier": "black_alpha4"
+                "color_identifier": "black_alpha8"
             },
             "background_highlighted": {
                 "color_identifier": "black_alpha8"
