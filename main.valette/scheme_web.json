@@ -39,7 +39,7 @@
                 "color_identifier": "white_alpha4"
             },
             "background_highlighted": {
-                "color_identifier": "white_alpha8"
+                "color_identifier": "white_alpha12"
             },
             "background_keyboard": {
                 "color_identifier": "gray_800"
@@ -731,7 +731,7 @@
                 "color_identifier": "black_alpha4"
             },
             "background_highlighted": {
-                "color_identifier": "black_alpha8"
+                "color_identifier": "black_alpha12"
             },
             "background_keyboard": {
                 "color_identifier": "steel_gray_100"
