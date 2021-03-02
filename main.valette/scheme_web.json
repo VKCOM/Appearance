@@ -775,7 +775,7 @@
             "button_secondary_background": {
                 "color_identifier": "light_blue_40"
             },
-            "button_secondary_fhlighted": {
+            "button_secondary_background_highlighted": {
                 "color_identifier": "light_blue_40_alpha72"
             },
             "button_secondary_foreground": {
