@@ -941,7 +941,7 @@
                 "color_identifier": "white"
             },
             "icon_medium": {
-                "color_identifier": "steel_gray_400"
+                "color_identifier": "steel_gray_500"
             },
             "icon_medium_alpha": {
                 "color_identifier": "black_alpha48"
