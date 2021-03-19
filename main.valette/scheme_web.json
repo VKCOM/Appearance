@@ -731,7 +731,7 @@
                 "color_identifier": "steel_gray_200_alpha12"
             },
             "background_highlighted": {
-                "color_identifier": "black_alpha12"
+                "color_identifier": "steel_gray_200_alpha16"
             },
             "background_keyboard": {
                 "color_identifier": "steel_gray_100"
