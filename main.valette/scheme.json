@@ -1200,7 +1200,7 @@
                 "color_identifier": "black_blue24_alpha8"
             },
             "placeholder_icon_background_opaque": {
-                "color_identifier": "gray_50"
+                "color_identifier": "gray_40"
             },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "steel_gray_300"
