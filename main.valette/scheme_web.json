@@ -438,7 +438,7 @@
                 "color_identifier": "red_light"
             },
             "link_alternate": {
-                "color_identifier": "white"
+                "color_identifier": "gray_400"
             },
             "loader_background": {
                 "color_identifier": "gray_900"
@@ -1130,7 +1130,7 @@
                 "color_identifier": "red_nice"
             },
             "link_alternate": {
-                "color_identifier": "gray_400"
+                "color_identifier": "blue_600"
             },
             "loader_background": {
                 "color_identifier": "steel_gray_60"
