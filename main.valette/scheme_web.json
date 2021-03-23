@@ -1073,7 +1073,7 @@
                 "color_identifier": "black_alpha8"
             },
             "input_background": {
-                "color_identifier": "gray_40"
+                "color_identifier": "steel_gray_20"
             },
             "input_border": {
                 "color_identifier": "steel_gray_100"
