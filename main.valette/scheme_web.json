@@ -1178,7 +1178,7 @@
                 "color_identifier": "black_blue24_alpha8"
             },
             "placeholder_icon_background_opaque": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "steel_gray_40"
             },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "steel_gray_300"
