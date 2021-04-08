@@ -3,7 +3,7 @@
         "appearance": "dark",
         "colors": {
             "accent": {
-                "color_identifier": "blue_400"
+                "color_identifier": "sky_300"
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "white"
@@ -597,7 +597,7 @@
                 "color_identifier": "gray_300"
             },
             "text_link": {
-                "color_identifier": "blue_400"
+                "color_identifier": "sky_300"
             },
             "text_link_highlighted_background": {
                 "color_identifier": "blue_400"
