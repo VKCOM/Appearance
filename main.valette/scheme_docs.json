@@ -1,0 +1,1016 @@
+{
+  "colors": {
+    "accent": {
+      "comment": "Яркий элемент, не контрол",
+      "tags": []
+    },
+    "action_sheet_action_foreground": {
+      "comment": "Текст в ячейке дродауна",
+      "tags": []
+    },
+    "action_sheet_separator": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "activity_indicator_tint": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "attach_picker_tab_active_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "attach_picker_tab_active_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "attach_picker_tab_active_text": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "attach_picker_tab_inactive_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "attach_picker_tab_inactive_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "attach_picker_tab_inactive_text": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "background_content": {
+      "comment": "Основной фон контента",
+      "tags": []
+    },
+    "background_hover": {
+      "comment": "Ховер на фоне основного фона",
+      "tags": []
+    },
+    "background_highlighted": {
+      "comment": "Active на фоне основного фона",
+      "tags": []
+    },
+    "background_keyboard": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "background_light": {
+      "comment": "Светлая подложка отдельной области",
+      "tags": []
+    },
+    "background_page": {
+      "comment": "Фон страницы",
+      "tags": []
+    },
+    "background_suggestions": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "button_bot_shadow": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "button_commerce_background": {
+      "comment": "",
+      "tags": []
+    },
+    "button_commerce_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "button_muted_background": {
+      "comment": "",
+      "tags": []
+    },
+    "button_muted_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "button_outline_border": {
+      "comment": "",
+      "tags": []
+    },
+    "button_outline_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "button_primary_background": {
+      "comment": "",
+      "tags": []
+    },
+    "button_primary_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "button_secondary_background": {
+      "comment": "",
+      "tags": []
+    },
+    "button_secondary_background_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "button_secondary_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "button_secondary_foreground_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "button_secondary_destructive_background": {
+      "comment": "",
+      "tags": []
+    },
+    "button_secondary_destructive_background_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "button_secondary_destructive_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "button_secondary_destructive_foreground_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "button_tertiary_background": {
+      "comment": "",
+      "tags": []
+    },
+    "button_tertiary_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "cell_button_foreground": {
+      "comment": "Текст и иконки кнопки-ячейка",
+      "tags": []
+    },
+    "content_placeholder_icon": {
+      "comment": "Иконки в плейсхолдере",
+      "tags": []
+    },
+    "content_placeholder_text": {
+      "comment": "Текст плейхолдера",
+      "tags": []
+    },
+    "content_tint_background": {
+      "comment": "Фон для веделения контента фоном",
+      "tags": []
+    },
+    "content_tint_foreground": {
+      "comment": "?????",
+      "tags": []
+    },
+    "control_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "control_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "control_tint": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "control_tint_muted": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "counter_primary_background": {
+      "comment": "",
+      "tags": []
+    },
+    "counter_primary_text": {
+      "comment": "",
+      "tags": []
+    },
+    "counter_prominent_background": {
+      "comment": "",
+      "tags": []
+    },
+    "counter_prominent_text": {
+      "comment": "",
+      "tags": []
+    },
+    "counter_secondary_background": {
+      "comment": "",
+      "tags": []
+    },
+    "counter_secondary_text": {
+      "comment": "",
+      "tags": []
+    },
+    "content_warning_background": {
+      "comment": "",
+      "tags": []
+    },
+    "destructive": {
+      "comment": "Цвет ошибки (красный банер и т.д.)",
+      "tags": []
+    },
+    "field_background": {
+      "comment": "Фон поля ввода",
+      "tags": [],
+      "deprecated_for_web": true,
+      "deprecated_maybe": true
+    },
+    "field_border": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true,
+      "deprecated_maybe": true
+    },
+    "field_error_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true,
+      "deprecated_maybe": true
+    },
+    "field_error_border": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true,
+      "deprecated_maybe": true
+    },
+    "field_valid_border": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true,
+      "deprecated_maybe": true
+    },
+    "field_text_placeholder": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true,
+      "deprecated_maybe": true
+    },
+    "float_button_background": {
+      "comment": "Плавающая кнопка с тенью",
+      "tags": []
+    },
+    "float_button_background_highlighted": {
+      "comment": "Плавающая кнопка с тенью",
+      "tags": []
+    },
+    "float_button_foreground": {
+      "comment": "Плавающая кнопка с тенью",
+      "tags": []
+    },
+    "float_button_border": {
+      "comment": "Плавающая кнопка с тенью",
+      "tags": []
+    },
+    "header_alternate_background": {
+      "comment": "Альтернативный фон шапки",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_alternate_tab_active_indicator": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_alternate_tab_active_text": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_alternate_tab_inactive_text": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_background": {
+      "comment": "Фон шапки",
+      "tags": []
+    },
+    "header_background_before_blur": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_background_before_blur_alternate": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_search_field_background": {
+      "comment": "Поиск в шапке",
+      "tags": []
+    },
+    "header_search_field_tint": {
+      "comment": "Плейсхолдер поиска в шапке",
+      "tags": []
+    },
+    "header_tab_active_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_tab_active_text": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_tab_active_indicator": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_tab_inactive_text": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_text": {
+      "comment": "Текст в шпаке",
+      "tags": []
+    },
+    "header_text_alternate": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "header_text_secondary": {
+      "comment": "Вторичный текст в шапке",
+      "tags": []
+    },
+    "header_tint": {
+      "comment": "Светлые иконки в шапке",
+      "tags": []
+    },
+    "header_tint_alternate": {
+      "comment": "Альтенативный цвет иконок в шапке",
+      "tags": []
+    },
+    "icon_alpha_placeholder": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "icon_medium": {
+      "comment": "Средние по насыщенности иконки",
+      "tags": []
+    },
+    "icon_medium_alpha": {
+      "comment": "Средние по насыщенности иконки с прозрачностью",
+      "tags": []
+    },
+    "icon_outline_medium": {
+      "comment": "Средние по насыщенности аутлайновые иконки",
+      "tags": []
+    },
+    "icon_outline_secondary": {
+      "comment": "",
+      "tags": []
+    },
+    "icon_secondary": {
+      "comment": "",
+      "tags": []
+    },
+    "icon_secondary_alpha": {
+      "comment": "",
+      "tags": []
+    },
+    "icon_tertiary": {
+      "comment": "",
+      "tags": []
+    },
+    "icon_tertiary_alpha": {
+      "comment": "",
+      "tags": []
+    },
+    "im_attach_tint": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_border_alternate": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_border_alternate_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_button_background": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_button_outgoing_background": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_button_background_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_button_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_incoming_expiring": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_incoming_expiring_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_outgoing_expiring": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_outgoing_expiring_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_incoming": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_incoming_alternate": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_incoming_alternate_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_incoming_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_gift_background": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_gift_background_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_gift_text": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_gift_text_secondary": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_outgoing": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_outgoing_alternate": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_outgoing_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_outgoing_alternate_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_wallpaper_button_background": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_wallpaper_button_background_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_wallpaper_button_foreground": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_wallpaper_incoming": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_wallpaper_incoming_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_wallpaper_outgoing": {
+      "comment": "",
+      "tags": []
+    },
+    "im_bubble_wallpaper_outgoing_highlighted": {
+      "comment": "",
+      "tags": []
+    },
+    "im_forward_line_tint": {
+      "comment": "",
+      "tags": []
+    },
+    "im_reply_separator": {
+      "comment": "",
+      "tags": []
+    },
+    "im_text_name": {
+      "comment": "",
+      "tags": []
+    },
+    "im_toolbar_voice_msg_background": {
+      "comment": "",
+      "tags": []
+    },
+    "im_toolbar_separator": {
+      "comment": "",
+      "tags": []
+    },
+    "image_border": {
+      "comment": "Полупрозрачная граница картинок",
+      "tags": []
+    },
+    "input_background": {
+      "comment": "Фон инпута",
+      "tags": []
+    },
+    "input_border": {
+      "comment": "Граница инпута",
+      "tags": []
+    },
+    "landing_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_field_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_field_border": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_field_placeholder": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_login_button_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_login_button_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_primary_button_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_primary_button_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_tertiary_button_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_tertiary_button_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_text_primary": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_text_title": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_text_secondary": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_secondary_button_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_secondary_button_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "landing_snippet_border": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "like_text_tint": {
+      "comment": "Красный текст лайка",
+      "tags": []
+    },
+    "link_alternate": {
+      "comment": "Альтернативный цвет ссылки",
+      "tags": []
+    },
+    "loader_background": {
+      "comment": "?????",
+      "tags": []
+    },
+    "loader_tint": {
+      "comment": "?????",
+      "tags": []
+    },
+    "loader_track_fill": {
+      "comment": "Фон индикатора загрузки",
+      "tags": []
+    },
+    "loader_track_value_fill": {
+      "comment": "?????",
+      "tags": []
+    },
+    "media_overlay_button_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "media_overlay_button_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "modal_card_background": {
+      "comment": "Фон модального окна (попап, всплывающее окно)",
+      "tags": []
+    },
+    "modal_card_border": {
+      "comment": "Граница модального окна",
+      "tags": []
+    },
+    "modal_card_header_close": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "music_playback_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "feed_recommended_friend_promo_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "overlay_status_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "overlay_status_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "overlay_status_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "placeholder_icon_background": {
+      "comment": "Фон плейсхолдера изображения (когда нет аватарки)",
+      "tags": []
+    },
+    "placeholder_icon_background_opaque": {
+      "comment": "Фон плейсхолдера изображения полупрозрачный (когда снизу фон не белый)",
+      "tags": []
+    },
+    "placeholder_icon_foreground_primary": {
+      "comment": "Цвет иконки плейсхолдера изображения",
+      "tags": []
+    },
+    "placeholder_icon_foreground_secondary": {
+      "comment": "Цвет иконки плейсхолдера изображения вторичный",
+      "tags": []
+    },
+    "placeholder_icon_tint": {
+      "comment": "Текст в плейсхолдере изображения",
+      "tags": []
+    },
+    "poll_option_background": {
+      "comment": "Фон варианта опроса",
+      "tags": []
+    },
+    "search_bar_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "search_bar_field_background": {
+      "comment": "Фон поля поиска не в шапке",
+      "tags": []
+    },
+    "search_bar_field_tint": {
+      "comment": "Контеет внутри поля поиска (текст, иконка)",
+      "tags": []
+    },
+    "search_bar_segmented_control_tint": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "segmented_control_bar_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "segmented_control_tint": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "selection_off_icon": {
+      "comment": "Не выбранные чебоксы и радоинкнопки",
+      "tags": []
+    },
+    "separator_alpha": {
+      "comment": "Полупрозрачный сепатарор (на не белом фоне)",
+      "tags": []
+    },
+    "separator_alternate": {
+      "comment": "Сепаратор для разделения контента на светло-сером фоне",
+      "tags": []
+    },
+    "separator_common": {
+      "comment": "Сепаратор для разделения контента на белом фоне",
+      "tags": []
+    },
+    "snippet_background": {
+      "comment": "Фон снипетов",
+      "tags": []
+    },
+    "snippet_border": {
+      "comment": "Граница снипетов",
+      "tags": []
+    },
+    "snippet_icon_tertiary": {
+      "comment": "Светлая иконка в снипете",
+      "tags": []
+    },
+    "splashscreen_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "statusbar_alternate_legacy_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "stories_create_button_background_from": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "stories_create_button_background_to": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "stories_create_button_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "stories_skeleton_loader_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "stories_create_button_icon_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "switch_ios_off_border": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "tabbar_active_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "tabbar_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "tabbar_inactive_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "tabbar_tablet_active_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "tabbar_tablet_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "tabbar_tablet_inactive_icon": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "tabbar_tablet_text_primary": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "tabbar_tablet_text_secondary": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "toolbar_attach_background_from": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "toolbar_attach_background_to": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "text_action_counter": {
+      "comment": "Число репостов и комментариев",
+      "tags": []
+    },
+    "text_link": {
+      "comment": "Цвет ссылки",
+      "tags": []
+    },
+    "text_link_highlighted_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "text_muted": {
+      "comment": "Цвет очень жирного текста",
+      "tags": []
+    },
+    "text_name": {
+      "comment": "Имена и названия сообществ",
+      "tags": []
+    },
+    "text_placeholder": {
+      "comment": "Плейсхолдер в интпутах и при отсутствии результатов поиска",
+      "tags": []
+    },
+    "text_primary": {
+      "comment": "Первичный текст",
+      "tags": []
+    },
+    "text_secondary": {
+      "comment": "Вторичный текст",
+      "tags": []
+    },
+    "text_subhead": {
+      "comment": "Подзаголовок или чуть более важный текст чем вторичный",
+      "tags": []
+    },
+    "text_tertiary": {
+      "comment": "Третичный текст, мета-информация",
+      "tags": []
+    },
+    "icon_name": {
+      "comment": "Инока автора поста",
+      "tags": []
+    },
+    "panel_tab_active_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "panel_tab_active_text": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "panel_tab_inactive_text": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "im_service_message_text": {
+      "comment": "Сервисное сообщение",
+      "tags": []
+    },
+    "writebar_icon": {
+      "comment": "Иноки в инпуте мессенджера или комментария",
+      "tags": []
+    },
+    "dynamic_blue": {
+      "comment": "",
+      "tags": []
+    },
+    "dynamic_gray": {
+      "comment": "",
+      "tags": []
+    },
+    "dynamic_red": {
+      "comment": "",
+      "tags": []
+    },
+    "dynamic_green": {
+      "comment": "",
+      "tags": []
+    },
+    "dynamic_orange": {
+      "comment": "",
+      "tags": []
+    },
+    "dynamic_purple": {
+      "comment": "",
+      "tags": []
+    },
+    "dynamic_violet": {
+      "comment": "",
+      "tags": []
+    },
+    "vk_connect_button_primary_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "vk_connect_button_primary_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "vk_connect_button_secondary_background": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "vk_connect_button_secondary_foreground": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "background_text_highlighted": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "skeleton_shimmer_from": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "skeleton_shimmer_to": {
+      "comment": "",
+      "tags": [],
+      "deprecated_for_web": true
+    },
+    "skeleton_foreground_from": {
+      "comment": "Начало градиента скелетона",
+      "tags": []
+    },
+    "skeleton_foreground_to": {
+      "comment": "Конец градиента скелетона",
+      "tags": []
+    }
+  }
+}
