@@ -688,6 +688,12 @@
             },
             "skeleton_foreground_to": {
                 "color_identifier": "gray_800"
+            },
+            "primary_overlay_badge": {
+                "color_identifier": "white_alpha40"
+            },
+            "secondary_overlay_badge": {
+                "color_identifier": "white_alpha16"
             }
         }
     },
@@ -1380,6 +1386,12 @@
             },
             "skeleton_foreground_to": {
                 "color_identifier": "steel_gray_80"
+            },
+            "primary_overlay_badge": {
+                "color_identifier": "black_alpha56"
+            },
+            "secondary_overlay_badge": {
+                "color_identifier": "black_alpha24"
             }
         }
     }
