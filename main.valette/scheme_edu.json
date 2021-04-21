@@ -706,6 +706,9 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "white_alpha15"
+            },
+            "content_positive_background": {
+                "color_identifier": "green_alpha"
             }
         }
     },
@@ -1416,6 +1419,9 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "black_alpha24"
+            },
+            "content_positive_background": {
+                "color_identifier": "green_alpha"
             }
         }
     }
