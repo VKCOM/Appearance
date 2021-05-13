@@ -373,7 +373,8 @@
                 "color_identifier": "gray_600"
             },
             "im_forward_line_tint": {
-                "color_identifier": "white"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_reply_separator": {
                 "color_identifier": "white"
@@ -1083,7 +1084,8 @@
                 "color_identifier": "white_blue32"
             },
             "im_forward_line_tint": {
-                "color_identifier": "blue_600"
+                "color_identifier": "blue_600",
+                "alpha_multiplier": 0.24
             },
             "im_reply_separator": {
                 "color_identifier": "azure_A400"
