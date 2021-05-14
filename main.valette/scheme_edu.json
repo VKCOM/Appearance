@@ -373,7 +373,8 @@
                 "color_identifier": "gray_600"
             },
             "im_forward_line_tint": {
-                "color_identifier": "white"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_reply_separator": {
                 "color_identifier": "white"
@@ -1086,7 +1087,8 @@
                 "color_identifier": "lavender_A200"
             },
             "im_forward_line_tint": {
-                "color_identifier": "lavender_A700"
+                "color_identifier": "lavender_A700",
+                "alpha_multiplier": 0.24
             },
             "im_reply_separator": {
                 "color_identifier": "lavender_A700"
