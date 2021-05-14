@@ -363,7 +363,7 @@
                 "color_identifier": "gray_600"
             },
             "im_forward_line_tint": {
-                "color_identifier": "white"
+                "color_identifier": "white_alpha24"
             },
             "im_reply_separator": {
                 "color_identifier": "white"
@@ -1061,7 +1061,7 @@
                 "color_identifier": "white_blue32"
             },
             "im_forward_line_tint": {
-                "color_identifier": "blue_600"
+                "color_identifier": "blue_980_alpha12"
             },
             "im_reply_separator": {
                 "color_identifier": "blue_600"
