@@ -61,3 +61,30 @@ function checkWebSchemeFullness(schemesList) {
 }
 
 checkWebSchemeFullness(schemeWeb);
+
+/*
+  checks that the colors deprecated in in all schemes
+*/
+
+function checkWebSchemeDeprecatedFullness(schemesList) {
+  let deprecatedTokenLists = new Set();
+  Object.keys(schemesList).forEach((schemeName) => {
+    const curSchemeColors = schemesList[schemeName].colors;
+    Object.keys(curSchemeColors).forEach((colorName) => {
+      if (curSchemeColors[colorName].deprecated_for_web) {
+        deprecatedTokenLists.add(colorName);
+      }
+    });
+  });
+  deprecatedTokenLists = Array.from(deprecatedTokenLists);
+  Object.keys(schemesList).forEach((schemeName) => {
+    const curSchemeColors = schemesList[schemeName].colors;
+    Object.keys(curSchemeColors).forEach((colorName) => {
+      if (deprecatedTokenLists.includes(colorName) && !curSchemeColors[colorName].deprecated_for_web) {
+        throw new Error(`Color ${colorName} are deprecated for web not in all schemes`);
+      }
+    });
+  });
+}
+
+checkWebSchemeDeprecatedFullness(schemeWeb);
