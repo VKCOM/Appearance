@@ -860,7 +860,7 @@
                 "color_identifier": "red"
             },
             "field_background": {
-                "color_identifier": "white"
+                "color_identifier": "steel_gray_20"
             },
             "field_border": {
                 "color_identifier": "black_alpha12"
