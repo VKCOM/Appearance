@@ -6,7 +6,8 @@
                 "color_identifier": "sky_300"
             },
             "action_sheet_action_foreground": {
-                "color_identifier": "white"
+                "color_identifier": "white",
+                "deprecated_for_web": true
             },
             "action_sheet_separator": {
                 "color_identifier": "white_alpha16",
@@ -127,10 +128,12 @@
                 "color_identifier": "gray_100"
             },
             "content_placeholder_icon": {
-                "color_identifier": "gray_300"
+                "color_identifier": "gray_300",
+                "deprecated_for_web": true
             },
             "content_placeholder_text": {
-                "color_identifier": "gray_300"
+                "color_identifier": "gray_300",
+                "deprecated_for_web": true
             },
             "content_tint_background": {
                 "color_identifier": "gray_850"
@@ -405,7 +408,8 @@
                 "color_identifier": "gray_700"
             },
             "im_toolbar_separator": {
-                "color_identifier": "gray_300"
+                "color_identifier": "gray_300",
+                "deprecated_for_web": true
             },
             "image_border": {
                 "color_identifier": "white_alpha8"
@@ -490,7 +494,8 @@
                 "color_identifier": "gray_900"
             },
             "loader_tint": {
-                "color_identifier": "gray_500"
+                "color_identifier": "gray_500",
+                "deprecated_for_web": true
             },
             "loader_track_fill": {
                 "color_identifier": "gray_700"
@@ -670,7 +675,8 @@
                 "deprecated_for_web": true
             },
             "text_action_counter": {
-                "color_identifier": "gray_300"
+                "color_identifier": "gray_300",
+                "deprecated_for_web": true
             },
             "text_link": {
                 "color_identifier": "sky_300"
@@ -791,7 +797,8 @@
                 "color_identifier": "blue_400"
             },
             "action_sheet_action_foreground": {
-                "color_identifier": "blue_400"
+                "color_identifier": "blue_400",
+                "deprecated_for_web": true
             },
             "action_sheet_separator": {
                 "color_identifier": "black_alpha12",
@@ -912,10 +919,12 @@
                 "color_identifier": "blue_600"
             },
             "content_placeholder_icon": {
-                "color_identifier": "steel_gray_300"
+                "color_identifier": "steel_gray_300",
+                "deprecated_for_web": true
             },
             "content_placeholder_text": {
-                "color_identifier": "steel_gray_400"
+                "color_identifier": "steel_gray_400",
+                "deprecated_for_web": true
             },
             "content_tint_background": {
                 "color_identifier": "steel_gray_40"
@@ -1190,7 +1199,9 @@
                 "color_identifier": "steel_gray_300"
             },
             "im_toolbar_separator": {
-                "color_identifier": "black_blue24"
+                "color_identifier": "black_blue24",
+
+                "deprecated_for_web": true
             },
             "image_border": {
                 "color_identifier": "black_alpha8"
@@ -1275,7 +1286,8 @@
                 "color_identifier": "steel_gray_60"
             },
             "loader_tint": {
-                "color_identifier": "steel_gray_300"
+                "color_identifier": "steel_gray_300",
+                "deprecated_for_web": true
             },
             "loader_track_fill": {
                 "color_identifier": "steel_gray_80"
@@ -1455,7 +1467,8 @@
                 "deprecated_for_web": true
             },
             "text_action_counter": {
-                "color_identifier": "steel_gray_400"
+                "color_identifier": "steel_gray_400",
+                "deprecated_for_web": true
             },
             "text_link": {
                 "color_identifier": "blue_600"
