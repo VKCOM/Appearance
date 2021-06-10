@@ -186,7 +186,7 @@
                 "color_identifier": "gray_850"
             },
             "field_border": {
-                "color_identifier": "white_alpha16"
+                "color_identifier": "gray_800"
             },
             "field_error_background": {
                 "color_identifier": "red_dark"
@@ -977,7 +977,7 @@
                 "color_identifier": "steel_gray_20"
             },
             "field_border": {
-                "color_identifier": "black_alpha12"
+                "color_identifier": "steel_gray_100"
             },
             "field_error_background": {
                 "color_identifier": "red_light"
