@@ -582,7 +582,8 @@
                 "deprecated_for_web": true
             },
             "selection_off_icon": {
-                "color_identifier": "gray_600"
+                "color_identifier": "gray_600",
+                "deprecated_for_web": true
             },
             "separator_alpha": {
                 "color_identifier": "white_alpha16"
@@ -1374,7 +1375,8 @@
                 "deprecated_for_web": true
             },
             "selection_off_icon": {
-                "color_identifier": "steel_gray_140"
+                "color_identifier": "steel_gray_140",
+                "deprecated_for_web": true
             },
             "separator_alpha": {
                 "color_identifier": "black_alpha12"
