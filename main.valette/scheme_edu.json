@@ -673,6 +673,9 @@
             "dynamic_violet": {
                 "color_identifier": "violet_light"
             },
+            "dynamic_raspberry_pink": {
+                "color_identifier": "raspberry_pink_light"
+            },
             "vk_connect_button_primary_background": {
                 "color_identifier": "gray_100"
             },
@@ -1386,6 +1389,9 @@
             },
             "dynamic_violet": {
                 "color_identifier": "violet"
+            },
+            "dynamic_raspberry_pink": {
+                "color_identifier": "raspberry_pink"
             },
             "vk_connect_button_primary_background": {
                 "color_identifier": "gray_900"
