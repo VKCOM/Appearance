@@ -791,6 +791,12 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "white_alpha16"
+            },  
+            "content_positive_background": {
+                "color_identifier": "green_alpha16"
+            }, 
+            "content_negative_background": {
+                "color_identifier": "red_alpha16"
             }
         }
     },
@@ -1587,6 +1593,12 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "black_alpha24"
+            }, 
+            "content_positive_background": {
+                "color_identifier": "green_light"
+            }, 
+            "content_negative_background": {
+                "color_identifier": "red_light"
             }
         }
     }
