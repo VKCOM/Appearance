@@ -136,7 +136,7 @@
                 "deprecated_for_web": true
             },
             "content_tint_background": {
-                "color_identifier": "gray_850"
+                "color_identifier": "gray_800"
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_400",
