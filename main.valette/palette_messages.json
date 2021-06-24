@@ -53,5 +53,13 @@
     "carrot_A500": "#E56322",
     "carrot_600": "#BF5926",
     "carrot_800": "#663014",
-    "carrot_900": "#401E0D"
+    "carrot_900": "#401E0D",
+    "green_dark": "#168C51",
+    "aquamarine": "#33CCAD",
+    "turquoise_bright": "#2BD9D9",
+    "turquoise_blue": "#29AACC",
+    "blue_dark": "#1348C2",
+    "red_cardinal": "#CB1E3B",
+    "pink_light": "#F474A8",
+    "pink_pastel": "#FF99CC"
 }
