@@ -584,7 +584,6 @@
             "im_sunset_theme_write_bar_tint": {
                 "color_identifier": "pink_light"
             },
-            
             "im_retrowave_theme_header_tint": {
                 "color_identifier": "turquoise_bright"
             },
@@ -594,7 +593,6 @@
             "im_retrowave_theme_write_bar_tint": {
                 "color_identifier": "pink_light"
             },
-            
             "im_marine_theme_header_tint": {
                 "color_identifier": "emerald"
             },
@@ -1892,7 +1890,6 @@
             "im_sunset_theme_write_bar_tint": {
                 "color_identifier": "pink_light"
             },
-            
             "im_retrowave_theme_header_tint": {
                 "color_identifier": "turquoise_bright"
             },
@@ -1902,7 +1899,6 @@
             "im_retrowave_theme_write_bar_tint": {
                 "color_identifier": "pink_light"
             },
-            
             "im_marine_theme_header_tint": {
                 "color_identifier": "emerald"
             },
