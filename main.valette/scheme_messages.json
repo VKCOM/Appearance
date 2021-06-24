@@ -556,6 +556,92 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_400"
+            },
+            "im_disco_theme_header_tint": {
+                "color_identifier": "orange"
+            },
+            "im_disco_theme_accent": {
+                "color_identifier": "raspberry_pink_light"
+            },
+            "im_disco_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_twilight_theme_header_tint": {
+                "color_identifier": "pink_light"
+            },
+            "im_twilight_theme_accent": {
+                "color_identifier": "purple_light"
+            },
+            "im_twilight_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_sunset_theme_header_tint": {
+                "color_identifier": "yellow"
+            },
+            "im_sunset_theme_accent": {
+                "color_identifier": "orange_fire"
+            },
+            "im_sunset_theme_write_bar_tint": {
+                "color_identifier": "pink_light"
+            },
+            
+            "im_retrowave_theme_header_tint": {
+                "color_identifier": "turquoise_bright"
+            },
+            "im_retrowave_theme_accent": {
+                "color_identifier": "blue_200"
+            },
+            "im_retrowave_theme_write_bar_tint": {
+                "color_identifier": "pink_light"
+            },
+            
+            "im_marine_theme_header_tint": {
+                "color_identifier": "emerald"
+            },
+            "im_marine_theme_accent": {
+                "color_identifier": "aquamarine_light"
+            },
+            "im_marine_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_lagoon_theme_header_tint": {
+                "color_identifier": "turquoise_bright"
+            },
+            "im_lagoon_theme_accent": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_lagoon_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_candy_theme_header_tint": {
+                "color_identifier": "pink_pastel"
+            },
+            "im_candy_theme_accent": {
+                "color_identifier": "pink_light"
+            },
+            "im_candy_theme_write_bar_tint": {
+                "color_identifier": "pink_light"
+            },
+            "im_unicorn_theme_header_tint": {
+                "color_identifier": "pink_pastel"
+            },
+            "im_unicorn_theme_accent": {
+                "color_identifier": "pink_light"
+            },
+            "im_unicorn_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_midnight_theme_header_tint": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_midnight_theme_accent": {
+                "color_identifier": "blue_200"
+            },
+            "im_midnight_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_forward_line": {
+                "color_identifier": "white_alpha40"
             }
         }
     },
@@ -1116,6 +1202,108 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_A500"
+            },
+            "im_disco_theme_header_tint": {
+                "color_identifier": "orange"
+            },
+            "im_disco_theme_accent": {
+                "color_identifier": "raspberry_pink"
+            },
+            "im_disco_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_twilight_theme_header_tint": {
+                "color_identifier": "pink"
+            },
+            "im_twilight_theme_accent": {
+                "color_identifier": "purple"
+            },
+            "im_twilight_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_sunset_theme_header_tint": {
+                "color_identifier": "orange"
+            },
+            "im_sunset_theme_accent": {
+                "color_identifier": "orange_fire"
+            },
+            "im_sunset_theme_write_bar_tint": {
+                "color_identifier": "pink"
+            },
+            "im_retrowave_theme_header_tint": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_retrowave_theme_accent": {
+                "color_identifier": "azure_A100"
+            },
+            "im_retrowave_theme_write_bar_tint": {
+                "color_identifier": "pink"
+            },
+            "im_marine_theme_header_tint": {
+                "color_identifier": "green"
+            },
+            "im_marine_theme_accent": {
+                "color_identifier": "green_dark"
+            },
+            "im_marine_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_lagoon_theme_header_tint": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_lagoon_theme_accent": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_lagoon_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_candy_theme_header_tint": {
+                "color_identifier": "pink_light"
+            },
+            "im_candy_theme_accent": {
+                "color_identifier": "pink_light"
+            },
+            "im_candy_theme_write_bar_tint": {
+                "color_identifier": "pink"
+            },
+            "im_red_theme_header_tint": {
+                "color_identifier": "red_light"
+            },
+            "im_red_theme_accent": {
+                "color_identifier": "red_error"
+            },
+            "im_red_theme_write_bar_tint": {
+                "color_identifier": "red_cardinal"
+            },
+            "im_green_theme_header_tint": {
+                "color_identifier": "emerald"
+            },
+            "im_green_theme_accent": {
+                "color_identifier": "green"
+            },
+            "im_green_theme_write_bar_tint": {
+                "color_identifier": "green_dark"
+            },
+            "im_midnight_theme_header_tint": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_midnight_theme_accent": {
+                "color_identifier": "azure_A100"
+            },
+            "im_midnight_theme_write_bar_tint": {
+                "color_identifier": "blue_dark"
+            },
+            "im_unicorn_theme_header_tint": {
+                "color_identifier": "pink_light"
+            },
+            "im_unicorn_theme_accent": {
+                "color_identifier": "purple"
+            },
+            "im_unicorn_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_forward_line": {
+                "color_identifier": "white_alpha40"
             }
         }
     },
@@ -1676,6 +1864,92 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_400"
+            },
+            "im_disco_theme_header_tint": {
+                "color_identifier": "orange"
+            },
+            "im_disco_theme_accent": {
+                "color_identifier": "raspberry_pink_light"
+            },
+            "im_disco_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_twilight_theme_header_tint": {
+                "color_identifier": "pink_light"
+            },
+            "im_twilight_theme_accent": {
+                "color_identifier": "purple_light"
+            },
+            "im_twilight_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_sunset_theme_header_tint": {
+                "color_identifier": "yellow"
+            },
+            "im_sunset_theme_accent": {
+                "color_identifier": "orange_fire"
+            },
+            "im_sunset_theme_write_bar_tint": {
+                "color_identifier": "pink_light"
+            },
+            
+            "im_retrowave_theme_header_tint": {
+                "color_identifier": "turquoise_bright"
+            },
+            "im_retrowave_theme_accent": {
+                "color_identifier": "blue_200"
+            },
+            "im_retrowave_theme_write_bar_tint": {
+                "color_identifier": "pink_light"
+            },
+            
+            "im_marine_theme_header_tint": {
+                "color_identifier": "emerald"
+            },
+            "im_marine_theme_accent": {
+                "color_identifier": "aquamarine_light"
+            },
+            "im_marine_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_lagoon_theme_header_tint": {
+                "color_identifier": "turquoise_bright"
+            },
+            "im_lagoon_theme_accent": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_lagoon_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_candy_theme_header_tint": {
+                "color_identifier": "pink_pastel"
+            },
+            "im_candy_theme_accent": {
+                "color_identifier": "pink_light"
+            },
+            "im_candy_theme_write_bar_tint": {
+                "color_identifier": "pink_light"
+            },
+            "im_unicorn_theme_header_tint": {
+                "color_identifier": "pink_pastel"
+            },
+            "im_unicorn_theme_accent": {
+                "color_identifier": "pink_light"
+            },
+            "im_unicorn_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_midnight_theme_header_tint": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_midnight_theme_accent": {
+                "color_identifier": "blue_200"
+            },
+            "im_midnight_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_forward_line": {
+                "color_identifier": "white_alpha40"
             }
         }
     },
@@ -2236,6 +2510,105 @@
             },
             "im_orange_theme_incoming_color3_reply_separator": {
                 "color_identifier": "forest_green_A500"
+            },
+            "im_disco_theme_accent": {
+                "color_identifier": "raspberry_pink"
+            },
+            "im_disco_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_twilight_theme_header_tint": {
+                "color_identifier": "pink"
+            },
+            "im_twilight_theme_accent": {
+                "color_identifier": "purple"
+            },
+            "im_twilight_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_sunset_theme_header_tint": {
+                "color_identifier": "orange"
+            },
+            "im_sunset_theme_accent": {
+                "color_identifier": "orange_fire"
+            },
+            "im_sunset_theme_write_bar_tint": {
+                "color_identifier": "pink"
+            },
+            "im_retrowave_theme_header_tint": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_retrowave_theme_accent": {
+                "color_identifier": "azure_A100"
+            },
+            "im_retrowave_theme_write_bar_tint": {
+                "color_identifier": "pink"
+            },
+            "im_marine_theme_header_tint": {
+                "color_identifier": "green"
+            },
+            "im_marine_theme_accent": {
+                "color_identifier": "green_dark"
+            },
+            "im_marine_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_lagoon_theme_header_tint": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_lagoon_theme_accent": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_lagoon_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_candy_theme_header_tint": {
+                "color_identifier": "pink_light"
+            },
+            "im_candy_theme_accent": {
+                "color_identifier": "pink_light"
+            },
+            "im_candy_theme_write_bar_tint": {
+                "color_identifier": "pink"
+            },
+            "im_red_theme_header_tint": {
+                "color_identifier": "red_light"
+            },
+            "im_red_theme_accent": {
+                "color_identifier": "red_error"
+            },
+            "im_red_theme_write_bar_tint": {
+                "color_identifier": "red_cardinal"
+            },
+            "im_green_theme_header_tint": {
+                "color_identifier": "emerald"
+            },
+            "im_green_theme_accent": {
+                "color_identifier": "green"
+            },
+            "im_green_theme_write_bar_tint": {
+                "color_identifier": "green_dark"
+            },
+            "im_midnight_theme_header_tint": {
+                "color_identifier": "turquoise_blue"
+            },
+            "im_midnight_theme_accent": {
+                "color_identifier": "azure_A100"
+            },
+            "im_midnight_theme_write_bar_tint": {
+                "color_identifier": "blue_dark"
+            },
+            "im_unicorn_theme_header_tint": {
+                "color_identifier": "pink_light"
+            },
+            "im_unicorn_theme_accent": {
+                "color_identifier": "purple"
+            },
+            "im_unicorn_theme_write_bar_tint": {
+                "color_identifier": "blue_200"
+            },
+            "im_forward_line": {
+                "color_identifier": "white_alpha40"
             }
         }
     }
