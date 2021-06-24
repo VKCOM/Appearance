@@ -494,8 +494,7 @@
                 "color_identifier": "gray_900"
             },
             "loader_tint": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_500"
             },
             "loader_track_fill": {
                 "color_identifier": "gray_700"
@@ -1296,8 +1295,7 @@
                 "color_identifier": "steel_gray_60"
             },
             "loader_tint": {
-                "color_identifier": "steel_gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_140"
             },
             "loader_track_fill": {
                 "color_identifier": "steel_gray_80"
