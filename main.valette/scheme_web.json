@@ -415,10 +415,10 @@
                 "color_identifier": "white_alpha8"
             },
             "input_background": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_750"
             },
             "input_border": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_700"
             },
             "landing_background": {
                 "color_identifier": "gray_900",
@@ -1216,10 +1216,10 @@
                 "color_identifier": "black_alpha8"
             },
             "input_background": {
-                "color_identifier": "steel_gray_20"
+                "color_identifier": "white"
             },
             "input_border": {
-                "color_identifier": "steel_gray_100"
+                "color_identifier": "steel_gray_120"
             },
             "landing_background": {
                 "color_identifier": "white",
