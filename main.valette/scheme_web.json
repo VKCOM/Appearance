@@ -497,7 +497,7 @@
                 "color_identifier": "gray_500"
             },
             "loader_track_fill": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_500"
             },
             "loader_track_value_fill": {
                 "color_identifier": "white"
@@ -1298,7 +1298,7 @@
                 "color_identifier": "steel_gray_140"
             },
             "loader_track_fill": {
-                "color_identifier": "steel_gray_80"
+                "color_identifier": "steel_gray_120"
             },
             "loader_track_value_fill": {
                 "color_identifier": "blue_400"
