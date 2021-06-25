@@ -1292,7 +1292,7 @@
                 "color_identifier": "blue_600"
             },
             "loader_background": {
-                "color_identifier": "steel_gray_140"
+                "color_identifier": "steel_gray_60"
             },
             "loader_tint": {
                 "color_identifier": "steel_gray_140"
