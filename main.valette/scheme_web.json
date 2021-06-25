@@ -491,7 +491,7 @@
                 "color_identifier": "gray_400"
             },
             "loader_background": {
-                "color_identifier": "gray_500"
+                "color_identifier": "gray_700"
             },
             "loader_tint": {
                 "color_identifier": "gray_500"
