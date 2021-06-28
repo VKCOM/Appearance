@@ -623,6 +623,24 @@
             "im_unicorn_theme_header_tint": {
                 "color_identifier": "pink_pastel"
             },
+            "im_red_theme_header_tint": {
+                "color_identifier": "red_light"
+            },
+            "im_red_theme_accent": {
+                "color_identifier": "red_error"
+            },
+            "im_red_theme_write_bar_tint": {
+                "color_identifier": "red_cardinal"
+            },
+            "im_green_theme_header_tint": {
+                "color_identifier": "emerald"
+            },
+            "im_green_theme_accent": {
+                "color_identifier": "green"
+            },
+            "im_green_theme_write_bar_tint": {
+                "color_identifier": "green_dark"
+            },
             "im_unicorn_theme_accent": {
                 "color_identifier": "pink_light"
             },
@@ -1926,6 +1944,24 @@
             "im_candy_theme_write_bar_tint": {
                 "color_identifier": "pink_light"
             },
+            "im_red_theme_header_tint": {
+                "color_identifier": "red_light"
+            },
+            "im_red_theme_accent": {
+                "color_identifier": "red_error"
+            },
+            "im_red_theme_write_bar_tint": {
+                "color_identifier": "red_cardinal"
+            },
+            "im_green_theme_header_tint": {
+                "color_identifier": "emerald"
+            },
+            "im_green_theme_accent": {
+                "color_identifier": "green"
+            },
+            "im_green_theme_write_bar_tint": {
+                "color_identifier": "green_dark"
+            },
             "im_unicorn_theme_header_tint": {
                 "color_identifier": "pink_pastel"
             },
@@ -2512,6 +2548,9 @@
             },
             "im_disco_theme_write_bar_tint": {
                 "color_identifier": "azure_A100"
+            },
+            "im_disco_theme_header_tint": {
+                "color_identifier": "orange"
             },
             "im_twilight_theme_header_tint": {
                 "color_identifier": "pink"
