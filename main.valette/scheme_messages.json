@@ -597,7 +597,7 @@
                 "color_identifier": "emerald"
             },
             "im_marine_theme_accent": {
-                "color_identifier": "aquamarine_light"
+                "color_identifier": "aquamarine"
             },
             "im_marine_theme_write_bar_tint": {
                 "color_identifier": "blue_200"
@@ -1935,7 +1935,7 @@
                 "color_identifier": "emerald"
             },
             "im_marine_theme_accent": {
-                "color_identifier": "aquamarine_light"
+                "color_identifier": "aquamarine"
             },
             "im_marine_theme_write_bar_tint": {
                 "color_identifier": "blue_200"
