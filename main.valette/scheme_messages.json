@@ -656,7 +656,14 @@
             "im_midnight_theme_write_bar_tint": {
                 "color_identifier": "azure_A100"
             },
-            "im_forward_line": {
+            "im_gradient_theme_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_gradient_theme_text_placeholder": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.8
+            },
+            "im_gradient_theme_forward_line": {
                 "color_identifier": "white_alpha40"
             }
         }
@@ -1318,7 +1325,14 @@
             "im_unicorn_theme_write_bar_tint": {
                 "color_identifier": "blue_200"
             },
-            "im_forward_line": {
+            "im_gradient_theme_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_gradient_theme_text_placeholder": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.8
+            },
+            "im_gradient_theme_forward_line": {
                 "color_identifier": "white_alpha40"
             }
         }
@@ -1980,7 +1994,14 @@
             "im_midnight_theme_write_bar_tint": {
                 "color_identifier": "azure_A100"
             },
-            "im_forward_line": {
+            "im_gradient_theme_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_gradient_theme_text_placeholder": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.8
+            },
+            "im_gradient_theme_forward_line": {
                 "color_identifier": "white_alpha40"
             }
         }
@@ -2642,7 +2663,14 @@
             "im_unicorn_theme_write_bar_tint": {
                 "color_identifier": "blue_200"
             },
-            "im_forward_line": {
+            "im_gradient_theme_text_primary": {
+                "color_identifier": "white"
+            },
+            "im_gradient_theme_text_placeholder": {
+                "color_identifier": "white",
+                "alpha_multiplier": 0.8
+            },
+            "im_gradient_theme_forward_line": {
                 "color_identifier": "white_alpha40"
             }
         }
