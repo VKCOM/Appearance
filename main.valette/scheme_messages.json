@@ -620,9 +620,6 @@
             "im_candy_theme_write_bar_tint": {
                 "color_identifier": "pink_rose"
             },
-            "im_unicorn_theme_header_tint": {
-                "color_identifier": "pink_pastel"
-            },
             "im_red_theme_header_tint": {
                 "color_identifier": "red_light"
             },
@@ -641,8 +638,11 @@
             "im_green_theme_write_bar_tint": {
                 "color_identifier": "green_dark"
             },
+            "im_unicorn_theme_header_tint": {
+                "color_identifier": "pink_pastel"
+            },
             "im_unicorn_theme_accent": {
-                "color_identifier": "pink_rose"
+                "color_identifier": "violet_light"
             },
             "im_unicorn_theme_write_bar_tint": {
                 "color_identifier": "blue_200"
@@ -1320,7 +1320,7 @@
                 "color_identifier": "pink_rose"
             },
             "im_unicorn_theme_accent": {
-                "color_identifier": "purple"
+                "color_identifier": "purple_light"
             },
             "im_unicorn_theme_write_bar_tint": {
                 "color_identifier": "blue_200"
