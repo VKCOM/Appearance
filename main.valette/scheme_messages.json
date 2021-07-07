@@ -620,22 +620,22 @@
             "im_candy_theme_write_bar_tint": {
                 "color_identifier": "pink_rose"
             },
-            "im_red_theme_header_tint": {
+            "im_crimson_theme_header_tint": {
                 "color_identifier": "red_light"
             },
-            "im_red_theme_accent": {
+            "im_crimson_theme_accent": {
                 "color_identifier": "red_error"
             },
-            "im_red_theme_write_bar_tint": {
+            "im_crimson_theme_write_bar_tint": {
                 "color_identifier": "red_cardinal"
             },
-            "im_green_theme_header_tint": {
+            "im_emerald_theme_header_tint": {
                 "color_identifier": "emerald"
             },
-            "im_green_theme_accent": {
+            "im_emerald_theme_accent": {
                 "color_identifier": "green"
             },
-            "im_green_theme_write_bar_tint": {
+            "im_emerald_theme_write_bar_tint": {
                 "color_identifier": "green_dark"
             },
             "im_unicorn_theme_header_tint": {
@@ -1289,22 +1289,22 @@
             "im_candy_theme_write_bar_tint": {
                 "color_identifier": "pink"
             },
-            "im_red_theme_header_tint": {
+            "im_crimson_theme_header_tint": {
                 "color_identifier": "red_light"
             },
-            "im_red_theme_accent": {
+            "im_crimson_theme_accent": {
                 "color_identifier": "red_error"
             },
-            "im_red_theme_write_bar_tint": {
+            "im_crimson_theme_write_bar_tint": {
                 "color_identifier": "red_cardinal"
             },
-            "im_green_theme_header_tint": {
+            "im_emerald_theme_header_tint": {
                 "color_identifier": "emerald"
             },
-            "im_green_theme_accent": {
+            "im_emerald_theme_accent": {
                 "color_identifier": "green"
             },
-            "im_green_theme_write_bar_tint": {
+            "im_emerald_theme_write_bar_tint": {
                 "color_identifier": "green_dark"
             },
             "im_midnight_theme_header_tint": {
