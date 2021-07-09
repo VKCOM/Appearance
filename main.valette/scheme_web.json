@@ -275,7 +275,7 @@
                 "color_identifier": "gray_100"
             },
             "header_tint_alternate": {
-                "color_identifier": "gray_100"
+                "color_identifier": "white"
             },
             "icon_alpha_placeholder": {
                 "color_identifier": "gray_100",
@@ -1075,7 +1075,7 @@
                 "color_identifier": "steel_gray_200"
             },
             "header_tint_alternate": {
-                "color_identifier": "steel_gray_200"
+                "color_identifier": "azure_a100"
             },
             "icon_alpha_placeholder": {
                 "color_identifier": "white",
