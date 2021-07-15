@@ -904,7 +904,7 @@
                 "color_identifier": "steel_gray_A540"
             },
             "button_secondary_foreground_highlighted": {
-                "color_identifier": "steel_gray_A540_alpha64"
+                "color_identifier": "steel_gray_A540"
             },
             "button_secondary_destructive_background": {
                 "color_identifier": "red_alpha16"
