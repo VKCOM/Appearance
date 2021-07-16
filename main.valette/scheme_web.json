@@ -98,7 +98,7 @@
                 "color_identifier": "gray_700"
             },
             "button_secondary_background_highlighted": {
-                "color_identifier": "gray_700_alpha60"
+                "color_identifier": "gray_600"
             },
             "button_secondary_foreground": {
                 "color_identifier": "gray_100"
@@ -898,13 +898,13 @@
                 "color_identifier": "light_blue_40"
             },
             "button_secondary_background_highlighted": {
-                "color_identifier": "light_blue_40_alpha72"
+                "color_identifier": "light_blue_100"
             },
             "button_secondary_foreground": {
                 "color_identifier": "steel_gray_A540"
             },
             "button_secondary_foreground_highlighted": {
-                "color_identifier": "steel_gray_A540_alpha64"
+                "color_identifier": "steel_gray_A540"
             },
             "button_secondary_destructive_background": {
                 "color_identifier": "red_alpha16"
