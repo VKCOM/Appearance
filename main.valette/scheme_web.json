@@ -594,7 +594,7 @@
                 "color_identifier": "gray_750"
             },
             "snippet_background": {
-                "color_identifier": "gray_850"
+                "color_identifier": "white_alpha4"
             },
             "snippet_border": {
                 "color_identifier": "white_alpha16"
