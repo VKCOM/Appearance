@@ -5,6 +5,9 @@
             "accent": {
                 "color_identifier": "lavender_A400"
             },
+            "accent_alternate": {
+                 "color_identifier": "white"
+            },
             "action_sheet_action_foreground": {
                 "color_identifier": "white"
             },
@@ -721,6 +724,9 @@
         "colors": {
             "accent": {
                 "color_identifier": "lavender_A700"
+            },
+            "accent_alternate": {
+                 "color_identifier": "lavender_A700"
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "lavender_A700"
