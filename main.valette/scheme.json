@@ -5,6 +5,9 @@
             "accent": {
                 "color_identifier": "sky_300"
             },
+             "accent_alternate": {
+                "color_identifier": "white"
+            },
             "action_sheet_action_foreground": {
                 "color_identifier": "white"
             },
@@ -721,6 +724,9 @@
         "colors": {
             "accent": {
                 "color_identifier": "azure_300"
+            },
+             "accent_alternate": {
+                "color_identifier": "azure_a100"
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "azure_300"
