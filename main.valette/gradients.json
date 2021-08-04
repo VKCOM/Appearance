@@ -1,10 +1,14 @@
 {
+	"gradient_aquamarine_blue": {
+                "colors": ['#7DF1FA', '#2BB4D6'],
+		"angle": 135.0
+	},
 	"gradient_black": {
-                "colors": ["#626466", "#444647"],
+                "colors": ['#717375', '#313233'],
 		"angle": 135.0
 	},
 	"gradient_blue": {
-                "colors": ["#70B2FF", "#5C9CE6"],
+                "colors": ['#66CCFF', '#3F8AE0'],
 		"angle": 135.0
 	},
 	"gradient_candy": {
@@ -24,11 +28,11 @@
 		"angle": 135.0
 	},
 	"gradient_gray": {
-                "colors": ["#B1B6BD", "#99A2AD"],
+                "colors": ['#C1CAD6', '#878F99'],
 		"angle": 135.0
 	},
 	"gradient_green": {
-                "colors": ["#50C750", "#32B332"],
+                "colors": ['#6CD97E', '#12B312'],
 		"angle": 135.0
 	},
 	"gradient_lagoon": {
@@ -47,16 +51,24 @@
                 "colors": ["#5CC3FF", "#56B9FA", "#449AEB", "#2B71D6", "#1952C7", "#1348C2"],
 		"angle": 135.0
 	},
+	"gradient_orange": {
+                "colors": ['#FFBF80', '#E66B2E'],
+		"angle": 135.0
+	},
+	"gradient_pink": {
+                "colors": ['#FF8880', '#E62E6B'],
+		"angle": 135.0
+	},
 	"gradient_purple": {
-                "colors": ["#937FF5", "#735CE6"],
+                "colors": ['#A393F5', '#735CE6'],
 		"angle": 135.0
 	},
 	"gradient_raspberry_pink": {
-                "colors": ["#F060C0", "#E03FAB"],
+                "colors": ['#FF80D5', '#E645B1'],
 		"angle": 135.0
 	},
 	"gradient_red": {
-                "colors": ["#FF5263", "#FF3347"],
+                "colors": ['#FF7583', '#E62E40'],
 		"angle": 135.0
 	},
 	"gradient_retrowave": {
@@ -68,7 +80,7 @@
 		"angle": 135.0
 	},
 	"gradient_turquoise": {
-                "colors": ["#65C2C2", "#86D1D1"],
+                "colors": ['#8AE6E6', '#12B3B3'],
 		"angle": 135.0
 	},
 	"gradient_twilight": {
@@ -80,11 +92,15 @@
 		"angle": 135.0
 	},
 	"gradient_violet": {
-                "colors": ["#C48AFF", "#AA65F0"],
+                "colors": ['#D3A6FF', '#903FE0'],
 		"angle": 135.0
 	},
 	"gradient_yellow": {
-                "colors": ["#FFB73D", "#FFA000"],
+                "colors": ['#FFC44D', '#F07300'],
+		"angle": 135.0
+	},
+	"gradient_yellow_bright": {
+                "colors": ['#FFD54F', '#E7A902'],
 		"angle": 135.0
 	}
 }
