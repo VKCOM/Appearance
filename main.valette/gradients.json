@@ -12,11 +12,11 @@
 		"angle": 135.0
 	},
 	"gradient_candy": {
-                "colors": ["#E6457A", "#E84C81", "#EE6195", "#F77DB1", "#FD92C5", "#FF99CC"],
+                "colors": ["#FF99CC", "#FD92C5", "#F77DB1", "#EE6195", "#E84C81", "#E6457A"],
 		"angle": 135.0
 	},
 	"gradient_crimson": {
-                "colors": ["#CB1E3B", "#CF233E", "#DC3346", "#EE4851", "#FB5759", "#FF5C5C"],
+                "colors": ["#FF5C5C", "#FB5759", "#EE4851", "#DC3346", "#CF233E", "#CB1E3B"],
 		"angle": 135.0
 	},
 	"gradient_disco": {
@@ -44,7 +44,7 @@
 		"angle": 135.0
 	},
 	"gradient_marine": {
-                "colors": ["#2787F5", "#288EE8", "#2CA2BF", "#31BE88", "#35D25F", "#36D952"],
+                "colors": ["#36D952", "#35D25F", "#31BE88", "#2CA2BF", "#288EE8", "#2787F5"],
 		"angle": 135.0
 	},
 	"gradient_midnight": {
@@ -76,7 +76,7 @@
 		"angle": 135.0
 	},
 	"gradient_sunset": {
-                "colors": ["#E6457A", "#ED4755", "#F26549", "#F9994B", "#FFD24D"],
+                "colors": ["#FFD24D", "#F9994B", "#F26549", "#ED4755", "#E6457A"],
 		"angle": 135.0
 	},
 	"gradient_turquoise": {
@@ -88,7 +88,7 @@
 		"angle": 135.0
 	},
 	"gradient_unicorn": {
-                "colors": ["#5CA1E6", "#A179F2", "#FF99CC"],
+                "colors": ["#FF99CC", "#A179F2", "#5CA1E6"],
 		"angle": 135.0
 	},
 	"gradient_violet": {
