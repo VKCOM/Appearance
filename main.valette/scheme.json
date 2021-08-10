@@ -726,7 +726,7 @@
                 "color_identifier": "azure_300"
             },
              "accent_alternate": {
-                "color_identifier": "azure_a100"
+                "color_identifier": "azure_A100"
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "azure_300"
