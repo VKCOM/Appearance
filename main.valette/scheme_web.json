@@ -192,7 +192,7 @@
                 "color_identifier": "gray_800"
             },
             "field_error_background": {
-                "color_identifier": "red_dark"
+                "color_identifier": "red_alpha16"
             },
             "field_error_border": {
                 "color_identifier": "red"
