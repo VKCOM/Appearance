@@ -1,9 +1,9 @@
 {
     "azure_100_muted": "#67A5EB",
-    "azure_300": "#3F8AE0",
+    "azure_300": "#2688EB",
     "azure_350": "#2975CC",
-    "azure_A100": "#2787F5",
-    "azure_A400": "#4986CC",
+    "azure_A100": "#0077FF",
+    "azure_A400": "#2D81E0",
     "black": "#000000",
     "black_alpha05": "#0D000000",
     "black_alpha8": "#14000000",
