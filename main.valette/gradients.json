@@ -102,5 +102,13 @@
 	"gradient_yellow_bright": {
 		"colors": ["#FFD54F", "#E7A902"],
 		"angle": 135.0
+	},
+	"gradient_halloween_orange": {
+		"colors": ["#CB1E3B", "#F05C44", "#FFA000"],
+		"angle": 135.0
+	},
+	"gradient_halloween_violet": {
+		"colors": ["#FFA000", "#CD4C4B", "#792EC0"],
+		"angle": 135.0
 	}
 }
