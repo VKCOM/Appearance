@@ -510,8 +510,7 @@
                 "deprecated_for_web": true
             },
             "media_overlay_button_foreground": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "modal_card_background": {
                 "color_identifier": "gray_800"
@@ -1313,8 +1312,7 @@
                 "deprecated_for_web": true
             },
             "media_overlay_button_foreground": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "modal_card_background": {
                 "color_identifier": "white"
