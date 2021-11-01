@@ -139,7 +139,8 @@
                 "deprecated_for_web": true
             },
             "content_tint_background": {
-                "color_identifier": "gray_850"
+                "color_identifier": "gray_850",
+                "transparent_version": true
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_400",
@@ -513,7 +514,8 @@
                 "color_identifier": "gray_800"
             },
             "modal_card_background": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_800",
+                "transparent_version": true
             },
             "modal_card_border": {
                 "color_identifier": "white_alpha12"
@@ -940,7 +942,8 @@
                 "deprecated_for_web": true
             },
             "content_tint_background": {
-                "color_identifier": "steel_gray_40"
+                "color_identifier": "steel_gray_40",
+                "transparent_version": true
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_500",
@@ -1315,7 +1318,8 @@
                 "color_identifier": "gray_800"
             },
             "modal_card_background": {
-                "color_identifier": "white"
+                "color_identifier": "white",
+                "transparent_version": true
             },
             "modal_card_border": {
                 "color_identifier": "transparent_black"
