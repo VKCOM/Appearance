@@ -996,7 +996,7 @@
                 "color_identifier": "steel_gray_100"
             },
             "field_error_background": {
-                "color_identifier": "red_light"
+                "color_identifier": "pink_light"
             },
             "field_error_border": {
                 "color_identifier": "red"
