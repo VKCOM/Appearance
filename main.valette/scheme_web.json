@@ -1602,7 +1602,7 @@
                 "color_identifier": "green_light"
             },
             "content_negative_background": {
-                "color_identifier": "red_light"
+                "color_identifier": "pink_light"
             }
         }
     }
