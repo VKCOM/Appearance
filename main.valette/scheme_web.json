@@ -508,7 +508,6 @@
             },
             "media_overlay_button_background": {
                 "color_identifier": "white",
-                "deprecated_for_web": true
             },
             "media_overlay_button_foreground": {
                 "color_identifier": "gray_800"
