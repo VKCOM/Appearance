@@ -3,7 +3,7 @@
         "appearance": "dark",
         "colors": {
             "accent": {
-                "color_identifier": "lavender_A400"
+                "color_identifier": "lavender_A300"
             },
             "accent_alternate": {
                  "color_identifier": "white"
@@ -233,7 +233,7 @@
                 "color_identifier": "gray_100"
             },
             "header_tab_active_indicator": {
-                "color_identifier": "sky_300"
+                "color_identifier": "lavender_A300"
             },
             "header_tab_inactive_text": {
                 "color_identifier": "gray_500"
@@ -383,7 +383,7 @@
                 "color_identifier": "white"
             },
             "im_text_name": {
-                "color_identifier": "sky_300"
+                "color_identifier": "lavender_A300"
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "gray_700"
@@ -587,7 +587,7 @@
                 "color_identifier": "gray_500"
             },
             "tabbar_tablet_active_icon": {
-                "color_identifier": "sky_300"
+                "color_identifier": "lavender_A300"
             },
             "tabbar_tablet_background": {
                 "color_identifier": "gray_850"
@@ -611,10 +611,10 @@
                 "color_identifier": "gray_300"
             },
             "text_link": {
-                "color_identifier": "sky_300"
+                "color_identifier": "lavender_A300"
             },
             "text_link_highlighted_background": {
-                "color_identifier": "sky_300"
+                "color_identifier": "lavender_A300"
             },
             "text_muted": {
                 "color_identifier": "gray_200"
@@ -692,7 +692,7 @@
                 "color_identifier": "gray_100"
             },
             "background_text_highlighted": {
-                "color_identifier": "sky_300",
+                "color_identifier": "lavender_A300",
                 "alpha_multiplier": 0.24
             },
             "skeleton_shimmer_from": {
