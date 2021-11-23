@@ -679,6 +679,9 @@
             "dynamic_raspberry_pink": {
                 "color_identifier": "raspberry_pink_light"
             },
+            "dynamic_neon_pink": {
+                "color_identifier": "neon_pink"
+            },
             "vk_connect_button_primary_background": {
                 "color_identifier": "gray_100"
             },
@@ -1398,6 +1401,9 @@
             },
             "dynamic_raspberry_pink": {
                 "color_identifier": "raspberry_pink"
+            },
+            "dynamic_neon_pink": {
+                "color_identifier": "neon_pink"
             },
             "vk_connect_button_primary_background": {
                 "color_identifier": "gray_900"
