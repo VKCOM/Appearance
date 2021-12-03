@@ -110,5 +110,9 @@
 	"gradient_halloween_violet": {
 		"colors": ["#FFA000", "#CD4C4B", "#792EC0"],
 		"angle": 135.0
+	},
+	"gradient_christmas": {
+		"colors": ["#F291A2", "#CC5252", "#BF2709"],
+		"angle": 135.0
 	}
 }
