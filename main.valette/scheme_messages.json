@@ -677,6 +677,24 @@
                 "im_gradient_halloween_violet_theme_write_bar_tint": {
                     "color_identifier": "violet_light"
                 },
+                "im_gradient_frost_theme_header_tint": {
+                    "color_identifier": "sky_300"
+                },
+                "im_gradient_frost_theme_accent": {
+                    "color_identifier": "sky_300"
+                },
+                "im_gradient_frost_theme_write_bar_tint": {
+                    "color_identifier": "sky_300"
+                },
+                "im_gradient_new_year_theme_header_tint": {
+                    "color_identifier": "red_light"
+                },
+                "im_gradient_new_year_theme_accent": {
+                    "color_identifier": "red_light"
+                },
+                "im_gradient_new_year_theme_write_bar_tint": {
+                    "color_identifier": "red_light"
+                },
                 "im_gradient_theme_text_primary": {
                     "color_identifier": "white"
                 },
@@ -1363,6 +1381,24 @@
                 },
                 "im_gradient_halloween_violet_theme_write_bar_tint": {
                     "color_identifier": "violet"
+                },
+                "im_gradient_frost_theme_header_tint": {
+                    "color_identifier": "azure_300"
+                },
+                "im_gradient_frost_theme_accent": {
+                    "color_identifier": "azure_300"
+                },
+                "im_gradient_frost_theme_write_bar_tint": {
+                    "color_identifier": "azure_300"
+                },
+                "im_gradient_new_year_theme_header_tint": {
+                    "color_identifier": "red"
+                },
+                "im_gradient_new_year_theme_accent": {
+                    "color_identifier": "red"
+                },
+                "im_gradient_new_year_theme_write_bar_tint": {
+                    "color_identifier": "red"
                 },
                 "im_gradient_theme_text_primary": {
                     "color_identifier": "white"
