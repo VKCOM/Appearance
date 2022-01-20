@@ -139,7 +139,8 @@
                 "deprecated_for_web": true
             },
             "content_tint_background": {
-                "color_identifier": "gray_850"
+                "color_identifier": "gray_850",
+                "transparent_version": true
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_400",
@@ -189,10 +190,10 @@
                 "color_identifier": "gray_850"
             },
             "field_border": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_750"
             },
             "field_error_background": {
-                "color_identifier": "red_dark"
+                "color_identifier": "red_alpha16"
             },
             "field_error_border": {
                 "color_identifier": "red"
@@ -506,15 +507,14 @@
                 "color_identifier": "white"
             },
             "media_overlay_button_background": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "media_overlay_button_foreground": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "modal_card_background": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_800",
+                "transparent_version": true
             },
             "modal_card_border": {
                 "color_identifier": "white_alpha12"
@@ -642,8 +642,7 @@
                 "deprecated_for_web": true
             },
             "tabbar_background": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "tabbar_inactive_icon": {
                 "color_identifier": "gray_500",
@@ -754,6 +753,9 @@
             "dynamic_raspberry_pink": {
                 "color_identifier": "raspberry_pink_light"
             },
+            "dynamic_neon_pink": {
+                "color_identifier": "neon_pink"
+            },
             "vk_connect_button_primary_background": {
                 "color_identifier": "gray_100",
                 "deprecated_for_web": true
@@ -793,10 +795,10 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "white_alpha16"
-            },  
+            },
             "content_positive_background": {
                 "color_identifier": "green_alpha16"
-            }, 
+            },
             "content_negative_background": {
                 "color_identifier": "red_alpha16"
             }
@@ -942,7 +944,8 @@
                 "deprecated_for_web": true
             },
             "content_tint_background": {
-                "color_identifier": "steel_gray_40"
+                "color_identifier": "steel_gray_40",
+                "transparent_version": true
             },
             "content_tint_foreground": {
                 "color_identifier": "gray_500",
@@ -995,7 +998,7 @@
                 "color_identifier": "steel_gray_100"
             },
             "field_error_background": {
-                "color_identifier": "red_light"
+                "color_identifier": "pink_light"
             },
             "field_error_border": {
                 "color_identifier": "red"
@@ -1310,15 +1313,14 @@
                 "color_identifier": "blue_400"
             },
             "media_overlay_button_background": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "media_overlay_button_foreground": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "modal_card_background": {
-                "color_identifier": "white"
+                "color_identifier": "white",
+                "transparent_version": true
             },
             "modal_card_border": {
                 "color_identifier": "transparent_black"
@@ -1446,8 +1448,7 @@
                 "deprecated_for_web": true
             },
             "tabbar_background": {
-                "color_identifier": "steel_gray_20",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_20"
             },
             "tabbar_inactive_icon": {
                 "color_identifier": "steel_gray_300",
@@ -1558,6 +1559,9 @@
             "dynamic_raspberry_pink": {
                 "color_identifier": "raspberry_pink"
             },
+            "dynamic_neon_pink": {
+                "color_identifier": "neon_pink"
+            },
             "vk_connect_button_primary_background": {
                 "color_identifier": "gray_900",
                 "deprecated_for_web": true
@@ -1597,12 +1601,12 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "black_alpha24"
-            }, 
+            },
             "content_positive_background": {
                 "color_identifier": "green_light"
-            }, 
+            },
             "content_negative_background": {
-                "color_identifier": "red_light"
+                "color_identifier": "pink_light"
             }
         }
     }

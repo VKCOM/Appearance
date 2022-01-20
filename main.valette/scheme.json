@@ -682,6 +682,9 @@
                 "dynamic_raspberry_pink": {
                     "color_identifier": "raspberry_pink_light"
                 },
+                "dynamic_neon_pink": {
+                    "color_identifier": "neon_pink"
+                },
                 "vk_connect_button_primary_background": {
                     "color_identifier": "gray_100"
                 },
@@ -709,7 +712,7 @@
                     "color_identifier": "gray_850"
                 },
                 "skeleton_foreground_to": {
-                    "color_identifier": "gray_800"
+                    "color_identifier": "gray_800"  
                 },
                 "primary_overlay_badge": {
                     "color_identifier": "white_alpha40"
@@ -1394,13 +1397,16 @@
                     "color_identifier": "orange"
                 },
                 "dynamic_purple": {
-                    "color_identifier": "purple"
+                    "color_identifier": "purple"   
                 },
                 "dynamic_violet": {
                     "color_identifier": "violet"
                 },
                 "dynamic_raspberry_pink": {
                     "color_identifier": "raspberry_pink"
+                },
+                "dynamic_neon_pink": {
+                    "color_identifier": "neon_pink"
                 },
                 "vk_connect_button_primary_background": {
                     "color_identifier": "gray_900"
@@ -1429,7 +1435,7 @@
                     "color_identifier": "gray_A40"
                 },
                 "skeleton_foreground_to": {
-                    "color_identifier": "gray_100"
+                    "color_identifier": "gray_100"  
                 },
                 "primary_overlay_badge": {
                     "color_identifier": "black_alpha60"
