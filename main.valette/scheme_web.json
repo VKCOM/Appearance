@@ -150,6 +150,9 @@
                 "color_identifier": "gray_700",
                 "deprecated_for_web": true
             },
+            "control_background_secondary": {
+                "color_identifier": "gray_500"
+            },
             "control_foreground": {
                 "color_identifier": "gray_100",
                 "deprecated_for_web": true
@@ -954,6 +957,9 @@
             "control_background": {
                 "color_identifier": "steel_gray_60",
                 "deprecated_for_web": true
+            },
+            "control_background_secondary": {
+                "color_identifier": "white"
             },
             "control_foreground": {
                 "color_identifier": "blue_400",
