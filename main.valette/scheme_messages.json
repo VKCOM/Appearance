@@ -561,103 +561,121 @@
                     "color_identifier": "forest_green_400"
                 },
                 "im_gradient_disco_theme_header_tint": {
-                    "color_identifier": "orange"
+                    "color_identifier": "raspberry_pink_light"
                 },
                 "im_gradient_disco_theme_accent": {
                     "color_identifier": "raspberry_pink_light"
                 },
                 "im_gradient_disco_theme_write_bar_tint": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "raspberry_pink_light"
                 },
                 "im_gradient_twilight_theme_header_tint": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "purple_light"
                 },
                 "im_gradient_twilight_theme_accent": {
                     "color_identifier": "purple_light"
                 },
                 "im_gradient_twilight_theme_write_bar_tint": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "purple_light"
                 },
                 "im_gradient_sunset_theme_header_tint": {
-                    "color_identifier": "yellow"
+                    "color_identifier": "orange"
                 },
                 "im_gradient_sunset_theme_accent": {
-                    "color_identifier": "orange_fire"
+                    "color_identifier": "orange"
                 },
                 "im_gradient_sunset_theme_write_bar_tint": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "orange"
                 },
                 "im_gradient_retrowave_theme_header_tint": {
-                    "color_identifier": "turquoise_bright"
+                    "color_identifier": "sky_300"
                 },
                 "im_gradient_retrowave_theme_accent": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "sky_300"
                 },
                 "im_gradient_retrowave_theme_write_bar_tint": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "sky_300"
                 },
                 "im_gradient_marine_theme_header_tint": {
-                    "color_identifier": "emerald"
+                    "color_identifier": "aquamarine"
                 },
                 "im_gradient_marine_theme_accent": {
                     "color_identifier": "aquamarine"
                 },
                 "im_gradient_marine_theme_write_bar_tint": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "aquamarine"
                 },
                 "im_gradient_lagoon_theme_header_tint": {
                     "color_identifier": "turquoise_bright"
                 },
                 "im_gradient_lagoon_theme_accent": {
-                    "color_identifier": "turquoise_blue"
+                    "color_identifier": "turquoise_bright"
                 },
                 "im_gradient_lagoon_theme_write_bar_tint": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "turquoise_bright"
                 },
                 "im_gradient_candy_theme_header_tint": {
                     "color_identifier": "pink_pastel"
                 },
                 "im_gradient_candy_theme_accent": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "pink_pastel"
                 },
                 "im_gradient_candy_theme_write_bar_tint": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "pink_pastel"
                 },
                 "im_gradient_crimson_theme_header_tint": {
                     "color_identifier": "red_light"
                 },
                 "im_gradient_crimson_theme_accent": {
-                    "color_identifier": "red_error"
+                    "color_identifier": "red_light"
                 },
                 "im_gradient_crimson_theme_write_bar_tint": {
-                    "color_identifier": "red_cardinal"
+                    "color_identifier": "red_light"
                 },
                 "im_gradient_emerald_theme_header_tint": {
                     "color_identifier": "emerald"
                 },
                 "im_gradient_emerald_theme_accent": {
-                    "color_identifier": "green"
+                    "color_identifier": "emerald"
                 },
                 "im_gradient_emerald_theme_write_bar_tint": {
-                    "color_identifier": "green_dark"
+                    "color_identifier": "emerald"
                 },
                 "im_gradient_unicorn_theme_header_tint": {
-                    "color_identifier": "pink_pastel"
+                    "color_identifier": "violet_light"
                 },
                 "im_gradient_unicorn_theme_accent": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "violet_light"
                 },
                 "im_gradient_unicorn_theme_write_bar_tint": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "violet_light"
                 },
                 "im_gradient_midnight_theme_header_tint": {
-                    "color_identifier": "turquoise_blue"
+                    "color_identifier": "sky_300"
                 },
                 "im_gradient_midnight_theme_accent": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "sky_300"
                 },
                 "im_gradient_midnight_theme_write_bar_tint": {
-                    "color_identifier": "azure_A100"
+                    "color_identifier": "sky_300"
+                },
+                "im_gradient_halloween_orange_theme_header_tint": {
+                    "color_identifier": "orange"
+                },
+                "im_gradient_halloween_orange_theme_accent": {
+                    "color_identifier": "orange"
+                },
+                "im_gradient_halloween_orange_theme_write_bar_tint": {
+                    "color_identifier": "orange"
+                },
+                "im_gradient_halloween_violet_theme_header_tint": {
+                    "color_identifier": "violet_light"
+                },
+                "im_gradient_halloween_violet_theme_accent": {
+                    "color_identifier": "violet_light"
+                },
+                "im_gradient_halloween_violet_theme_write_bar_tint": {
+                    "color_identifier": "violet_light"
                 },
                 "im_gradient_frost_theme_header_tint": {
                     "color_identifier": "sky_300"
@@ -1251,100 +1269,118 @@
                     "color_identifier": "raspberry_pink"
                 },
                 "im_gradient_disco_theme_write_bar_tint": {
-                    "color_identifier": "azure_A100"
+                    "color_identifier": "raspberry_pink"
                 },
                 "im_gradient_disco_theme_header_tint": {
-                    "color_identifier": "orange"
+                    "color_identifier": "raspberry_pink"
                 },
                 "im_gradient_twilight_theme_header_tint": {
-                    "color_identifier": "pink"
+                    "color_identifier": "purple"
                 },
                 "im_gradient_twilight_theme_accent": {
                     "color_identifier": "purple"
                 },
                 "im_gradient_twilight_theme_write_bar_tint": {
-                    "color_identifier": "azure_A100"
+                    "color_identifier": "purple"
                 },
                 "im_gradient_sunset_theme_header_tint": {
-                    "color_identifier": "orange"
+                    "color_identifier": "orange_fire"
                 },
                 "im_gradient_sunset_theme_accent": {
                     "color_identifier": "orange_fire"
                 },
                 "im_gradient_sunset_theme_write_bar_tint": {
-                    "color_identifier": "pink"
+                    "color_identifier": "orange_fire"
                 },
                 "im_gradient_retrowave_theme_header_tint": {
-                    "color_identifier": "turquoise_blue"
+                    "color_identifier": "azure_A100"
                 },
                 "im_gradient_retrowave_theme_accent": {
                     "color_identifier": "azure_A100"
                 },
                 "im_gradient_retrowave_theme_write_bar_tint": {
-                    "color_identifier": "pink"
+                    "color_identifier": "azure_A100"
                 },
                 "im_gradient_marine_theme_header_tint": {
-                    "color_identifier": "green"
+                    "color_identifier": "green_dark"
                 },
                 "im_gradient_marine_theme_accent": {
                     "color_identifier": "green_dark"
                 },
                 "im_gradient_marine_theme_write_bar_tint": {
-                    "color_identifier": "azure_A100"
+                    "color_identifier": "green_dark"
                 },
                 "im_gradient_lagoon_theme_header_tint": {
-                    "color_identifier": "turquoise_blue"
+                    "color_identifier": "azure_300"
                 },
                 "im_gradient_lagoon_theme_accent": {
-                    "color_identifier": "turquoise_blue"
+                    "color_identifier": "azure_300"
                 },
                 "im_gradient_lagoon_theme_write_bar_tint": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "azure_300"
                 },
                 "im_gradient_candy_theme_header_tint": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "raspberry_pink"
                 },
                 "im_gradient_candy_theme_accent": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "raspberry_pink"
                 },
                 "im_gradient_candy_theme_write_bar_tint": {
-                    "color_identifier": "pink"
+                    "color_identifier": "raspberry_pink"
                 },
                 "im_gradient_crimson_theme_header_tint": {
-                    "color_identifier": "red_light"
+                    "color_identifier": "red_cardinal"
                 },
                 "im_gradient_crimson_theme_accent": {
-                    "color_identifier": "red_error"
+                    "color_identifier": "red_cardinal"
                 },
                 "im_gradient_crimson_theme_write_bar_tint": {
                     "color_identifier": "red_cardinal"
                 },
                 "im_gradient_emerald_theme_header_tint": {
-                    "color_identifier": "emerald"
+                    "color_identifier": "green_dark"
                 },
                 "im_gradient_emerald_theme_accent": {
-                    "color_identifier": "green"
+                    "color_identifier": "green_dark"
                 },
                 "im_gradient_emerald_theme_write_bar_tint": {
                     "color_identifier": "green_dark"
                 },
                 "im_gradient_midnight_theme_header_tint": {
-                    "color_identifier": "turquoise_blue"
+                    "color_identifier": "azure_A100"
                 },
                 "im_gradient_midnight_theme_accent": {
                     "color_identifier": "azure_A100"
                 },
                 "im_gradient_midnight_theme_write_bar_tint": {
-                    "color_identifier": "blue_dark"
+                    "color_identifier": "azure_A100"
                 },
                 "im_gradient_unicorn_theme_header_tint": {
-                    "color_identifier": "pink_rose"
+                    "color_identifier": "purple"
                 },
                 "im_gradient_unicorn_theme_accent": {
                     "color_identifier": "purple"
                 },
                 "im_gradient_unicorn_theme_write_bar_tint": {
-                    "color_identifier": "blue_200"
+                    "color_identifier": "purple"
+                },
+                "im_gradient_halloween_orange_theme_header_tint": {
+                    "color_identifier": "orange_fire"
+                },
+                "im_gradient_halloween_orange_theme_accent": {
+                    "color_identifier": "orange_fire"
+                },
+                "im_gradient_halloween_orange_theme_write_bar_tint": {
+                    "color_identifier": "orange_fire"
+                },
+                "im_gradient_halloween_violet_theme_header_tint": {
+                    "color_identifier": "violet"
+                },
+                "im_gradient_halloween_violet_theme_accent": {
+                    "color_identifier": "violet"
+                },
+                "im_gradient_halloween_violet_theme_write_bar_tint": {
+                    "color_identifier": "violet"
                 },
                 "im_gradient_frost_theme_header_tint": {
                     "color_identifier": "azure_300"

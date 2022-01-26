@@ -63,25 +63,33 @@ function checkWebSchemeFullness(schemesList) {
 checkWebSchemeFullness(schemeWeb);
 
 /*
-  checks that the colors deprecated in in all schemes
+  checks that the colors deprecated and transparent_version in in all schemes
 */
 
 function checkWebSchemeDeprecatedFullness(schemesList) {
   let deprecatedTokenLists = new Set();
+  let transparentTokenLists = new Set();
   Object.keys(schemesList).forEach((schemeName) => {
     const curSchemeColors = schemesList[schemeName].colors;
     Object.keys(curSchemeColors).forEach((colorName) => {
       if (curSchemeColors[colorName].deprecated_for_web) {
         deprecatedTokenLists.add(colorName);
       }
+      if (curSchemeColors[colorName].transparent_version) {
+        transparentTokenLists.add(colorName);
+      }
     });
   });
   deprecatedTokenLists = Array.from(deprecatedTokenLists);
+  transparentTokenLists = Array.from(transparentTokenLists);
   Object.keys(schemesList).forEach((schemeName) => {
     const curSchemeColors = schemesList[schemeName].colors;
     Object.keys(curSchemeColors).forEach((colorName) => {
       if (deprecatedTokenLists.includes(colorName) && !curSchemeColors[colorName].deprecated_for_web) {
-        throw new Error(`Color ${colorName} are deprecated for web not in all schemes`);
+        throw new Error(`Color ${colorName} is deprecated for web not in all schemes`);
+      }
+      if (transparentTokenLists.includes(colorName) && !curSchemeColors[colorName].transparent_version) {
+        throw new Error(`Color ${colorName} has a transparent_version property not in all schemes`);
       }
     });
   });
