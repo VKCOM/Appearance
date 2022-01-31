@@ -139,6 +139,9 @@
                 "control_background": {
                     "color_identifier": "gray_700"
                 },
+                "control_background_secondary": {
+                    "color_identifier": "gray_500"
+                },
                 "control_foreground": {
                     "color_identifier": "gray_100"
                 },
@@ -863,6 +866,9 @@
                 },
                 "control_background": {
                     "color_identifier": "gray_50"
+                },
+                "control_background_secondary": {
+                    "color_identifier": "white"
                 },
                 "control_foreground": {
                     "color_identifier": "lavender_A700"
