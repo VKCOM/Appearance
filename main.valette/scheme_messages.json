@@ -695,6 +695,15 @@
                 "im_gradient_new_year_theme_write_bar_tint": {
                     "color_identifier": "red_light"
                 },
+                "im_gradient_valentine_theme_header_tint": {
+                    "color_identifier": "pink_pastel"
+                },
+                "im_gradient_valentine_theme_accent": {
+                    "color_identifier": "pink_pastel"
+                },
+                "im_gradient_valentine_theme_write_bar_tint": {
+                    "color_identifier": "pink_pastel"
+                },
                 "im_gradient_theme_text_primary": {
                     "color_identifier": "white"
                 },
@@ -1399,6 +1408,15 @@
                 },
                 "im_gradient_new_year_theme_write_bar_tint": {
                     "color_identifier": "red"
+                },
+                "im_gradient_valentine_theme_header_tint": {
+                    "color_identifier": "pink"
+                },
+                "im_gradient_valentine_theme_accent": {
+                    "color_identifier": "pink"
+                },
+                "im_gradient_valentine_theme_write_bar_tint": {
+                    "color_identifier": "pink"
                 },
                 "im_gradient_theme_text_primary": {
                     "color_identifier": "white"
