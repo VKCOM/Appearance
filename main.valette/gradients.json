@@ -118,5 +118,9 @@
 	"gradient_frost": {
 		"colors": ["#66CCFF", "#3F8AE0"],
 		"angle": 135.0
+	},
+	"gradient_valentine": {
+		"colors": ["#FF8A65", "#F25383", "#8F13DB"],
+		"angle": 135.0
 	}
 }
