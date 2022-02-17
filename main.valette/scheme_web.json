@@ -1600,7 +1600,7 @@
                 "color_identifier": "steel_gray_40"
             },
             "skeleton_foreground_to": {
-                "color_identifier": "steel_gray_80"
+                "color_identifier": "steel_gray_60"
             },
             "primary_overlay_badge": {
                 "color_identifier": "black_alpha56"
