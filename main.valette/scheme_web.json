@@ -594,7 +594,7 @@
                 "color_identifier": "white_alpha16"
             },
             "separator_alternate": {
-                "color_identifier": "gray_850"
+                "color_identifier": "gray_800"
             },
             "separator_common": {
                 "color_identifier": "gray_750"
