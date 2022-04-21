@@ -139,7 +139,7 @@
                 "deprecated_for_web": true
             },
             "content_tint_background": {
-                "color_identifier": "gray_850",
+                "color_identifier": "gray_800",
                 "transparent_version": true
             },
             "content_tint_foreground": {
