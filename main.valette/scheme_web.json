@@ -409,7 +409,7 @@
                 "color_identifier": "white"
             },
             "im_text_name": {
-                "color_identifier": "sky_300"
+                "color_identifier": "gray_100"
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "gray_700"
