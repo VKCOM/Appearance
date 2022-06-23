@@ -81,14 +81,8 @@
             "button_primary_background": {
                 "color_identifier": "ok_orange"
             },
-            "button_primary_background_disabled": {
-                "color_identifier": "ok_orange_dark"
-            },
             "button_primary_foreground": {
                 "color_identifier": "white"
-            },
-            "button_primary_foreground_disabled": {
-                "color_identifier": "ok_gray_dark"
             },
             "button_secondary_background": {
                 "color_identifier": "gray_700"
@@ -813,14 +807,8 @@
             "button_primary_background": {
                 "color_identifier": "ok_orange"
             },
-            "button_primary_background_disabled": {
-                "color_identifier": "ok_orange_dark"
-            },
             "button_primary_foreground": {
                 "color_identifier": "white"
-            },
-            "button_primary_foreground_disabled": {
-                "color_identifier": "ok_gray_dark"
             },
             "button_secondary_background": {
                 "color_identifier": "black_blue24",
