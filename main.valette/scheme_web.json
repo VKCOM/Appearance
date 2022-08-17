@@ -5,7 +5,7 @@
             "accent": {
                 "color_identifier": "sky_300"
             },
-             "accent_alternate": {
+            "accent_alternate": {
                 "color_identifier": "white"
             },
             "action_sheet_action_foreground": {
@@ -813,8 +813,8 @@
             "accent": {
                 "color_identifier": "azure_300"
             },
-             "accent_alternate": {
-                "color_identifier": "azure_a100"
+            "accent_alternate": {
+                "color_identifier": "azure_A100"
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "azure_300",
@@ -1090,7 +1090,7 @@
                 "color_identifier": "steel_gray_200"
             },
             "header_tint_alternate": {
-                "color_identifier": "azure_a100"
+                "color_identifier": "azure_A100"
             },
             "icon_alpha_placeholder": {
                 "color_identifier": "white",
@@ -1340,7 +1340,7 @@
                 "deprecated_for_web": true
             },
             "feed_recommended_friend_promo_background": {
-                "color_identifier": "azure_a400",
+                "color_identifier": "azure_A400",
                 "deprecated_for_web": true
             },
             "overlay_status_background": {
