@@ -900,7 +900,7 @@
                 "color_identifier": "azure_a400"
             },
             "button_primary_background": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "azure_300"
             },
             "button_primary_foreground": {
                 "color_identifier": "white"
