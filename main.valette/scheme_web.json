@@ -61,7 +61,7 @@
                 "color_identifier": "gray_850"
             },
             "background_page": {
-                "color_identifier": "gray_960"
+                "color_identifier": "gray_940"
             },
             "background_suggestions": {
                 "color_identifier": "gray_800",
@@ -906,7 +906,7 @@
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "light_blue_40"
+                "color_identifier": "steel_gray_40"
             },
             "button_secondary_background_highlighted": {
                 "color_identifier": "light_blue_100"
