@@ -890,17 +890,17 @@
                 "deprecated_for_web": true
             },
             "button_muted_foreground": {
-                "color_identifier": "steel_gray_A540",
+                "color_identifier": "azure_a400",
                 "deprecated_for_web": true
             },
             "button_outline_border": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "azure_300"
             },
             "button_outline_foreground": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "azure_300"
             },
             "button_primary_background": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "azure_300"
             },
             "button_primary_foreground": {
                 "color_identifier": "white"
@@ -912,10 +912,10 @@
                 "color_identifier": "light_blue_100"
             },
             "button_secondary_foreground": {
-                "color_identifier": "steel_gray_A540"
+                "color_identifier": "azure_a400"
             },
             "button_secondary_foreground_highlighted": {
-                "color_identifier": "steel_gray_A540"
+                "color_identifier": "azure_a400"
             },
             "button_secondary_destructive_background": {
                 "color_identifier": "red_alpha16"
