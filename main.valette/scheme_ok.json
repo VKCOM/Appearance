@@ -3,13 +3,13 @@
         "appearance": "dark",
         "colors": {
             "accent": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
             },
              "accent_alternate": {
                 "color_identifier": "white"
             },
             "action_sheet_action_foreground": {
-                "color_identifier": "white"
+                "color_identifier": "ok_gray_medium"
             },
             "action_sheet_separator": {
                 "color_identifier": "white_alpha12"
@@ -36,7 +36,7 @@
                 "color_identifier": "gray_500"
             },
             "background_content": {
-                "color_identifier": "gray_900"
+                "color_identifier": "ok_black_light"
             },
             "background_hover": {
                 "color_identifier": "white",
@@ -79,10 +79,10 @@
                 "color_identifier": "gray_100"
             },
             "button_primary_background": {
-                "color_identifier": "gray_100"
+                "color_identifier": "ok_orange"
             },
             "button_primary_foreground": {
-                "color_identifier": "gray_900"
+                "color_identifier": "white"
             },
             "button_secondary_background": {
                 "color_identifier": "gray_700"
@@ -242,13 +242,13 @@
                 "color_identifier": "gray_500"
             },
             "header_text": {
-                "color_identifier": "gray_100"
+                "color_identifier": "ok_gray_light"
             },
             "header_text_alternate": {
                 "color_identifier": "gray_100"
             },
             "header_text_secondary": {
-                "color_identifier": "white_alpha60"
+                "color_identifier": "ok_gray_medium"
             },
             "header_tint": {
                 "color_identifier": "gray_100"
@@ -629,7 +629,7 @@
                 "color_identifier": "gray_300"
             },
             "text_primary": {
-                "color_identifier": "gray_100"
+                "color_identifier": "ok_gray_medium"
             },
             "text_secondary": {
                 "color_identifier": "gray_500"
@@ -671,7 +671,7 @@
                 "color_identifier": "green"
             },
             "dynamic_orange": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
             },
             "dynamic_purple": {
                 "color_identifier": "purple_light"
@@ -729,7 +729,7 @@
         "appearance": "light",
         "colors": {
             "accent": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
             },
              "accent_alternate": {
                 "color_identifier": "azure_A100"
@@ -805,7 +805,7 @@
                 "color_identifier": "azure_300"
             },
             "button_primary_background": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
             },
             "button_primary_foreground": {
                 "color_identifier": "white"
@@ -819,10 +819,10 @@
                 "alpha_multiplier": 0.03
             },
             "button_secondary_foreground": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
             },
             "button_secondary_foreground_highlighted": {
-                "color_identifier": "orange",
+                "color_identifier": "ok_orange",
                 "alpha_multiplier": 0.6
             },
             "button_secondary_destructive_background": {
@@ -979,10 +979,10 @@
                 "color_identifier": "steel_gray_400"
             },
             "header_tint": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
             },
             "header_tint_alternate": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
             },
             "icon_alpha_placeholder": {
                 "color_identifier": "white"
@@ -1397,7 +1397,7 @@
                 "color_identifier": "green"
             },
             "dynamic_orange": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
              },
             "dynamic_purple": {
                 "color_identifier": "purple"   

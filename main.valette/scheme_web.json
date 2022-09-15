@@ -5,7 +5,7 @@
             "accent": {
                 "color_identifier": "sky_300"
             },
-             "accent_alternate": {
+            "accent_alternate": {
                 "color_identifier": "white"
             },
             "action_sheet_action_foreground": {
@@ -139,7 +139,7 @@
                 "deprecated_for_web": true
             },
             "content_tint_background": {
-                "color_identifier": "gray_800",
+                "color_identifier": "gray_850",
                 "transparent_version": true
             },
             "content_tint_foreground": {
@@ -261,7 +261,7 @@
                 "deprecated_for_web": true
             },
             "header_tab_active_indicator": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "header_tab_inactive_text": {
@@ -409,7 +409,7 @@
                 "color_identifier": "white"
             },
             "im_text_name": {
-                "color_identifier": "gray_100"
+                "color_identifier": "sky_300"
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "gray_700"
@@ -516,7 +516,7 @@
                 "color_identifier": "gray_800"
             },
             "modal_card_background": {
-                "color_identifier": "gray_850",
+                "color_identifier": "gray_800",
                 "transparent_version": true
             },
             "modal_card_border": {
@@ -594,7 +594,7 @@
                 "color_identifier": "white_alpha16"
             },
             "separator_alternate": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_850"
             },
             "separator_common": {
                 "color_identifier": "gray_750"
@@ -652,7 +652,7 @@
                 "deprecated_for_web": true
             },
             "tabbar_tablet_active_icon": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "tabbar_tablet_background": {
@@ -687,7 +687,7 @@
                 "color_identifier": "sky_300"
             },
             "text_link_highlighted_background": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "text_muted": {
@@ -733,7 +733,7 @@
                 "color_identifier": "gray_100"
             },
             "dynamic_blue": {
-                "color_identifier": "blue_400"
+                "color_identifier": "azure_300"
             },
             "dynamic_gray": {
                 "color_identifier": "steel_gray_200"
@@ -813,11 +813,11 @@
             "accent": {
                 "color_identifier": "azure_300"
             },
-             "accent_alternate": {
+            "accent_alternate": {
                 "color_identifier": "azure_a100"
             },
             "action_sheet_action_foreground": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "action_sheet_separator": {
@@ -899,6 +899,9 @@
             "button_outline_foreground": {
                 "color_identifier": "azure_a400"
             },
+            "button_outline_foreground": {
+                "color_identifier": "azure_300"
+            },
             "button_primary_background": {
                 "color_identifier": "azure_300"
             },
@@ -906,7 +909,7 @@
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "light_blue_40"
+                "color_identifier": "steel_gray_40"
             },
             "button_secondary_background_highlighted": {
                 "color_identifier": "light_blue_80"
@@ -1069,7 +1072,7 @@
                 "deprecated_for_web": true
             },
             "header_tab_active_indicator": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "header_tab_inactive_text": {
@@ -1214,17 +1217,16 @@
                 "color_identifier": "blue_980_alpha12"
             },
             "im_reply_separator": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_a400"
             },
             "im_text_name": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_a400"
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "steel_gray_300"
             },
             "im_toolbar_separator": {
                 "color_identifier": "black_blue24",
-
                 "deprecated_for_web": true
             },
             "image_border": {
@@ -1253,7 +1255,7 @@
                 "deprecated_for_web": true
             },
             "landing_login_button_background": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "landing_login_button_foreground": {
@@ -1261,7 +1263,7 @@
                 "deprecated_for_web": true
             },
             "landing_primary_button_background": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "landing_primary_button_foreground": {
@@ -1273,7 +1275,7 @@
                 "deprecated_for_web": true
             },
             "landing_tertiary_button_foreground": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "landing_text_primary": {
@@ -1281,7 +1283,7 @@
                 "deprecated_for_web": true
             },
             "landing_text_title": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "landing_text_secondary": {
@@ -1293,7 +1295,7 @@
                 "deprecated_for_web": true
             },
             "landing_secondary_button_foreground": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "landing_snippet_border": {
@@ -1304,7 +1306,7 @@
                 "color_identifier": "red_nice"
             },
             "link_alternate": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_a400"
             },
             "loader_background": {
                 "color_identifier": "steel_gray_60"
@@ -1316,7 +1318,7 @@
                 "color_identifier": "steel_gray_120"
             },
             "loader_track_value_fill": {
-                "color_identifier": "blue_400"
+                "color_identifier": "azure_300"
             },
             "media_overlay_button_background": {
                 "color_identifier": "white"
@@ -1340,7 +1342,7 @@
                 "deprecated_for_web": true
             },
             "feed_recommended_friend_promo_background": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_a400",
                 "deprecated_for_web": true
             },
             "overlay_status_background": {
@@ -1371,7 +1373,7 @@
                 "color_identifier": "blue_800"
             },
             "poll_option_background": {
-                "color_identifier": "blue_400"
+                "color_identifier": "azure_300"
             },
             "search_bar_background": {
                 "color_identifier": "transparent_black",
@@ -1450,7 +1452,7 @@
                 "deprecated_for_web": true
             },
             "tabbar_active_icon": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "tabbar_background": {
@@ -1461,7 +1463,7 @@
                 "deprecated_for_web": true
             },
             "tabbar_tablet_active_icon": {
-                "color_identifier": "blue_400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "tabbar_tablet_background": {
@@ -1493,7 +1495,7 @@
                 "deprecated_for_web": true
             },
             "text_link": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_a400"
             },
             "text_link_highlighted_background": {
                 "color_identifier": "black",
@@ -1503,7 +1505,7 @@
                 "color_identifier": "gray_800"
             },
             "text_name": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_a400"
             },
             "text_placeholder": {
                 "color_identifier": "steel_gray_400"
@@ -1600,7 +1602,7 @@
                 "color_identifier": "steel_gray_40"
             },
             "skeleton_foreground_to": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "steel_gray_80"
             },
             "primary_overlay_badge": {
                 "color_identifier": "black_alpha56"
