@@ -899,9 +899,6 @@
             "button_outline_foreground": {
                 "color_identifier": "azure_a400"
             },
-            "button_outline_foreground": {
-                "color_identifier": "azure_300"
-            },
             "button_primary_background": {
                 "color_identifier": "azure_300"
             },
@@ -909,10 +906,10 @@
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "steel_gray_40"
+                "color_identifier": "steel_gray_50"
             },
             "button_secondary_background_highlighted": {
-                "color_identifier": "light_blue_80"
+                "color_identifier": "steel_gray_80"
             },
             "button_secondary_foreground": {
                 "color_identifier": "azure_a400"
