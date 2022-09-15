@@ -98,10 +98,10 @@
                 "color_identifier": "gray_900"
             },
             "button_secondary_background": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_750"
             },
             "button_secondary_background_highlighted": {
-                "color_identifier": "gray_600"
+                "color_identifier": "gray_700"
             },
             "button_secondary_foreground": {
                 "color_identifier": "gray_100"
@@ -894,7 +894,10 @@
                 "deprecated_for_web": true
             },
             "button_outline_border": {
-                "color_identifier": "azure_300"
+                "color_identifier": "azure_a400"
+            },
+            "button_outline_foreground": {
+                "color_identifier": "azure_a400"
             },
             "button_outline_foreground": {
                 "color_identifier": "azure_300"
@@ -909,13 +912,13 @@
                 "color_identifier": "steel_gray_40"
             },
             "button_secondary_background_highlighted": {
-                "color_identifier": "light_blue_100"
+                "color_identifier": "light_blue_80"
             },
             "button_secondary_foreground": {
                 "color_identifier": "azure_a400"
             },
             "button_secondary_foreground_highlighted": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "azure_a500"
             },
             "button_secondary_destructive_background": {
                 "color_identifier": "red_alpha16"
@@ -962,7 +965,7 @@
                 "color_identifier": "white"
             },
             "control_foreground": {
-                "color_identifier": "azure_a400",
+                "color_identifier": "azure_300",
                 "deprecated_for_web": true
             },
             "control_tint": {
@@ -1090,7 +1093,7 @@
                 "color_identifier": "steel_gray_200"
             },
             "header_tint_alternate": {
-                "color_identifier": "azure_a100"
+                "color_identifier": "azure_300"
             },
             "icon_alpha_placeholder": {
                 "color_identifier": "white",
