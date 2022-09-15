@@ -811,13 +811,13 @@
         "appearance": "light",
         "colors": {
             "accent": {
-                "color_identifier": "azure_300"
+                "color_identifier": "blue_a400"
             },
             "accent_alternate": {
                 "color_identifier": "azure_a100"
             },
             "action_sheet_action_foreground": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "action_sheet_separator": {
@@ -829,7 +829,7 @@
                 "deprecated_for_web": true
             },
             "attach_picker_tab_active_background": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "attach_picker_tab_active_icon": {
@@ -837,7 +837,7 @@
                 "deprecated_for_web": true
             },
             "attach_picker_tab_active_text": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "attach_picker_tab_inactive_background": {
@@ -869,7 +869,7 @@
                 "color_identifier": "steel_gray_10"
             },
             "background_page": {
-                "color_identifier": "steel_gray_40"
+                "color_identifier": "steel_gray_60"
             },
             "background_suggestions": {
                 "color_identifier": "white",
@@ -890,32 +890,32 @@
                 "deprecated_for_web": true
             },
             "button_muted_foreground": {
-                "color_identifier": "azure_a400",
+                "color_identifier": "blue_550",
                 "deprecated_for_web": true
             },
             "button_outline_border": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "blue_550"
             },
             "button_outline_foreground": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "blue_550"
             },
             "button_primary_background": {
-                "color_identifier": "azure_300"
+                "color_identifier": "blue_a400"
             },
             "button_primary_foreground": {
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "steel_gray_50"
+                "color_identifier": "light_blue_40"
             },
             "button_secondary_background_highlighted": {
-                "color_identifier": "steel_gray_80"
+                "color_identifier": "light_blue_100"
             },
             "button_secondary_foreground": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "blue_550"
             },
             "button_secondary_foreground_highlighted": {
-                "color_identifier": "azure_a500"
+                "color_identifier": "blue_640"
             },
             "button_secondary_destructive_background": {
                 "color_identifier": "red_alpha16"
@@ -933,10 +933,10 @@
                 "color_identifier": "transparent_black"
             },
             "button_tertiary_foreground": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "blue_550"
             },
             "cell_button_foreground": {
-                "color_identifier": "azure_a400"
+                "color_identifier": "blue_550"
             },
             "content_placeholder_icon": {
                 "color_identifier": "steel_gray_300",
@@ -962,7 +962,7 @@
                 "color_identifier": "white"
             },
             "control_foreground": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "control_tint": {
@@ -974,7 +974,7 @@
                 "deprecated_for_web": true
             },
             "counter_primary_background": {
-                "color_identifier": "azure_300"
+                "color_identifier": "blue_a400"
             },
             "counter_primary_text": {
                 "color_identifier": "white"
@@ -1032,7 +1032,7 @@
                 "deprecated_for_web": true
             },
             "header_alternate_tab_active_indicator": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "header_alternate_tab_active_text": {
@@ -1090,7 +1090,7 @@
                 "color_identifier": "steel_gray_200"
             },
             "header_tint_alternate": {
-                "color_identifier": "azure_300"
+                "color_identifier": "blue_a400"
             },
             "icon_alpha_placeholder": {
                 "color_identifier": "white",
@@ -1121,7 +1121,7 @@
                 "color_identifier": "black_alpha24"
             },
             "im_attach_tint": {
-                "color_identifier": "azure_300"
+                "color_identifier": "blue_a400"
             },
             "im_bubble_border_alternate": {
                 "color_identifier": "steel_gray_100"
@@ -1252,7 +1252,7 @@
                 "deprecated_for_web": true
             },
             "landing_login_button_background": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "landing_login_button_foreground": {
@@ -1260,7 +1260,7 @@
                 "deprecated_for_web": true
             },
             "landing_primary_button_background": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "landing_primary_button_foreground": {
@@ -1272,7 +1272,7 @@
                 "deprecated_for_web": true
             },
             "landing_tertiary_button_foreground": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "landing_text_primary": {
@@ -1280,7 +1280,7 @@
                 "deprecated_for_web": true
             },
             "landing_text_title": {
-                "color_identifier": "blue_400",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "landing_text_secondary": {
@@ -1292,7 +1292,7 @@
                 "deprecated_for_web": true
             },
             "landing_secondary_button_foreground": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "landing_snippet_border": {
@@ -1315,7 +1315,7 @@
                 "color_identifier": "steel_gray_120"
             },
             "loader_track_value_fill": {
-                "color_identifier": "blue_400"
+                "color_identifier": "blue_a400"
             },
             "media_overlay_button_background": {
                 "color_identifier": "white"
@@ -1339,7 +1339,7 @@
                 "deprecated_for_web": true
             },
             "feed_recommended_friend_promo_background": {
-                "color_identifier": "azure_a400",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "overlay_status_background": {
@@ -1370,7 +1370,7 @@
                 "color_identifier": "blue_800"
             },
             "poll_option_background": {
-                "color_identifier": "azure_300"
+                "color_identifier": "blue_a400"
             },
             "search_bar_background": {
                 "color_identifier": "transparent_black",
@@ -1449,7 +1449,7 @@
                 "deprecated_for_web": true
             },
             "tabbar_active_icon": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "tabbar_background": {
@@ -1460,7 +1460,7 @@
                 "deprecated_for_web": true
             },
             "tabbar_tablet_active_icon": {
-                "color_identifier": "azure_300",
+                "color_identifier": "blue_a400",
                 "deprecated_for_web": true
             },
             "tabbar_tablet_background": {
