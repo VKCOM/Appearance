@@ -1,0 +1,220 @@
+{
+    "title1_semibold": {
+        "font_size": 24,
+        "line_height": 28,
+        "letter_spacing": -0.02,
+        "font_weight": 600,
+        "font_name": "VK Sans Display"
+    },
+    "title1_bold": {
+        "font_size": 24,
+        "line_height": 28,
+        "letter_spacing": -0.02,
+        "font_weight": 700,
+        "font_name": "VK Sans Display"
+    },
+    "title1_heavy": {
+        "font_size": 24,
+        "line_height": 28,
+        "letter_spacing": -0.02,
+        "font_weight": 700,
+        "font_name": "VK Sans Display"
+    },
+    "title2_regular": {
+        "font_size": 20,
+        "line_height": 24,
+        "letter_spacing": -0.02,
+        "font_weight": 400,
+        "font_name": "VK Sans Display"
+    },
+    "title2_demibold": {
+        "font_size": 20,
+        "line_height": 24,
+        "letter_spacing": -0.02,
+        "font_weight": 600,
+        "font_name": "VK Sans Display"
+    },
+    "title2_heavy": {
+        "font_size": 20,
+        "line_height": 24,
+        "letter_spacing": -0.02,
+        "font_weight": 700,
+        "font_name": "VK Sans Display"
+    },
+    "title3_regular": {
+        "font_size": 17,
+        "line_height": 22,
+        "letter_spacing": -0.013,
+        "font_weight": 400,
+        "font_name": "VK Sans Text"
+    },
+    "title3_medium": {
+        "font_size": 17,
+        "line_height": 22,
+        "letter_spacing": -0.013,
+        "font_weight": 500,
+        "font_name": "VK Sans Text"
+    },
+    "title3_demibold": {
+        "font_size": 17,
+        "line_height": 22,
+        "letter_spacing": -0.013,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "headline_regular": {
+        "font_size": 16,
+        "line_height": 20,
+        "letter_spacing": -0.01,
+        "font_weight": 400,
+        "font_name": "VK Sans Text"
+    },
+    "headline_medium": {
+        "font_size": 16,
+        "line_height": 20,
+        "letter_spacing": -0.01,
+        "font_weight": 500,
+        "font_name": "VK Sans Text"
+    },
+    "headline_demibold": {
+        "font_size": 16,
+        "line_height": 20,
+        "letter_spacing": -0.01,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "text_regular": {
+        "font_size": 15,
+        "line_height": 20,
+        "letter_spacing": -0.007,
+        "font_weight": 400,
+        "font_name": "VK Sans Text"
+    },
+    "text_medium": {
+        "font_size": 15,
+        "line_height": 20,
+        "letter_spacing": -0.007,
+        "font_weight": 500,
+        "font_name": "VK Sans Text"
+    },
+    "text_semibold": {
+        "font_size": 15,
+        "line_height": 20,
+        "letter_spacing": -0.007,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "subhead_regular": {
+        "font_size": 14,
+        "line_height": 18,
+        "letter_spacing": -0.004,
+        "font_weight": 400,
+        "font_name": "VK Sans Text"
+    },
+    "subhead_medium": {
+        "font_size": 14,
+        "line_height": 18,
+        "letter_spacing": -0.004,
+        "font_weight": 500,
+        "font_name": "VK Sans Text"
+    },
+    "subhead_demibold": {
+        "font_size": 14,
+        "line_height": 18,
+        "letter_spacing": -0.004,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "subhead_bold": {
+        "font_size": 14,
+        "line_height": 18,
+        "letter_spacing": -0.004,
+        "font_weight": 700,
+        "font_name": "VK Sans Text"
+    },
+    "caption1_regular": {
+        "font_size": 13,
+        "line_height": 16,
+        "letter_spacing": 0,
+        "font_weight": 400,
+        "font_name": "VK Sans Text"
+    },
+    "caption1_medium": {
+        "font_size": 13,
+        "line_height": 16,
+        "letter_spacing": 0,
+        "font_weight": 500,
+        "font_name": "VK Sans Text"
+    },
+    "caption1_demibold": {
+        "font_size": 13,
+        "line_height": 16,
+        "letter_spacing": 0,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "caption_caps1_demibold": {
+        "font_size": 13,
+        "line_height": 16,
+        "letter_spacing": 0,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "caption2_regular": {
+        "font_size": 12,
+        "line_height": 14,
+        "letter_spacing": 0.005,
+        "font_weight": 400,
+        "font_name": "VK Sans Text"
+    },
+    "caption2_medium": {
+        "font_size": 12,
+        "line_height": 14,
+        "letter_spacing": 0.005,
+        "font_weight": 500,
+        "font_name": "VK Sans Text"
+    },
+    "caption2_semibold": {
+        "font_size": 12,
+        "line_height": 14,
+        "letter_spacing": 0.005,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "caption_caps2_demibold": {
+        "font_size": 12,
+        "line_height": 14,
+        "letter_spacing": 0.005,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "caption3_regular": {
+        "font_size": 11,
+        "line_height": 12,
+        "letter_spacing": 0.01,
+        "font_weight": 400,
+        "font_name": "VK Sans Text"
+    },
+    "caption_caps3_demibold": {
+        "font_size": 11,
+        "line_height": 12,
+        "letter_spacing": 0.01,
+        "font_weight": 500,
+        "font_name": "VK Sans Text"
+    },
+    "caption4_regular": {
+        "font_size": 9,
+        "line_height": 12,
+        "letter_spacing": 0.02,
+        "font_weight": 600,
+        "font_name": "VK Sans Text"
+    },
+    "caption_caps4_bold": {
+        "font_size": 9,
+        "line_height": 12,
+        "letter_spacing": 0.02,
+        "font_weight": 700,
+        "font_name": "VK Sans Text"
+    }
+}
+
