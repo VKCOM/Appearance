@@ -72,7 +72,7 @@
 		"angle": 135.0
 	},
 	"gradient_retrowave": {
-		"colors": ["#30F2B1F", "#5967FFF", "#FF26A5"],
+		"colors": ["#30F2B1", "#5967FF", "#FF26A5"],
 		"angle": 135.0
 	},
 	"gradient_sunset": {
