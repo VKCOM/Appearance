@@ -51,7 +51,7 @@
                 "color_identifier": "white_alpha8"
             },
             "background_highlighted": {
-                "color_identifier": "white_alpha12"
+                "color_identifier": "white_alpha8"
             },
             "background_keyboard": {
                 "color_identifier": "gray_800",
