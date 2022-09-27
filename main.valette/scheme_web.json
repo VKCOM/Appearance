@@ -51,7 +51,7 @@
                 "color_identifier": "white_alpha8"
             },
             "background_highlighted": {
-                "color_identifier": "white_alpha12"
+                "color_identifier": "white_alpha8"
             },
             "background_keyboard": {
                 "color_identifier": "gray_800",
@@ -516,7 +516,7 @@
                 "color_identifier": "gray_800"
             },
             "modal_card_background": {
-                "color_identifier": "gray_800",
+                "color_identifier": "gray_850",
                 "transparent_version": true
             },
             "modal_card_border": {
