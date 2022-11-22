@@ -684,13 +684,13 @@
                 "color_identifier": "sky_300"
             },
             "im_gradient_new_year_theme_header_tint": {
-                "color_identifier": "red_light"
+                "color_identifier": "violet_light"
             },
             "im_gradient_new_year_theme_accent": {
-                "color_identifier": "red_light"
+                "color_identifier": "violet_light"
             },
             "im_gradient_new_year_theme_write_bar_tint": {
-                "color_identifier": "red_light"
+                "color_identifier": "violet_light"
             },
             "im_gradient_valentine_theme_header_tint": {
                 "color_identifier": "pink_pastel"
@@ -1407,13 +1407,13 @@
                 "color_identifier": "azure_300"
             },
             "im_gradient_new_year_theme_header_tint": {
-                "color_identifier": "red"
+                "color_identifier": "azure_300"
             },
             "im_gradient_new_year_theme_accent": {
-                "color_identifier": "red"
+                "color_identifier": "azure_300"
             },
             "im_gradient_new_year_theme_write_bar_tint": {
-                "color_identifier": "red"
+                "color_identifier": "azure_300"
             },
             "im_gradient_valentine_theme_header_tint": {
                 "color_identifier": "pink"
