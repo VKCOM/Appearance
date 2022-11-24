@@ -112,11 +112,11 @@
 		"angle": 135.0
 	},
 	"gradient_new_year": {
-		"colors": ["#F291A2", "#CC5252", "#BF2709"],
+		"colors": ["#BB64E4", "#805BD7", "#2866D5"],
 		"angle": 135.0
 	},
 	"gradient_frost": {
-		"colors": ["#66CCFF", "#3F8AE0"],
+		"colors": ["#4FA0FF", "#016CEA"],
 		"angle": 135.0
 	},
 	"gradient_valentine": {
