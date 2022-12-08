@@ -54,6 +54,7 @@
         "gray_700": "#454647",
         "gray_800": "#2C2D2E",
         "gray_A150": "#D7D8D9",
+        "gray_950": "#121212",
         "green": "#4BB34B",
         "green_dark": "#168C51",
         "jam_100": "#FFCCDD",
@@ -102,6 +103,14 @@
         "white_alpha40": "#66FFFFFF",
         "white_blue20": "#CCE4FF",
         "white_blue32": "#ADD3FF",
-        "yellow": "#FFC107"
+        "yellow": "#FFC107",
+        "im_red": "#F45767",
+        "im_yellow": "#F5C22E",
+        "im_orange": "#F39456",
+        "im_green": "#4CCC55",
+        "im_cyan": "#5CD9EC",
+        "im_blue": "#56B0F2",
+        "im_violet": "#B375F1",
+        "im_grey": "#A7B0BB"
     }
 }
