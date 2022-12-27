@@ -723,6 +723,9 @@
             "content_positive_background": {
                 "color_identifier": "green_alpha"
             }
+             "vk_donut_background": {
+                "color_identifier": "gray_850"
+            }
         }
     },
     "bright_light": {
@@ -1448,6 +1451,9 @@
                             },
             "content_positive_background": {
                 "color_identifier": "green_alpha"
+            }
+            "vk_donut_background": {
+                "color_identifier": "yellow_overlight"
             }
         }
     }
