@@ -722,6 +722,36 @@
                 },
                 "im_gradient_theme_forward_line": {
                     "color_identifier": "white_alpha40"
+                },
+                  "im_background_primary_additional": {
+                    "color_identifier": "gray_950"
+                },
+                 "im_background_secondary_additional": {
+                    "color_identifier": "black"
+                },
+                "im_palette_red": {
+                    "color_identifier": "im_red"
+                },
+                "im_palette_yellow": {
+                    "color_identifier": "im_yellow"
+                },
+                "im_palette_orange": {
+                    "color_identifier": "im_orange"
+                },
+                 "im_palette_green": {
+                    "color_identifier": "im_green"
+                },
+                 "im_palette_cyan": {
+                    "color_identifier": "im_cyan"
+                },
+                 "im_palette_blue": {
+                    "color_identifier": "im_blue"
+                },
+                 "im_palette_violet": {
+                    "color_identifier": "im_violet"
+                },
+                 "im_palette_grey": {
+                    "color_identifier": "im_grey"
                 }
             }
         },
@@ -1445,7 +1475,38 @@
                 },
                 "im_gradient_theme_forward_line": {
                     "color_identifier": "white_alpha40"
+                },
+                  "im_background_primary_additional": {
+                    "color_identifier": "white"
+                },
+                 "im_background_secondary_additional": {
+                    "color_identifier": "gray_20"
+                },
+                "im_palette_red": {
+                    "color_identifier": "im_red"
+                },
+                "im_palette_yellow": {
+                    "color_identifier": "im_yellow"
+                },
+                "im_palette_orange": {
+                    "color_identifier": "im_orange"
+                },
+                 "im_palette_green": {
+                    "color_identifier": "im_green"
+                },
+                 "im_palette_cyan": {
+                    "color_identifier": "im_cyan"
+                },
+                 "im_palette_blue": {
+                    "color_identifier": "im_blue"
+                },
+                 "im_palette_violet": {
+                    "color_identifier": "im_violet"
+                },
+                 "im_palette_grey": {
+                    "color_identifier": "im_grey"
                 }
+
             }
         }
     }
