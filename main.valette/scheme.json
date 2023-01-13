@@ -479,7 +479,7 @@
                     "color_identifier": "gray_800"
                 },
                 "modal_card_background": {
-                    "color_identifier": "gray_800"
+                    "color_identifier": "gray_850"
                 },
                 "modal_card_border": {
                     "color_identifier": "white_alpha12"
@@ -725,6 +725,9 @@
                 },
                 "content_positive_background": {
                     "color_identifier": "green_alpha"
+                },
+                "vk_donut_background": {
+                    "color_identifier": "gray_850"
                 }
             }
         },
@@ -1451,6 +1454,9 @@
                 },
                 "content_positive_background": {
                     "color_identifier": "green_alpha"
+                },
+                "vk_donut_background": {
+                    "color_identifier": "yellow_overlight"
                 }
             }
         }

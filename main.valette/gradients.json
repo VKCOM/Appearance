@@ -12,11 +12,11 @@
 		"angle": 135.0
 	},
 	"gradient_candy": {
-		"colors": ["#FF99CC", "#FD92C5", "#F77DB1", "#EE6195", "#E84C81", "#E6457A"],
+		"colors": ["#FF99CC", "#E52E6A"],
 		"angle": 135.0
 	},
 	"gradient_crimson": {
-		"colors": ["#FF5C5C", "#FB5759", "#EE4851", "#DC3346", "#CF233E", "#CB1E3B"],
+		"colors": ["#FF7373", "#E53949", "#BF1C38"],
 		"angle": 135.0
 	},
 	"gradient_disco": {
@@ -24,7 +24,7 @@
 		"angle": 135.0
 	},
 	"gradient_emerald": {
-		"colors": ["#00CC44", "#02C745", "#07B748", "#0EA14D", "#149150", "#168C51"],
+		"colors": ["#00D948", "#0D8046"],
 		"angle": 135.0
 	},
 	"gradient_gray": {
@@ -36,7 +36,7 @@
 		"angle": 135.0
 	},
 	"gradient_lagoon": {
-		"colors": ["#2BD9D9", "#2FD4DA", "#3BC5DD", "#4CB0E2", "#58A1E5", "#5C9CE6"],
+		"colors": ["#2BD9D9", "#5C9CE6"],
 		"angle": 135.0
 	},
 	"gradient_lavender": {
@@ -44,11 +44,11 @@
 		"angle": 135.0
 	},
 	"gradient_marine": {
-		"colors": ["#36D952", "#35D25F", "#31BE88", "#2CA2BF", "#288EE8", "#2787F5"],
+		"colors": ["#2EE54D", "#0D7EFF"],
 		"angle": 135.0
 	},
 	"gradient_midnight": {
-		"colors": ["#5CC3FF", "#56B9FA", "#449AEB", "#2B71D6", "#1952C7", "#1348C2"],
+		"colors": ["#73D0FF", "#3885E1", "#0032A6"],
 		"angle": 135.0
 	},
 	"gradient_orange": {
@@ -72,11 +72,11 @@
 		"angle": 135.0
 	},
 	"gradient_retrowave": {
-		"colors": ["#2EE6A8", "#3399FF", "#9933FF", "#FF3399"],
+		"colors": ["#30F2B1", "#5967FF", "#FF26A5"],
 		"angle": 135.0
 	},
 	"gradient_sunset": {
-		"colors": ["#FFD24D", "#F9994B", "#F26549", "#ED4755", "#E6457A"],
+		"colors": ["#FFD24D", "#F26549", "#E62E6B"],
 		"angle": 135.0
 	},
 	"gradient_turquoise": {
