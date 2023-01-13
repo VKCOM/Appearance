@@ -1,89 +1,76 @@
 {
-    "vkcom_dark": {
+    "space_gray": {
         "appearance": "dark",
         "colors": {
             "accent": {
-                "color_identifier": "sky_300"
+                "color_identifier": "ok_orange"
             },
-            "accent_alternate": {
+             "accent_alternate": {
                 "color_identifier": "white"
             },
             "action_sheet_action_foreground": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "ok_gray_medium"
             },
             "action_sheet_separator": {
-                "color_identifier": "white_alpha16",
-                "deprecated_for_web": true
+                "color_identifier": "white_alpha12"
             },
             "activity_indicator_tint": {
-                "color_identifier": "gray_600",
-                "deprecated_for_web": true
+                "color_identifier": "gray_600"
             },
             "attach_picker_tab_active_background": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "attach_picker_tab_active_icon": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
-            },
-            "attach_picker_tab_active_text": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
-            },
-            "attach_picker_tab_inactive_background": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
-            },
-            "attach_picker_tab_inactive_icon": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
-            },
-            "attach_picker_tab_inactive_text": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
-            },
-            "background_content": {
                 "color_identifier": "gray_900"
             },
+            "attach_picker_tab_active_text": {
+                "color_identifier": "gray_100"
+            },
+            "attach_picker_tab_inactive_background": {
+                "color_identifier": "gray_800"
+            },
+            "attach_picker_tab_inactive_icon": {
+                "color_identifier": "gray_100"
+            },
+            "attach_picker_tab_inactive_text": {
+                "color_identifier": "gray_500"
+            },
+            "background_content": {
+                "color_identifier": "ok_black_light"
+            },
             "background_hover": {
-                "color_identifier": "white_alpha8"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.04
             },
             "background_highlighted": {
                 "color_identifier": "white_alpha8"
             },
             "background_keyboard": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "background_light": {
                 "color_identifier": "gray_850"
             },
             "background_page": {
-                "color_identifier": "gray_940"
+                "color_identifier": "gray_1000"
             },
             "background_suggestions": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "button_bot_shadow": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "button_commerce_background": {
-                "color_identifier": "green_350"
+                "color_identifier": "green"
             },
             "button_commerce_foreground": {
                 "color_identifier": "white"
             },
             "button_muted_background": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "button_muted_foreground": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "button_outline_border": {
                 "color_identifier": "gray_100"
@@ -92,37 +79,41 @@
                 "color_identifier": "gray_100"
             },
             "button_primary_background": {
-                "color_identifier": "gray_100"
+                "color_identifier": "ok_orange"
             },
             "button_primary_foreground": {
-                "color_identifier": "gray_900"
+                "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "gray_750"
+                "color_identifier": "gray_700"
             },
             "button_secondary_background_highlighted": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_700",
+                "alpha_multiplier": 0.6
             },
             "button_secondary_foreground": {
                 "color_identifier": "gray_100"
             },
             "button_secondary_foreground_highlighted": {
-                "color_identifier": "gray_100"
+                "color_identifier": "gray_100",
+                "alpha_multiplier": 0.6
             },
             "button_secondary_destructive_background": {
                 "color_identifier": "gray_700"
             },
             "button_secondary_destructive_background_highlighted": {
-                "color_identifier": "gray_700_alpha60"
+                "color_identifier": "gray_700",
+                "alpha_multiplier": 0.6
             },
             "button_secondary_destructive_foreground": {
                 "color_identifier": "red_light"
             },
             "button_secondary_destructive_foreground_highlighted": {
-                "color_identifier": "red_alpha16"
+                "color_identifier": "red_light",
+                "alpha_multiplier": 0.6
             },
             "button_tertiary_background": {
-                "color_identifier": "transparent_black"
+                "color_identifier": "clear"
             },
             "button_tertiary_foreground": {
                 "color_identifier": "gray_100"
@@ -131,39 +122,31 @@
                 "color_identifier": "gray_100"
             },
             "content_placeholder_icon": {
-                "color_identifier": "gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "gray_300"
             },
             "content_placeholder_text": {
-                "color_identifier": "gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "gray_300"
             },
             "content_tint_background": {
-                "color_identifier": "gray_800",
-                "transparent_version": true
+                "color_identifier": "gray_850"
             },
             "content_tint_foreground": {
-                "color_identifier": "gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "gray_400"
             },
             "control_background": {
-                "color_identifier": "gray_700",
-                "deprecated_for_web": true
+                "color_identifier": "gray_700"
             },
             "control_background_secondary": {
                 "color_identifier": "gray_500"
             },
             "control_foreground": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "control_tint": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "control_tint_muted": {
-                "color_identifier": "gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "gray_400"
             },
             "counter_primary_background": {
                 "color_identifier": "white"
@@ -182,9 +165,9 @@
             },
             "counter_secondary_text": {
                 "color_identifier": "gray_900"
-            },
+                },
             "content_warning_background": {
-                "color_identifier": "yellow_alpha16"
+                "color_identifier": "gold_500"
             },
             "destructive": {
                 "color_identifier": "red_light"
@@ -193,16 +176,16 @@
                 "color_identifier": "gray_850"
             },
             "field_border": {
-                "color_identifier": "gray_750"
+                "color_identifier": "white_alpha12"
             },
             "field_error_background": {
-                "color_identifier": "red_alpha16"
+                "color_identifier": "red_dark"
             },
             "field_error_border": {
-                "color_identifier": "red"
+                "color_identifier": "red_light"
             },
             "field_valid_border": {
-                "color_identifier": "green_350"
+                "color_identifier": "green"
             },
             "field_text_placeholder": {
                 "color_identifier": "gray_500"
@@ -220,31 +203,25 @@
                 "color_identifier": "black_alpha12"
             },
             "header_alternate_background": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "header_alternate_tab_active_indicator": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "header_alternate_tab_active_text": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "header_alternate_tab_inactive_text": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_500"
             },
             "header_background": {
                 "color_identifier": "gray_900"
             },
             "header_background_before_blur": {
-                "color_identifier": "gray_960",
-                "deprecated_for_web": true
+                "color_identifier": "gray_A970"
             },
             "header_background_before_blur_alternate": {
-                "color_identifier": "gray_960",
-                "deprecated_for_web": true
+                "color_identifier": "gray_A970"
             },
             "header_search_field_background": {
                 "color_identifier": "gray_750"
@@ -253,46 +230,41 @@
                 "color_identifier": "gray_300"
             },
             "header_tab_active_background": {
-                "color_identifier": "gray_600",
-                "deprecated_for_web": true
+                "color_identifier": "gray_600"
             },
             "header_tab_active_text": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
-            },
-            "header_tab_active_indicator": {
-                "color_identifier": "azure_300",
-                "deprecated_for_web": true
-            },
-            "header_tab_inactive_text": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
-            },
-            "header_text": {
                 "color_identifier": "gray_100"
             },
+            "header_tab_active_indicator": {
+                "color_identifier": "sky_300"
+            },
+            "header_tab_inactive_text": {
+                "color_identifier": "gray_500"
+            },
+            "header_text": {
+                "color_identifier": "ok_gray_light"
+            },
             "header_text_alternate": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "header_text_secondary": {
-                "color_identifier": "white_alpha64"
+                "color_identifier": "ok_gray_medium"
             },
             "header_tint": {
                 "color_identifier": "gray_100"
             },
             "header_tint_alternate": {
-                "color_identifier": "white"
+                "color_identifier": "gray_100"
             },
             "icon_alpha_placeholder": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "icon_medium": {
                 "color_identifier": "gray_400"
-            },
+             },
             "icon_medium_alpha": {
-                "color_identifier": "white_alpha48"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.48
             },
             "icon_outline_medium": {
                 "color_identifier": "gray_300"
@@ -304,31 +276,35 @@
                 "color_identifier": "gray_500"
             },
             "icon_secondary_alpha": {
-                "color_identifier": "white_alpha40"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.36
             },
             "icon_tertiary": {
                 "color_identifier": "gray_600"
             },
             "icon_tertiary_alpha": {
-                "color_identifier": "white_alpha24"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_attach_tint": {
                 "color_identifier": "white"
             },
             "im_bubble_border_alternate": {
-                "color_identifier": "transparent_black"
+                "color_identifier": "clear"
             },
             "im_bubble_border_alternate_highlighted": {
-                "color_identifier": "transparent_black"
+                "color_identifier": "clear"
             },
             "im_bubble_button_background": {
-                "color_identifier": "white_alpha16"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.16
             },
             "im_bubble_button_outgoing_background": {
-                "color_identifier": "white_alpha24"
+                "color_identifier": "white_alpha20"
             },
             "im_bubble_button_background_highlighted": {
-                "color_identifier": "white_alpha24"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_bubble_button_foreground": {
                 "color_identifier": "gray_100"
@@ -403,7 +379,8 @@
                 "color_identifier": "gray_600"
             },
             "im_forward_line_tint": {
-                "color_identifier": "white_alpha24"
+                "color_identifier": "white",
+                "alpha_multiplier": 0.24
             },
             "im_reply_separator": {
                 "color_identifier": "white"
@@ -415,96 +392,79 @@
                 "color_identifier": "gray_700"
             },
             "im_toolbar_separator": {
-                "color_identifier": "gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "gray_300"
             },
             "image_border": {
                 "color_identifier": "white_alpha8"
             },
             "input_background": {
-                "color_identifier": "gray_750"
+                "color_identifier": "gray_800"
             },
             "input_border": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_800"
             },
             "landing_background": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "landing_field_background": {
-                "color_identifier": "gray_850",
-                "deprecated_for_web": true
+                "color_identifier": "gray_850"
             },
             "landing_field_border": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "clear"
             },
             "landing_field_placeholder": {
-                "color_identifier": "gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "gray_300"
             },
             "landing_login_button_background": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "landing_login_button_foreground": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "landing_primary_button_background": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "landing_primary_button_foreground": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "landing_tertiary_button_background": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "clear"
             },
             "landing_tertiary_button_foreground": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "landing_text_primary": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "landing_text_title": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "landing_text_secondary": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_500"
             },
             "landing_secondary_button_background": {
-                "color_identifier": "white_alpha16",
-                "deprecated_for_web": true
+                "color_identifier": "white_alpha15"
             },
             "landing_secondary_button_foreground": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "landing_snippet_border": {
-                "color_identifier": "white_alpha16",
-                "deprecated_for_web": true
+                "color_identifier": "white_alpha15"
             },
             "like_text_tint": {
                 "color_identifier": "red_light"
             },
             "link_alternate": {
-                "color_identifier": "gray_400"
+                "color_identifier": "white"
             },
             "loader_background": {
-                "color_identifier": "gray_700"
+                "color_identifier": "gray_900"
             },
             "loader_tint": {
                 "color_identifier": "gray_500"
             },
             "loader_track_fill": {
-                "color_identifier": "gray_500"
+                "color_identifier": "gray_700"
             },
             "loader_track_value_fill": {
                 "color_identifier": "white"
@@ -516,35 +476,28 @@
                 "color_identifier": "gray_800"
             },
             "modal_card_background": {
-                "color_identifier": "gray_850",
-                "transparent_version": true
+                "color_identifier": "gray_850"
             },
             "modal_card_border": {
                 "color_identifier": "white_alpha12"
             },
             "modal_card_header_close": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "music_playback_icon": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "feed_recommended_friend_promo_background": {
-                "color_identifier": "steel_gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_500"
             },
             "overlay_status_background": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "overlay_status_foreground": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "overlay_status_icon": {
-                "color_identifier": "steel_gray_60",
-                "deprecated_for_web": true
+                "color_identifier": "gray_50"
             },
             "placeholder_icon_background": {
                 "color_identifier": "white_alpha8"
@@ -565,8 +518,7 @@
                 "color_identifier": "white"
             },
             "search_bar_background": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "search_bar_field_background": {
                 "color_identifier": "gray_750"
@@ -575,23 +527,19 @@
                 "color_identifier": "gray_300"
             },
             "search_bar_segmented_control_tint": {
-                "color_identifier": "gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "gray_400"
             },
             "segmented_control_bar_background": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "segmented_control_tint": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_500"
             },
             "selection_off_icon": {
-                "color_identifier": "gray_600",
-                "deprecated_for_web": true
+                "color_identifier": "gray_600"
             },
             "separator_alpha": {
-                "color_identifier": "white_alpha16"
+                "color_identifier": "white_alpha12"
             },
             "separator_alternate": {
                 "color_identifier": "gray_850"
@@ -600,95 +548,76 @@
                 "color_identifier": "gray_750"
             },
             "snippet_background": {
-                "color_identifier": "white_alpha4"
+                "color_identifier": "gray_850"
             },
             "snippet_border": {
-                "color_identifier": "white_alpha16"
+                "color_identifier": "white_alpha15"
             },
             "snippet_icon_tertiary": {
                 "color_identifier": "gray_600"
             },
             "splashscreen_icon": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "statusbar_alternate_legacy_background": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "clear"
             },
             "stories_create_button_background_from": {
-                "color_identifier": "gray_750",
-                "deprecated_for_web": true
+                "color_identifier": "gray_750"
             },
             "stories_create_button_background_to": {
-                "color_identifier": "gray_750",
-                "deprecated_for_web": true
+                "color_identifier": "gray_750"
             },
             "stories_create_button_foreground": {
-                "color_identifier": "gray_200",
-                "deprecated_for_web": true
+                "color_identifier": "gray_200"
             },
             "stories_skeleton_loader_background": {
-                "color_identifier": "gray_700",
-                "deprecated_for_web": true
+                "color_identifier": "gray_700"
             },
             "stories_create_button_icon_background": {
-                "color_identifier": "gray_700",
-                "deprecated_for_web": true
+                "color_identifier": "gray_700"
             },
             "switch_ios_off_border": {
-                "color_identifier": "gray_800",
-                "deprecated_for_web": true
+                "color_identifier": "gray_800"
             },
             "tabbar_active_icon": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "tabbar_background": {
                 "color_identifier": "gray_800"
             },
             "tabbar_inactive_icon": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_500"
             },
             "tabbar_tablet_active_icon": {
-                "color_identifier": "azure_300",
-                "deprecated_for_web": true
-            },
-            "tabbar_tablet_background": {
-                "color_identifier": "gray_850",
-                "deprecated_for_web": true
-            },
-            "tabbar_tablet_inactive_icon": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
-            },
-            "tabbar_tablet_text_primary": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
-            },
-            "tabbar_tablet_text_secondary": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
-            },
-            "toolbar_attach_background_from": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
-            },
-            "toolbar_attach_background_to": {
-                "color_identifier": "gray_600",
-                "deprecated_for_web": true
-            },
-            "text_action_counter": {
-                "color_identifier": "gray_300",
-                "deprecated_for_web": true
-            },
-            "text_link": {
                 "color_identifier": "sky_300"
             },
+            "tabbar_tablet_background": {
+                "color_identifier": "gray_850"
+            },
+            "tabbar_tablet_inactive_icon": {
+                "color_identifier": "gray_500"
+            },
+            "tabbar_tablet_text_primary": {
+                "color_identifier": "gray_100"
+            },
+            "tabbar_tablet_text_secondary": {
+                "color_identifier": "gray_500"
+            },
+            "toolbar_attach_background_from": {
+                "color_identifier": "gray_500"
+            },
+            "toolbar_attach_background_to": {
+                "color_identifier": "gray_600"
+            },
+            "text_action_counter": {
+                "color_identifier": "gray_300"
+            },
+            "text_link": {
+                "color_identifier": "ok_orange"
+            },
             "text_link_highlighted_background": {
-                "color_identifier": "azure_300",
-                "deprecated_for_web": true
+                "color_identifier": "ok_orange"
             },
             "text_muted": {
                 "color_identifier": "gray_200"
@@ -715,16 +644,13 @@
                 "color_identifier": "gray_300"
             },
             "panel_tab_active_background": {
-                "color_identifier": "gray_700",
-                "deprecated_for_web": true
+                "color_identifier": "gray_700"
             },
             "panel_tab_active_text": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "panel_tab_inactive_text": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_500"
             },
             "im_service_message_text": {
                 "color_identifier": "gray_500"
@@ -736,16 +662,16 @@
                 "color_identifier": "azure_300"
             },
             "dynamic_gray": {
-                "color_identifier": "steel_gray_200"
+                "color_identifier": "steel_gray_250"
             },
             "dynamic_red": {
                 "color_identifier": "red_nice"
             },
             "dynamic_green": {
-                "color_identifier": "green_350"
+                "color_identifier": "green"
             },
             "dynamic_orange": {
-                "color_identifier": "orange"
+                "color_identifier": "ok_orange"
             },
             "dynamic_purple": {
                 "color_identifier": "purple_light"
@@ -760,224 +686,198 @@
                 "color_identifier": "neon_pink"
             },
             "vk_connect_button_primary_background": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "vk_connect_button_primary_foreground": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "vk_connect_button_secondary_background": {
-                "color_identifier": "gray_700",
-                "deprecated_for_web": true
+                "color_identifier": "gray_700"
             },
             "vk_connect_button_secondary_foreground": {
-                "color_identifier": "gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "background_text_highlighted": {
-                "color_identifier": "blue_400_alpha20",
-                "deprecated_for_web": true
+                "color_identifier": "sky_300",
+                "alpha_multiplier": 0.24
             },
             "skeleton_shimmer_from": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "skeleton_shimmer_to": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900",
+                "alpha_multiplier": 0
             },
             "skeleton_foreground_from": {
                 "color_identifier": "gray_850"
             },
             "skeleton_foreground_to": {
-                "color_identifier": "gray_800"
+                "color_identifier": "gray_800"  
             },
             "primary_overlay_badge": {
                 "color_identifier": "white_alpha40"
             },
             "secondary_overlay_badge": {
-                "color_identifier": "white_alpha16"
-            },
+                "color_identifier": "white_alpha15"
+                 },
             "content_positive_background": {
-                "color_identifier": "green_alpha16"
-            },
-            "content_negative_background": {
-                "color_identifier": "red_alpha16"
-            },
-             "vk_donut_background": {
-                "color_identifier": "gray_850"
+                "color_identifier": "green_alpha"
             }
         }
     },
-    "vkcom_light": {
+    "bright_light": {
         "appearance": "light",
         "colors": {
             "accent": {
-                "color_identifier": "blue_a400"
+                "color_identifier": "ok_orange"
             },
-            "accent_alternate": {
-                "color_identifier": "azure_a100"
+             "accent_alternate": {
+                "color_identifier": "azure_A100"
             },
             "action_sheet_action_foreground": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "ok_orange"
             },
             "action_sheet_separator": {
-                "color_identifier": "black_alpha12",
-                "deprecated_for_web": true
+                "color_identifier": "black_alpha12"
             },
             "activity_indicator_tint": {
-                "color_identifier": "steel_gray_200",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_200"
             },
             "attach_picker_tab_active_background": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_A400"
             },
             "attach_picker_tab_active_icon": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "attach_picker_tab_active_text": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_A400"
             },
             "attach_picker_tab_inactive_background": {
-                "color_identifier": "gray_40",
-                "deprecated_for_web": true
+                "color_identifier": "gray_40"
             },
             "attach_picker_tab_inactive_icon": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_400"
             },
             "attach_picker_tab_inactive_text": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_400"
             },
             "background_content": {
                 "color_identifier": "white"
             },
             "background_hover": {
-                "color_identifier": "steel_gray_200_alpha12"
+                "color_identifier": "black",
+                "alpha_multiplier": 0.04
             },
             "background_highlighted": {
-                "color_identifier": "steel_gray_200_alpha16"
+                "color_identifier": "black_alpha8"
             },
             "background_keyboard": {
-                "color_identifier": "steel_gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "background_light": {
-                "color_identifier": "steel_gray_10"
+                "color_identifier": "gray_20"
             },
             "background_page": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "gray_50"
             },
             "background_suggestions": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "button_bot_shadow": {
-                "color_identifier": "gray_200",
-                "deprecated_for_web": true
+                "color_identifier": "gray_200"
             },
             "button_commerce_background": {
-                "color_identifier": "green_350"
+                "color_identifier": "green"
             },
             "button_commerce_foreground": {
                 "color_identifier": "white"
             },
             "button_muted_background": {
-                "color_identifier": "light_blue_40",
-                "deprecated_for_web": true
+                "color_identifier": "gray_40"
             },
             "button_muted_foreground": {
-                "color_identifier": "blue_550",
-                "deprecated_for_web": true
+                "color_identifier": "azure_300"
             },
             "button_outline_border": {
-                "color_identifier": "blue_550"
+                "color_identifier": "azure_300"
             },
             "button_outline_foreground": {
-                "color_identifier": "blue_550"
+                "color_identifier": "azure_300"
             },
             "button_primary_background": {
-                "color_identifier": "blue_a400"
+                "color_identifier": "ok_orange"
             },
             "button_primary_foreground": {
                 "color_identifier": "white"
             },
             "button_secondary_background": {
-                "color_identifier": "light_blue_40"
+                "color_identifier": "black_blue24",
+                "alpha_multiplier": 0.05
             },
             "button_secondary_background_highlighted": {
-                "color_identifier": "light_blue_100"
+                "color_identifier": "black_blue24",
+                "alpha_multiplier": 0.03
             },
             "button_secondary_foreground": {
-                "color_identifier": "blue_550"
+                "color_identifier": "ok_orange"
             },
             "button_secondary_foreground_highlighted": {
-                "color_identifier": "blue_640"
+                "color_identifier": "ok_orange",
+                "alpha_multiplier": 0.6
             },
             "button_secondary_destructive_background": {
-                "color_identifier": "red_alpha16"
+                "color_identifier": "black_blue24",
+                "alpha_multiplier": 0.05
             },
             "button_secondary_destructive_background_highlighted": {
-                "color_identifier": "red_alpha12"
+                "color_identifier": "black_blue24",
+                "alpha_multiplier": 0.03
             },
             "button_secondary_destructive_foreground": {
                 "color_identifier": "red"
             },
             "button_secondary_destructive_foreground_highlighted": {
-                "color_identifier": "red_alpha12"
+                "color_identifier": "red",
+                "alpha_multiplier": 0.6
             },
             "button_tertiary_background": {
-                "color_identifier": "transparent_black"
+                "color_identifier": "clear"
             },
             "button_tertiary_foreground": {
-                "color_identifier": "blue_550"
+                "color_identifier": "azure_A400"
             },
             "cell_button_foreground": {
-                "color_identifier": "blue_550"
+                "color_identifier": "azure_300"
             },
             "content_placeholder_icon": {
-                "color_identifier": "steel_gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_300"
             },
             "content_placeholder_text": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_400"
             },
             "content_tint_background": {
-                "color_identifier": "steel_gray_40",
-                "transparent_version": true
+                "color_identifier": "gray_A40"
             },
             "content_tint_foreground": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_450"
             },
             "control_background": {
-                "color_identifier": "steel_gray_60",
-                "deprecated_for_web": true
-            },
+                "color_identifier": "gray_50"
+             },
             "control_background_secondary": {
                 "color_identifier": "white"
             },
             "control_foreground": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "blue_400"
             },
             "control_tint": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "control_tint_muted": {
-                "color_identifier": "gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_500"
             },
             "counter_primary_background": {
-                "color_identifier": "blue_a400"
+                "color_identifier": "azure_300"
             },
             "counter_primary_text": {
                 "color_identifier": "white"
@@ -989,22 +889,22 @@
                 "color_identifier": "white"
             },
             "counter_secondary_background": {
-                "color_identifier": "steel_gray_300"
+                "color_identifier": "steel_gray_200"
             },
             "counter_secondary_text": {
                 "color_identifier": "white"
-            },
+        	},
             "content_warning_background": {
-                "color_identifier": "yellow_light"
+                "color_identifier": "yellow_overlight"
             },
             "destructive": {
                 "color_identifier": "red"
             },
             "field_background": {
-                "color_identifier": "steel_gray_20"
+                "color_identifier": "gray_40"
             },
             "field_border": {
-                "color_identifier": "steel_gray_100"
+                "color_identifier": "black_alpha12"
             },
             "field_error_background": {
                 "color_identifier": "pink_light"
@@ -1013,97 +913,86 @@
                 "color_identifier": "red"
             },
             "field_valid_border": {
-                "color_identifier": "green_350"
+                "color_identifier": "green"
             },
             "field_text_placeholder": {
                 "color_identifier": "steel_gray_400"
             },
             "float_button_background": {
-                "color_identifier": "steel_gray_20"
+                "color_identifier": "gray_A40"
             },
             "float_button_background_highlighted": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "gray_50"
             },
             "float_button_foreground": {
                 "color_identifier": "steel_gray_300"
             },
             "float_button_border": {
-                "color_identifier": "black_alpha8"
+                "color_identifier": "black_alpha05"
             },
             "header_alternate_background": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "header_alternate_tab_active_indicator": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_300"
             },
             "header_alternate_tab_active_text": {
-                "color_identifier": "black",
-                "deprecated_for_web": true
+                "color_identifier": "black"
             },
             "header_alternate_tab_inactive_text": {
-                "color_identifier": "steel_gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_300"
             },
             "header_background": {
                 "color_identifier": "white"
             },
             "header_background_before_blur": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "header_background_before_blur_alternate": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "header_search_field_background": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "gray_50"
             },
             "header_search_field_tint": {
                 "color_identifier": "steel_gray_400"
             },
             "header_tab_active_background": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "clear"
             },
             "header_tab_active_text": {
-                "color_identifier": "black",
-                "deprecated_for_web": true
+                "color_identifier": "black"
             },
             "header_tab_active_indicator": {
-                "color_identifier": "azure_300",
-                "deprecated_for_web": true
+                "color_identifier": "azure_300"
             },
             "header_tab_inactive_text": {
-                "color_identifier": "steel_gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_300"
             },
             "header_text": {
                 "color_identifier": "black"
             },
             "header_text_alternate": {
-                "color_identifier": "black",
-                "deprecated_for_web": true
+                "color_identifier": "black"
             },
             "header_text_secondary": {
                 "color_identifier": "steel_gray_400"
             },
             "header_tint": {
-                "color_identifier": "steel_gray_200"
+                "color_identifier": "ok_orange"
             },
             "header_tint_alternate": {
-                "color_identifier": "blue_a400"
+                "color_identifier": "ok_orange"
             },
             "icon_alpha_placeholder": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "icon_medium": {
-                "color_identifier": "steel_gray_500"
-            },
+                "color_identifier": "steel_gray_400"
+             },
             "icon_medium_alpha": {
-                "color_identifier": "black_alpha48"
+                "color_identifier": "black",
+                "alpha_multiplier": 0.48
             },
             "icon_outline_medium": {
                 "color_identifier": "steel_gray_400"
@@ -1113,33 +1002,35 @@
             },
             "icon_secondary": {
                 "color_identifier": "steel_gray_300"
-            },
+                },
             "icon_secondary_alpha": {
-                "color_identifier": "black_alpha36"
+                "color_identifier": "black",
+                "alpha_multiplier": 0.36
             },
             "icon_tertiary": {
-                "color_identifier": "steel_gray_200"
+                "color_identifier": "steel_gray_150"
             },
             "icon_tertiary_alpha": {
-                "color_identifier": "black_alpha24"
+                "color_identifier": "black",
+                "alpha_multiplier": 0.24
             },
             "im_attach_tint": {
-                "color_identifier": "blue_a400"
+                "color_identifier": "azure_A400"
             },
             "im_bubble_border_alternate": {
-                "color_identifier": "steel_gray_100"
+                "color_identifier": "gray_100"
             },
             "im_bubble_border_alternate_highlighted": {
-                "color_identifier": "gray_200"
+                "color_identifier": "gray_A150"
             },
             "im_bubble_button_background": {
-                "color_identifier": "steel_gray_20"
+                "color_identifier": "gray_20"
             },
             "im_bubble_button_outgoing_background": {
-                "color_identifier": "white_alpha72"
+                "color_identifier": "white_alpha60"
             },
             "im_bubble_button_background_highlighted": {
-                "color_identifier": "gray_200"
+                "color_identifier": "gray_A150"
             },
             "im_bubble_button_foreground": {
                 "color_identifier": "black"
@@ -1157,16 +1048,16 @@
                 "color_identifier": "lavender_300"
             },
             "im_bubble_incoming": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "gray_50"
             },
             "im_bubble_incoming_alternate": {
                 "color_identifier": "white"
             },
             "im_bubble_incoming_alternate_highlighted": {
-                "color_identifier": "steel_gray_20"
+                "color_identifier": "gray_20"
             },
             "im_bubble_incoming_highlighted": {
-                "color_identifier": "steel_gray_120"
+                "color_identifier": "gray_A150"
             },
             "im_bubble_gift_background": {
                 "color_identifier": "gold_200"
@@ -1190,13 +1081,13 @@
                 "color_identifier": "white_blue32"
             },
             "im_bubble_outgoing_alternate_highlighted": {
-                "color_identifier": "steel_gray_40"
+                "color_identifier": "gray_20"
             },
             "im_bubble_wallpaper_button_background": {
-                "color_identifier": "steel_gray_40"
+                "color_identifier": "gray_40"
             },
             "im_bubble_wallpaper_button_background_highlighted": {
-                "color_identifier": "steel_gray_80"
+                "color_identifier": "gray_100"
             },
             "im_bubble_wallpaper_button_foreground": {
                 "color_identifier": "black"
@@ -1205,7 +1096,7 @@
                 "color_identifier": "white"
             },
             "im_bubble_wallpaper_incoming_highlighted": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "gray_50"
             },
             "im_bubble_wallpaper_outgoing": {
                 "color_identifier": "white_blue20"
@@ -1214,111 +1105,95 @@
                 "color_identifier": "white_blue32"
             },
             "im_forward_line_tint": {
-                "color_identifier": "blue_980_alpha12"
+                "color_identifier": "blue_600",
+                "alpha_multiplier": 0.24
             },
             "im_reply_separator": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_A400"
             },
             "im_text_name": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_A400"
             },
             "im_toolbar_voice_msg_background": {
                 "color_identifier": "steel_gray_300"
             },
             "im_toolbar_separator": {
-                "color_identifier": "black_blue24",
-                "deprecated_for_web": true
+                "color_identifier": "black_blue24"
             },
             "image_border": {
                 "color_identifier": "black_alpha8"
             },
             "input_background": {
-                "color_identifier": "white"
+                "color_identifier": "gray_40"
             },
             "input_border": {
-                "color_identifier": "steel_gray_120"
+                "color_identifier": "gray_100"
             },
             "landing_background": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "landing_field_background": {
-                "color_identifier": "steel_gray_20",
-                "deprecated_for_web": true
+                "color_identifier": "gray_40"
             },
             "landing_field_border": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "clear"
             },
             "landing_field_placeholder": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_400"
             },
             "landing_login_button_background": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_A400"
             },
             "landing_login_button_foreground": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "landing_primary_button_background": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_A400"
             },
             "landing_primary_button_foreground": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "landing_tertiary_button_background": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "clear"
             },
             "landing_tertiary_button_foreground": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_A400"
             },
             "landing_text_primary": {
-                "color_identifier": "black",
-                "deprecated_for_web": true
+                "color_identifier": "black"
             },
             "landing_text_title": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_A400"
             },
             "landing_text_secondary": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_400"
             },
             "landing_secondary_button_background": {
-                "color_identifier": "black_blue45_alpha10",
-                "deprecated_for_web": true
+                "color_identifier": "black_blue45_alpha10"
             },
             "landing_secondary_button_foreground": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_300"
             },
             "landing_snippet_border": {
-                "color_identifier": "black_alpha12",
-                "deprecated_for_web": true
+                "color_identifier": "black_alpha15"
             },
             "like_text_tint": {
                 "color_identifier": "red_nice"
             },
             "link_alternate": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_A400"
             },
             "loader_background": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "gray_50"
             },
             "loader_tint": {
-                "color_identifier": "steel_gray_140"
+                "color_identifier": "gray_500"
             },
             "loader_track_fill": {
-                "color_identifier": "steel_gray_120"
+                "color_identifier": "gray_100"
             },
             "loader_track_value_fill": {
-                "color_identifier": "blue_a400"
+                "color_identifier": "blue_300"
             },
             "media_overlay_button_background": {
                 "color_identifier": "white"
@@ -1327,41 +1202,34 @@
                 "color_identifier": "gray_800"
             },
             "modal_card_background": {
-                "color_identifier": "white",
-                "transparent_version": true
+                "color_identifier": "white"
             },
             "modal_card_border": {
-                "color_identifier": "transparent_black"
+                "color_identifier": "clear"
             },
             "modal_card_header_close": {
-                "color_identifier": "black",
-                "deprecated_for_web": true
+                "color_identifier": "black"
             },
             "music_playback_icon": {
-                "color_identifier": "black",
-                "deprecated_for_web": true
+                "color_identifier": "black"
             },
             "feed_recommended_friend_promo_background": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "blue_300"
             },
             "overlay_status_background": {
-                "color_identifier": "steel_gray_60",
-                "deprecated_for_web": true
+                "color_identifier": "gray_50"
             },
             "overlay_status_foreground": {
-                "color_identifier": "steel_gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_500"
             },
             "overlay_status_icon": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_400"
             },
             "placeholder_icon_background": {
                 "color_identifier": "black_blue24_alpha8"
             },
             "placeholder_icon_background_opaque": {
-                "color_identifier": "steel_gray_40"
+                "color_identifier": "gray_40"
             },
             "placeholder_icon_foreground_primary": {
                 "color_identifier": "steel_gray_300"
@@ -1370,142 +1238,118 @@
                 "color_identifier": "steel_gray_200"
             },
             "placeholder_icon_tint": {
-                "color_identifier": "blue_800"
+                "color_identifier": "black_blue24"
             },
             "poll_option_background": {
-                "color_identifier": "blue_a400"
+                "color_identifier": "blue_600"
             },
             "search_bar_background": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "search_bar_field_background": {
-                "color_identifier": "steel_gray_60"
+                "color_identifier": "gray_50"
             },
             "search_bar_field_tint": {
                 "color_identifier": "steel_gray_400"
             },
             "search_bar_segmented_control_tint": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_400"
             },
             "segmented_control_bar_background": {
-                "color_identifier": "transparent_black",
-                "deprecated_for_web": true
+                "color_identifier": "clear"
             },
             "segmented_control_tint": {
-                "color_identifier": "steel_gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_300"
             },
             "selection_off_icon": {
-                "color_identifier": "steel_gray_140",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_150"
             },
             "separator_alpha": {
                 "color_identifier": "black_alpha12"
             },
             "separator_alternate": {
-                "color_identifier": "steel_gray_80"
+                "color_identifier": "gray_100"
             },
             "separator_common": {
-                "color_identifier": "steel_gray_100"
+                "color_identifier": "gray_A150"
             },
             "snippet_background": {
                 "color_identifier": "white"
             },
             "snippet_border": {
-                "color_identifier": "black_alpha12"
+                "color_identifier": "black_alpha15"
             },
             "snippet_icon_tertiary": {
-                "color_identifier": "steel_gray_200"
+                "color_identifier": "gray_200"
             },
             "splashscreen_icon": {
-                "color_identifier": "steel_gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "statusbar_alternate_legacy_background": {
-                "color_identifier": "black_alpha24",
-                "deprecated_for_web": true
+                "color_identifier": "black_alpha20"
             },
             "stories_create_button_background_from": {
-                "color_identifier": "steel_gray_40",
-                "deprecated_for_web": true
+                "color_identifier": "gray_40"
             },
             "stories_create_button_background_to": {
-                "color_identifier": "steel_gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "stories_create_button_foreground": {
-                "color_identifier": "steel_gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_500"
             },
             "stories_skeleton_loader_background": {
-                "color_identifier": "gray_200",
-                "deprecated_for_web": true
+                "color_identifier": "gray_200"
             },
             "switch_ios_off_border": {
-                "color_identifier": "steel_gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "gray_100"
             },
             "stories_create_button_icon_background": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "tabbar_active_icon": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_350"
             },
             "tabbar_background": {
-                "color_identifier": "steel_gray_20"
+                "color_identifier": "gray_20"
             },
             "tabbar_inactive_icon": {
-                "color_identifier": "steel_gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_300"
             },
             "tabbar_tablet_active_icon": {
-                "color_identifier": "blue_a400",
-                "deprecated_for_web": true
+                "color_identifier": "azure_350"
             },
             "tabbar_tablet_background": {
-                "color_identifier": "steel_gray_20",
-                "deprecated_for_web": true
+                "color_identifier": "gray_20"
             },
             "tabbar_tablet_inactive_icon": {
-                "color_identifier": "steel_gray_300",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_300"
             },
             "tabbar_tablet_text_primary": {
-                "color_identifier": "black",
-                "deprecated_for_web": true
+                "color_identifier": "black"
             },
             "tabbar_tablet_text_secondary": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "gray_400"
             },
             "toolbar_attach_background_from": {
-                "color_identifier": "steel_gray_100",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_150"
             },
             "toolbar_attach_background_to": {
-                "color_identifier": "steel_gray_200",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_250"
             },
             "text_action_counter": {
-                "color_identifier": "steel_gray_400",
-                "deprecated_for_web": true
+                "color_identifier": "steel_gray_400"
             },
             "text_link": {
-                "color_identifier": "blue_600"
+                "color_identifier": "ok_orange"
             },
             "text_link_highlighted_background": {
-                "color_identifier": "black",
-                "deprecated_for_web": true
+                "color_identifier": "black"
             },
             "text_muted": {
                 "color_identifier": "gray_800"
             },
             "text_name": {
-                "color_identifier": "blue_600"
+                "color_identifier": "azure_A400"
             },
             "text_placeholder": {
                 "color_identifier": "steel_gray_400"
@@ -1517,49 +1361,46 @@
                 "color_identifier": "steel_gray_400"
             },
             "text_subhead": {
-                "color_identifier": "steel_gray_540"
+                "color_identifier": "steel_gray_500"
             },
             "text_tertiary": {
                 "color_identifier": "steel_gray_300"
             },
             "icon_name": {
-                "color_identifier": "light_blue_A300"
+                "color_identifier": "blue_200_muted"
             },
             "panel_tab_active_background": {
-                "color_identifier": "steel_gray_60",
-                "deprecated_for_web": true
+                "color_identifier": "gray_50"
             },
             "panel_tab_active_text": {
-                "color_identifier": "steel_gray_600",
-                "deprecated_for_web": true
+                "color_identifier": "gray_600"
             },
             "panel_tab_inactive_text": {
-                "color_identifier": "steel_gray_500",
-                "deprecated_for_web": true
+                "color_identifier": "gray_500"
             },
             "im_service_message_text": {
                 "color_identifier": "steel_gray_400"
             },
             "writebar_icon": {
-                "color_identifier": "steel_gray_400"
+                "color_identifier": "azure_300"
             },
             "dynamic_blue": {
-                "color_identifier": "blue_400"
+                "color_identifier": "azure_300"
             },
             "dynamic_gray": {
-                "color_identifier": "steel_gray_200"
+                "color_identifier": "steel_gray_250"
             },
             "dynamic_red": {
                 "color_identifier": "red_nice"
             },
             "dynamic_green": {
-                "color_identifier": "green_600"
+                "color_identifier": "green"
             },
             "dynamic_orange": {
-                "color_identifier": "orange"
-            },
+                "color_identifier": "ok_orange"
+             },
             "dynamic_purple": {
-                "color_identifier": "purple"
+                "color_identifier": "purple"   
             },
             "dynamic_violet": {
                 "color_identifier": "violet"
@@ -1571,53 +1412,42 @@
                 "color_identifier": "neon_pink"
             },
             "vk_connect_button_primary_background": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "vk_connect_button_primary_foreground": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "vk_connect_button_secondary_background": {
-                "color_identifier": "gray_40",
-                "deprecated_for_web": true
+                "color_identifier": "gray_40"
             },
             "vk_connect_button_secondary_foreground": {
-                "color_identifier": "gray_900",
-                "deprecated_for_web": true
+                "color_identifier": "gray_900"
             },
             "background_text_highlighted": {
-                "color_identifier": "blue_400_alpha20",
-                "deprecated_for_web": true
+                "color_identifier": "azure_300",
+                "alpha_multiplier": 0.2
             },
             "skeleton_shimmer_from": {
-                "color_identifier": "white",
-                "deprecated_for_web": true
+                "color_identifier": "white"
             },
             "skeleton_shimmer_to": {
-                "color_identifier": "transparent_white",
-                "deprecated_for_web": true
+                "color_identifier": "white",
+                "alpha_multiplier": 0
             },
             "skeleton_foreground_from": {
-                "color_identifier": "steel_gray_40"
+                "color_identifier": "gray_A40"
             },
             "skeleton_foreground_to": {
-                "color_identifier": "steel_gray_80"
+                "color_identifier": "gray_100"  
             },
             "primary_overlay_badge": {
-                "color_identifier": "black_alpha56"
+                "color_identifier": "black_alpha60"
             },
             "secondary_overlay_badge": {
                 "color_identifier": "black_alpha24"
-            },
+                            },
             "content_positive_background": {
-                "color_identifier": "green_light"
-            },
-            "content_negative_background": {
-                "color_identifier": "pink_light"
-            },
-            "vk_donut_background": {
-                "color_identifier": "yellow_overlight"
+                "color_identifier": "green_alpha"
             }
         }
     }

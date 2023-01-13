@@ -113,6 +113,7 @@
         "white_alpha12": "#1FFFFFFF",
         "white_alpha15": "#26FFFFFF",
         "white_alpha20": "#33FFFFFF",
+        "white_alpha32": "#52FFFFFF",
         "white_alpha40": "#66FFFFFF",
         "white_alpha60": "#99FFFFFF",
         "white_blue20": "#CCE4FF",
