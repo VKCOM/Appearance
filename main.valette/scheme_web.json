@@ -804,7 +804,7 @@
             },
             "content_negative_background": {
                 "color_identifier": "red_alpha16"
-            }
+            },
              "vk_donut_background": {
                 "color_identifier": "gray_850"
             }
@@ -1615,7 +1615,7 @@
             },
             "content_negative_background": {
                 "color_identifier": "pink_light"
-            }
+            },
             "vk_donut_background": {
                 "color_identifier": "yellow_overlight"
             }
