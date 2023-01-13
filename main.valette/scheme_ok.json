@@ -719,9 +719,12 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "white_alpha15"
-                 },
+            },
             "content_positive_background": {
                 "color_identifier": "green_alpha"
+            },
+             "vk_donut_background": {
+                "color_identifier": "gray_850"
             }
         }
     },
@@ -1445,9 +1448,12 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "black_alpha24"
-                            },
+            },
             "content_positive_background": {
                 "color_identifier": "green_alpha"
+            },
+             "vk_donut_background": {
+                "color_identifier": "yellow_overlight"
             }
         }
     }
