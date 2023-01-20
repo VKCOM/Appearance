@@ -725,6 +725,9 @@
             },
              "vk_donut_background": {
                 "color_identifier": "gray_850"
+            },
+            "background_orange": {
+                "color_identifier": "orange_light"
             }
         }
     },
@@ -1454,6 +1457,9 @@
             },
             "vk_donut_background": {
                 "color_identifier": "yellow_overlight"
+            },
+            "background_orange": {
+                "color_identifier": "orange_tint"
             }
         }
     }
