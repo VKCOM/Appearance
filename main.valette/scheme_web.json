@@ -1623,7 +1623,7 @@
                 "color_identifier": "yellow_overlight"
             },
             "background_orange": {
-                "color_identifier": "orange_light"
+                "color_identifier": "orange_tint"
             }
         }
     }
