@@ -673,6 +673,9 @@
             "dynamic_orange": {
                 "color_identifier": "ok_orange"
             },
+            "dynamic_orange_peach": {
+                "color_identifier": "ok_orange"
+            },
             "dynamic_purple": {
                 "color_identifier": "purple_light"
             },
@@ -1402,6 +1405,9 @@
             "dynamic_orange": {
                 "color_identifier": "ok_orange"
              },
+            "dynamic_orange_peach": {
+                "color_identifier": "ok_orange"
+            },
             "dynamic_purple": {
                 "color_identifier": "purple"   
             },
