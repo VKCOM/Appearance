@@ -673,6 +673,9 @@
             "dynamic_orange": {
                 "color_identifier": "ok_orange"
             },
+            "dynamic_orange_peach": {
+                "color_identifier": "ok_orange"
+            },
             "dynamic_purple": {
                 "color_identifier": "purple_light"
             },
@@ -719,9 +722,12 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "white_alpha15"
-                 },
+            },
             "content_positive_background": {
                 "color_identifier": "green_alpha"
+            },
+             "vk_donut_background": {
+                "color_identifier": "gray_850"
             }
         }
     },
@@ -1399,6 +1405,9 @@
             "dynamic_orange": {
                 "color_identifier": "ok_orange"
              },
+            "dynamic_orange_peach": {
+                "color_identifier": "ok_orange"
+            },
             "dynamic_purple": {
                 "color_identifier": "purple"   
             },
@@ -1445,9 +1454,12 @@
             },
             "secondary_overlay_badge": {
                 "color_identifier": "black_alpha24"
-                            },
+            },
             "content_positive_background": {
                 "color_identifier": "green_alpha"
+            },
+             "vk_donut_background": {
+                "color_identifier": "yellow_overlight"
             }
         }
     }
