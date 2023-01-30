@@ -123,6 +123,10 @@
 		"colors": ["#FF8A65", "#F25383", "#8F13DB"],
 		"angle": 135.0
 	},
+	"gradient_warm_valentine": {
+		"colors": ["#F3386A", "#FF819E"],
+		"angle": 135.0
+	},
 	"gradient_sberkot": {
 		"colors": ["#9DF19D", "#31C2A7", "#21A19A", "#107F8C"],
 		"angle": 135.0
