@@ -702,7 +702,7 @@
                 "alpha_multiplier": 0.24
             },
             "text_highlight_alpha": {
-                "color_identifier": "white_alpa20"
+                "color_identifier": "white_alpha20"
             },
             "skeleton_shimmer_from": {
                 "color_identifier": "gray_900"
