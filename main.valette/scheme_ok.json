@@ -704,6 +704,9 @@
                 "color_identifier": "sky_300",
                 "alpha_multiplier": 0.24
             },
+            "text_highlight_alpha": {
+                "color_identifier": "white_alpha20"
+            },
             "skeleton_shimmer_from": {
                 "color_identifier": "gray_900"
             },
@@ -1435,6 +1438,9 @@
             "background_text_highlighted": {
                 "color_identifier": "azure_300",
                 "alpha_multiplier": 0.2
+            },
+            "text_highlight_alpha": {
+                "color_identifier": "white_blue20"
             },
             "skeleton_shimmer_from": {
                 "color_identifier": "white"
