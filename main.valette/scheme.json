@@ -58,7 +58,7 @@
                 "color_identifier": "gray_800"
             },
             "background_card_alpha": {
-                "color_identifier": "white_alpha_32"
+                "color_identifier": "white_alpha32"
             },
             "button_bot_shadow": {
                 "color_identifier": "gray_900"
@@ -797,7 +797,7 @@
                 "color_identifier": "white"
             },
             "background_card_alpha": {
-                "color_identifier": "black_alpha_20"
+                "color_identifier": "black_alpha20"
             },
             "button_bot_shadow": {
                 "color_identifier": "gray_200"
