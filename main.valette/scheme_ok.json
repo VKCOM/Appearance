@@ -57,6 +57,9 @@
             "background_suggestions": {
                 "color_identifier": "gray_800"
             },
+            "background_card_alpha": {
+                "color_identifier": "white_alpha_32"
+            },
             "button_bot_shadow": {
                 "color_identifier": "gray_900"
             },
@@ -803,6 +806,9 @@
             },
             "button_muted_background": {
                 "color_identifier": "gray_40"
+            },
+            "background_card_alpha": {
+                "color_identifier": "black_alpha_20"
             },
             "button_muted_foreground": {
                 "color_identifier": "azure_300"
