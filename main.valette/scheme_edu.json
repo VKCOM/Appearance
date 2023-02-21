@@ -6,7 +6,7 @@
                 "color_identifier": "lavender_A300"
             },
             "accent_alternate": {
-                 "color_identifier": "white"
+                "color_identifier": "white"
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "white"
@@ -140,7 +140,7 @@
                 "color_identifier": "gray_700"
             },
             "control_background_secondary": {
-                 "color_identifier": "gray_500"
+                "color_identifier": "gray_500"
             },
             "control_foreground": {
                 "color_identifier": "gray_100"
@@ -168,7 +168,7 @@
             },
             "counter_secondary_text": {
                 "color_identifier": "gray_900"
-                },
+            },
             "content_warning_background": {
                 "color_identifier": "gold_500"
             },
@@ -264,7 +264,7 @@
             },
             "icon_medium": {
                 "color_identifier": "gray_400"
-             },
+            },
             "icon_medium_alpha": {
                 "color_identifier": "white",
                 "alpha_multiplier": 0.48
@@ -738,7 +738,7 @@
                 "color_identifier": "lavender_A700"
             },
             "accent_alternate": {
-                 "color_identifier": "lavender_A700"
+                "color_identifier": "lavender_A700"
             },
             "action_sheet_action_foreground": {
                 "color_identifier": "lavender_A700"
@@ -791,6 +791,7 @@
             },
             "background_card_alpha": {
                 "color_identifier": "black_alpha20"
+
             },
             "button_bot_shadow": {
                 "color_identifier": "gray_200"
@@ -871,10 +872,10 @@
                 "color_identifier": "gray_450"
             },
             "control_background": {
-                "color_identifier": "gray_50"   
+                "color_identifier": "gray_50"
             },
             "control_background_secondary": {
-                 "color_identifier": "white"
+                "color_identifier": "white"
             },
             "control_foreground": {
                 "color_identifier": "lavender_A700"
@@ -902,7 +903,7 @@
             },
             "counter_secondary_text": {
                 "color_identifier": "white"
-        	},
+            },
             "content_warning_background": {
                 "color_identifier": "yellow_overlight"
             },
@@ -998,7 +999,7 @@
             },
             "icon_medium": {
                 "color_identifier": "steel_gray_400"
-             },
+            },
             "icon_medium_alpha": {
                 "color_identifier": "black",
                 "alpha_multiplier": 0.48
@@ -1011,7 +1012,7 @@
             },
             "icon_secondary": {
                 "color_identifier": "steel_gray_400"
-                },
+            },
             "icon_secondary_alpha": {
                 "color_identifier": "black",
                 "alpha_multiplier": 0.36
@@ -1407,7 +1408,7 @@
             },
             "dynamic_orange": {
                 "color_identifier": "orange"
-             },
+            },
             "dynamic_purple": {
                 "color_identifier": "purple"   
             },
