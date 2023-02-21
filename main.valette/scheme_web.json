@@ -67,6 +67,9 @@
                 "color_identifier": "gray_800",
                 "deprecated_for_web": true
             },
+            "background_card_alpha": {
+                "color_identifier": "white_alpha_32"
+            },
             "button_bot_shadow": {
                 "color_identifier": "gray_900",
                 "deprecated_for_web": true
@@ -884,6 +887,9 @@
             "background_suggestions": {
                 "color_identifier": "white",
                 "deprecated_for_web": true
+            },
+            "background_card_alpha": {
+                "color_identifier": "black_alpha_20"
             },
             "button_bot_shadow": {
                 "color_identifier": "gray_200",
