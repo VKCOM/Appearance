@@ -5,7 +5,7 @@
             "accent": {
                 "color_identifier": "sky_300"
             },
-             "accent_alternate": {
+            "accent_alternate": {
                 "color_identifier": "white"
             },
             "action_sheet_action_foreground": {
@@ -165,7 +165,7 @@
             },
             "counter_secondary_text": {
                 "color_identifier": "gray_900"
-                },
+            },
             "content_warning_background": {
                 "color_identifier": "gold_500"
             },
@@ -261,7 +261,7 @@
             },
             "icon_medium": {
                 "color_identifier": "gray_400"
-             },
+            },
             "icon_medium_alpha": {
                 "color_identifier": "white",
                 "alpha_multiplier": 0.48
@@ -718,20 +718,19 @@
                 "color_identifier": "gray_850"
             },
             "skeleton_foreground_to": {
-                "color_identifier": "gray_800"  
+                "color_identifier": "gray_800"
             },
             "primary_overlay_badge": {
                 "color_identifier": "white_alpha40"
             },
             "secondary_overlay_badge": {
                 "color_identifier": "white_alpha15"
-                 },
+            },
             "content_positive_background": {
                 "color_identifier": "green_alpha"
             },
-             "vk_donut_background": {
+            "vk_donut_background": {
                 "color_identifier": "gray_850"
-
             }
         }
     },
@@ -741,7 +740,7 @@
             "accent": {
                 "color_identifier": "azure_300"
             },
-             "accent_alternate": {
+            "accent_alternate": {
                 "color_identifier": "azure_A100"
             },
             "action_sheet_action_foreground": {
@@ -873,7 +872,7 @@
             },
             "control_background": {
                 "color_identifier": "gray_50"
-             },
+            },
             "control_background_secondary": {
                 "color_identifier": "white"
             },
@@ -903,7 +902,7 @@
             },
             "counter_secondary_text": {
                 "color_identifier": "white"
-        	},
+            },
             "content_warning_background": {
                 "color_identifier": "yellow_overlight"
             },
@@ -999,7 +998,7 @@
             },
             "icon_medium": {
                 "color_identifier": "steel_gray_400"
-             },
+            },
             "icon_medium_alpha": {
                 "color_identifier": "black",
                 "alpha_multiplier": 0.48
@@ -1012,7 +1011,7 @@
             },
             "icon_secondary": {
                 "color_identifier": "steel_gray_300"
-                },
+            },
             "icon_secondary_alpha": {
                 "color_identifier": "black",
                 "alpha_multiplier": 0.36
@@ -1413,7 +1412,7 @@
                 "color_identifier": "orange_tint"
             },
             "dynamic_purple": {
-                "color_identifier": "purple"   
+                "color_identifier": "purple"
             },
             "dynamic_violet": {
                 "color_identifier": "violet"
@@ -1454,14 +1453,14 @@
                 "color_identifier": "gray_A40"
             },
             "skeleton_foreground_to": {
-                "color_identifier": "gray_100"  
+                "color_identifier": "gray_100"
             },
             "primary_overlay_badge": {
                 "color_identifier": "black_alpha60"
             },
             "secondary_overlay_badge": {
                 "color_identifier": "black_alpha24"
-                            },
+            },
             "content_positive_background": {
                 "color_identifier": "green_alpha"
             },
