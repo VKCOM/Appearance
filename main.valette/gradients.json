@@ -130,5 +130,13 @@
 	"gradient_sberkot": {
 		"colors": ["#9DF19D", "#31C2A7", "#21A19A", "#107F8C"],
 		"angle": 135.0
+	},
+	"gradient_mable": {
+		"colors": ["#D9F4FF", "#D9F4FF"],
+		"angle": 135.0
+	},
+	"gradient_womans_day": {
+		"colors": ["#FF99CC", "#E52E6A"],
+		"angle": 135.0
 	}
 }
