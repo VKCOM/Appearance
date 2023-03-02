@@ -728,13 +728,13 @@
             "im_gradient_mable_theme_write_bar_tint": {
                 "color_identifier": "gray_100"
             },
-            "im_gradient_womans_day_theme_header_tint": {
+            "im_gradient_womens_day_theme_header_tint": {
                 "color_identifier": "pink_pastel"
             },
-            "im_gradient_womans_day_theme_accent": {
+            "im_gradient_womens_day_theme_accent": {
                 "color_identifier": "pink_pastel"
             },
-            "im_gradient_womans_day_theme_write_bar_tint": {
+            "im_gradient_womens_day_theme_write_bar_tint": {
                 "color_identifier": "pink_pastel"
             },
             "im_gradient_theme_text_primary": {
@@ -1508,13 +1508,13 @@
             "im_gradient_mable_theme_write_bar_tint": {
                 "color_identifier": "azure_300"
             },
-            "im_gradient_womans_day_theme_header_tint": {
+            "im_gradient_womens_day_theme_header_tint": {
                 "color_identifier": "pink"
             },
-            "im_gradient_womans_day_theme_accent": {
+            "im_gradient_womens_day_theme_accent": {
                 "color_identifier": "pink"
             },
-            "im_gradient_womans_day_theme_write_bar_tint": {
+            "im_gradient_womens_day_theme_write_bar_tint": {
                 "color_identifier": "pink"
             },
             "im_gradient_theme_text_primary": {
