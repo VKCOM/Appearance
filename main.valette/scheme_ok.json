@@ -348,10 +348,19 @@
             "im_bubble_gift_text_secondary": {
                 "color_identifier": "gold_250"
             },
+            "im_bubble_mable_outgoing": {
+                "color_identifier": "mable_blue_100"
+            },
             "im_bubble_mable_outgoing_expiring_highlighted": {
                 "color_identifier": "lavender_700"
             },
             "im_bubble_mable_outgoing_highlighted": {
+                "color_identifier": "mable_blue_200"
+            },
+            "im_bubble_mable_wallpaper_outgoing": {
+                "color_identifier": "mable_blue_100"
+            },
+            "im_bubble_mable_wallpaper_outgoing_highlighted": {
                 "color_identifier": "mable_blue_200"
             },
             "im_bubble_outgoing": {
@@ -1092,10 +1101,19 @@
             "im_bubble_gift_text_secondary": {
                 "color_identifier": "gold_400"
             },
+            "im_bubble_mable_outgoing": {
+                "color_identifier": "mable_blue_100"
+            },
             "im_bubble_mable_outgoing_expiring_highlighted": {
-                "color_identifier": "lavender_700"
+                "color_identifier": "lavender_250"
             },
             "im_bubble_mable_outgoing_highlighted": {
+                "color_identifier": "mable_blue_200"
+            },
+            "im_bubble_mable_wallpaper_outgoing": {
+                "color_identifier": "mable_blue_100"
+            },
+            "im_bubble_mable_wallpaper_outgoing_highlighted": {
                 "color_identifier": "mable_blue_200"
             },
             "im_bubble_outgoing": {
