@@ -60,6 +60,9 @@
                 "background_suggestions": {
                     "color_identifier": "gray_800"
                 },
+                "background_card_alpha": {
+                    "color_identifier": "white_alpha32"
+                },
                 "button_bot_shadow": {
                     "color_identifier": "gray_900"
                 },
@@ -347,6 +350,12 @@
                 },
                 "im_bubble_gift_text_secondary": {
                     "color_identifier": "gold_250"
+                },
+                "im_bubble_mable_outgoing_expiring_highlighted": {
+                    "color_identifier": "lavender_700"
+                },
+                "im_bubble_mable_outgoing_highlighted": {
+                    "color_identifier": "mable_blue_200"
                 },
                 "im_bubble_outgoing": {
                     "color_identifier": "gray_700"
@@ -704,6 +713,9 @@
                     "color_identifier": "lavender_A300",
                     "alpha_multiplier": 0.24
                 },
+                "text_highlight_alpha": {
+                    "color_identifier": "white_alpha20"
+                },
                 "skeleton_shimmer_from": {
                     "color_identifier": "gray_900"
                 },
@@ -715,7 +727,7 @@
                     "color_identifier": "gray_850"
                 },
                 "skeleton_foreground_to": {
-                    "color_identifier": "gray_800"  
+                    "color_identifier": "gray_800"
                 },
                 "primary_overlay_badge": {
                     "color_identifier": "white_alpha40"
@@ -785,6 +797,10 @@
                 },
                 "background_suggestions": {
                     "color_identifier": "white"
+                },
+                "background_card_alpha": {
+                    "color_identifier": "black_alpha20"
+
                 },
                 "button_bot_shadow": {
                     "color_identifier": "gray_200"
@@ -1073,6 +1089,12 @@
                 },
                 "im_bubble_gift_text_secondary": {
                     "color_identifier": "gold_400"
+                },
+                "im_bubble_mable_outgoing_expiring_highlighted": {
+                    "color_identifier": "lavender_700"
+                },
+                "im_bubble_mable_outgoing_highlighted": {
+                    "color_identifier": "mable_blue_200"
                 },
                 "im_bubble_outgoing": {
                     "color_identifier": "lavender_A100"
@@ -1403,7 +1425,7 @@
                     "color_identifier": "orange"
                 },
                 "dynamic_purple": {
-                    "color_identifier": "purple"   
+                    "color_identifier": "purple"
                 },
                 "dynamic_violet": {
                     "color_identifier": "violet"
@@ -1430,6 +1452,9 @@
                     "color_identifier": "lavender_A700",
                     "alpha_multiplier": 0.2
                 },
+                "text_highlight_alpha": {
+                    "color_identifier": "white_blue20"
+                },
                 "skeleton_shimmer_from": {
                     "color_identifier": "white"
                 },
@@ -1441,7 +1466,7 @@
                     "color_identifier": "gray_A40"
                 },
                 "skeleton_foreground_to": {
-                    "color_identifier": "gray_100"  
+                    "color_identifier": "gray_100"
                 },
                 "primary_overlay_badge": {
                     "color_identifier": "black_alpha60"

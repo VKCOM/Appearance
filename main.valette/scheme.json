@@ -60,6 +60,9 @@
                 "background_suggestions": {
                     "color_identifier": "gray_800"
                 },
+                "background_card_alpha": {
+                    "color_identifier": "white_alpha32"
+                },
                 "button_bot_shadow": {
                     "color_identifier": "gray_900"
                 },
@@ -347,6 +350,12 @@
                 },
                 "im_bubble_gift_text_secondary": {
                     "color_identifier": "gold_250"
+                },
+                "im_bubble_mable_outgoing_expiring_highlighted": {
+                    "color_identifier": "lavender_700"
+                },
+                "im_bubble_mable_outgoing_highlighted": {
+                    "color_identifier": "mable_blue_200"
                 },
                 "im_bubble_outgoing": {
                     "color_identifier": "gray_700"
@@ -707,6 +716,9 @@
                     "color_identifier": "sky_300",
                     "alpha_multiplier": 0.24
                 },
+                "text_highlight_alpha": {
+                    "color_identifier": "white_alpha20"
+                },
                 "skeleton_shimmer_from": {
                     "color_identifier": "gray_900"
                 },
@@ -731,7 +743,6 @@
                 },
                 "vk_donut_background": {
                     "color_identifier": "gray_850"
-                    
                 }
             }
         },
@@ -792,6 +803,9 @@
                 },
                 "background_suggestions": {
                     "color_identifier": "white"
+                },
+                "background_card_alpha": {
+                    "color_identifier": "black_alpha20"
                 },
                 "button_bot_shadow": {
                     "color_identifier": "gray_200"
@@ -1080,6 +1094,12 @@
                 },
                 "im_bubble_gift_text_secondary": {
                     "color_identifier": "gold_400"
+                },
+                "im_bubble_mable_outgoing_expiring_highlighted": {
+                    "color_identifier": "lavender_700"
+                },
+                "im_bubble_mable_outgoing_highlighted": {
+                    "color_identifier": "mable_blue_200"
                 },
                 "im_bubble_outgoing": {
                     "color_identifier": "white_blue20"
@@ -1439,6 +1459,9 @@
                 "background_text_highlighted": {
                     "color_identifier": "azure_300",
                     "alpha_multiplier": 0.2
+                },
+                "text_highlight_alpha": {
+                    "color_identifier": "white_blue20"
                 },
                 "skeleton_shimmer_from": {
                     "color_identifier": "white"

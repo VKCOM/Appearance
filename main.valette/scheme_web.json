@@ -369,6 +369,12 @@
             "im_bubble_gift_text_secondary": {
                 "color_identifier": "gold_250"
             },
+            "im_bubble_mable_outgoing_expiring_highlighted": {
+                "color_identifier": "lavender_700"
+            },
+            "im_bubble_mable_outgoing_highlighted": {
+                "color_identifier": "mable_blue_200"
+            },
             "im_bubble_outgoing": {
                 "color_identifier": "gray_700"
             },
@@ -1183,6 +1189,12 @@
             },
             "im_bubble_gift_text_secondary": {
                 "color_identifier": "gold_400"
+            },
+            "im_bubble_mable_outgoing_expiring_highlighted": {
+                "color_identifier": "lavender_700"
+            },
+            "im_bubble_mable_outgoing_highlighted": {
+                "color_identifier": "mable_blue_200"
             },
             "im_bubble_outgoing": {
                 "color_identifier": "white_blue20"
