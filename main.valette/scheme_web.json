@@ -70,6 +70,9 @@
             "background_card_alpha": {
                 "color_identifier": "white_alpha32"
             },
+            "background_overlay_secondary": {
+                "color_identifier": "gray_alpha_700"
+            },
             "button_bot_shadow": {
                 "color_identifier": "gray_900",
                 "deprecated_for_web": true
@@ -905,6 +908,9 @@
             },
             "background_card_alpha": {
                 "color_identifier": "black_alpha20"
+            },
+            "background_overlay_secondary": {
+                "color_identifier": "gray_alpha_700"
             },
             "button_bot_shadow": {
                 "color_identifier": "gray_200",

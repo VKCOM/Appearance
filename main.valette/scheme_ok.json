@@ -810,6 +810,9 @@
             "background_suggestions": {
                 "color_identifier": "white"
             },
+            "background_overlay_secondary": {
+                "color_identifier": "gray_alpha_700"
+            },
             "button_bot_shadow": {
                 "color_identifier": "gray_200"
             },
