@@ -352,13 +352,13 @@
                 "color_identifier": "gold_250"
             },
             "im_bubble_mable_outgoing": {
-                "color_identifier": "mable_blue_100"
+                "color_identifier": "blue_A400"
             },
             "im_bubble_mable_outgoing_expiring_highlighted": {
                 "color_identifier": "lavender_700"
             },
             "im_bubble_mable_outgoing_highlighted": {
-                "color_identifier": "mable_blue_200"
+                "color_identifier": "blue_A300"
             },
             "im_bubble_mable_wallpaper_outgoing": {
                 "color_identifier": "blue_A400"
