@@ -738,6 +738,15 @@
             "im_gradient_theme_forward_line": {
                 "color_identifier": "white_alpha40"
             },
+            "im_gradient_vk17_theme_header_tint": {
+                "color_identifier": "sky_300"
+            },
+            "im_gradient_vk17_theme_accent": {
+                "color_identifier": "sky_300"
+            },
+            "im_gradient_vk17_theme_write_bar_tint": {
+                "color_identifier": "sky_300"
+            },
             "im_background_primary_additional": {
                 "color_identifier": "gray_950"
             },
@@ -1508,6 +1517,15 @@
             },
             "im_gradient_theme_forward_line": {
                 "color_identifier": "white_alpha40"
+            },
+            "im_gradient_vk17_theme_header_tint": {
+                "color_identifier": "azure_A100"
+            },
+            "im_gradient_vk17_theme_accent": {
+                "color_identifier": "azure_A100"
+            },
+            "im_gradient_vk17_theme_write_bar_tint": {
+                "color_identifier": "azure_A100"
             },
             "im_background_primary_additional": {
                 "color_identifier": "white"
