@@ -1,6 +1,6 @@
 {
   "name": "@vkontakte/appearance",
-  "version": "1.0.0",
+  "version": "10.1.7",
   "description": "",
   "scripts": {
     "test": "node ./main.valette/__test__/test.js"
