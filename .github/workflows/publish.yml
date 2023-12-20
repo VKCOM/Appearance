@@ -1,0 +1,64 @@
+name: "Publish"
+
+on:
+  workflow_dispatch:
+    inputs:
+      type:
+        description: "version type:"
+        required: true
+        type: choice
+        default: "minor"
+        options:
+          - patch
+          - minor
+          - major
+      custom_version:
+        description: 'custom version: x.y.z (without "v")'
+        required: false
+
+run-name: Publish ${{ inputs.type }} ${{ inputs.custom_version }}
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.DEVTOOLS_GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+          always-auth: true
+          registry-url: "https://registry.npmjs.org"
+
+      # - run: npm run test
+      # - run: npm run build
+
+      - name: Set Git credentials
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Bump by version type
+        if: ${{ !github.event.inputs.custom_version }}
+        run: npm version ${{ github.event.inputs.type }} --no-commit-hooks -m "v%s"
+
+      - name: Bump by custom version
+        if: ${{ github.event.inputs.custom_version }}
+        run: npm version ${{ github.event.inputs.custom_version }} --no-commit-hooks -m "v%s"
+
+      - name: Pushing changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.DEVTOOLS_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          tags: true
+
+      - name: Publishing release
+        run: npm publish --non-interactive
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPMJS_PUBLISH_TOKEN }}
