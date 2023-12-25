@@ -1,6 +1,6 @@
 {
   "name": "@vkontakte/appearance",
-  "version": "10.2.0",
+  "version": "10.1.7",
   "description": "",
   "scripts": {
     "test": "node ./main.valette/__test__/test.js"
@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/VKCOM/Appearance/issues"
   },
-  "homepage": "https://github.com/VKCOM/Appearance#readme"
+  "homepage": "https://github.com/VKCOM/Appearance#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
