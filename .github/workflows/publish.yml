@@ -51,13 +51,6 @@ jobs:
         if: ${{ github.event.inputs.custom_version }}
         run: npm version ${{ github.event.inputs.custom_version }} --no-commit-hooks -m "v%s"
 
-      - name: Pushing changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.DEVTOOLS_GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-          tags: true
-
       - name: Publishing release
         run: npm publish --non-interactive
         env:
