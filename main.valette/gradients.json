@@ -142,5 +142,9 @@
 	"gradient_vk17": {
 		"colors": ["#2496FF", "#612AFC", "#2A65FC"],
 		"angle": -135.0
+	},
+	"gradient_vkVideo": {
+		"colors": ["#0A0A0A", "#0077FF", "#FF2B42"],
+		"angle": 90.0
 	}
 }
